@@ -183,3 +183,50 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [22:40:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Eduardo> listo broo
 [22:40:21] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> ven
 [22:45:30] [Server thread/INFO]: Eduardo has made the advancement [Monster Hunter]
+[22:49:05] [Server thread/INFO]: DroggyCursed has made the advancement [Diamonds!]
+[22:49:14] [User Authenticator #2/INFO]: UUID of player jopz is 50f120fd-ac67-3871-814d-d1c8d66ced41
+[22:49:15] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jopz's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:49:16] [Server thread/INFO]: jopz joined the game
+[22:49:16] [Server thread/INFO]: jopz[/127.166.114.16:48337] logged in with entity id 3354 at ([world]72.5, 122.0, -98.5)
+[22:49:16] [Server thread/INFO]: jopz has made the advancement [Getting an Upgrade]
+[22:49:24] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> bienvenidfo
+[22:49:26] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> XD
+[22:49:37] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> rt
+[22:49:54] [Server thread/INFO]: jopz has made the advancement [Monster Hunter]
+[22:49:58] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> hola
+[22:50:08] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> soy yo alex
+[22:50:15] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> holaa
+[22:50:39] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> donde andan
+[22:50:44] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> lejisimos
+[22:50:48] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> cuidate
+[22:51:21] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> no puedo mandar tpa
+[22:51:27] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> es vanilla
+[22:51:35] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> pero si mueres 3 veces te banean
+[22:52:01] [Server thread/INFO]: jopz issued server command: /skin jopz
+[22:52:11] [Server thread/INFO]: DroggyCursed has made the advancement [Sneak 100]
+[22:53:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Eduardo> consegui diamante
+[22:53:25] [Async Chat Thread - #10/INFO]: [Not Secure] <DroggyCursed> yo tmbnt
+[22:53:28] [Async Chat Thread - #10/INFO]: [Not Secure] <DroggyCursed> voy al nether
+[22:53:50] [Server thread/WARN]: [SimpleScore] Task #33264 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:54:12] [Server thread/INFO]: Eduardo has made the advancement [Acquire Hardware]
+[22:54:43] [Server thread/INFO]: Eduardo has made the advancement [Isn't It Iron Pick]
+[22:54:46] [Server thread/INFO]: DroggyCursed issued server command: /skin set DoggyCursed
+[22:54:49] [Server thread/INFO]: Eduardo has made the advancement [Diamonds!]
+[22:55:32] [Server thread/INFO]: DroggyCursed has made the advancement [Suit Up]
