@@ -1,0 +1,42 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.131.164.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752457979802
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752458094680
+  login: 1752457723227
+  kits:
+    firework: 1752436031120
+    notch: 1752436057665
+    color: 1752436074288
+money: '80'
+last-account-name: zDuckyyy
+lastlocation:
+  world: 78d6f8be-f3ad-4d8b-a07a-34f1b41ce92c
+  world-name: world
+  x: 47.725694565585506
+  y: 130.0
+  z: -69.8974224074821
+  yaw: -101.19180297851562
+  pitch: 34.92686080932617
+logoutlocation:
+  world: 78d6f8be-f3ad-4d8b-a07a-34f1b41ce92c
+  world-name: world
+  x: 202.63111469341425
+  y: 120.0
+  z: -17.69999998807907
+  yaw: 160.3282470703125
+  pitch: 19.463184356689453

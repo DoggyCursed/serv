@@ -1,0 +1,209 @@
+[21:44:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[21:44:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
+[21:44:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:44:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[21:44:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - AuthMe (5.6.0-bCUSTOM), Essentials (2.21.1), EssentialsSpawn (2.21.1), PlaceholderAPI (2.11.6), SimpleScore (3.12.5), SkinsRestorer (15.7.6), Skript (2.11.2), TAB (5.2.4)
+[21:44:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:44:08] [ServerMain/INFO]: Loaded 1407 recipes
+[21:44:08] [ServerMain/INFO]: Loaded 1520 advancements
+[21:44:08] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:44:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 454.8ms
+[21:44:09] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[21:44:09] [Server thread/INFO]: Loading properties
+[21:44:09] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[21:44:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:44:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:44:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:44:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:44:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:44:10] [Server thread/INFO]: Default game type: SURVIVAL
+[21:44:10] [Server thread/INFO]: Generating keypair
+[21:44:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:44:10] [Server thread/INFO]: Using epoll channel type
+[21:44:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:44:10] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:44:11] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[21:44:11] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[21:44:11] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
+[21:44:11] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[21:44:11] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
+[21:44:11] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[21:44:11] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[21:44:11] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
+[21:44:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:44:11] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
+[21:44:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[21:44:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:44:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
+[21:44:12] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[21:44:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:44:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:44:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:44:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:44:12] [Server thread/INFO]: Preparing level "world"
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:44:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:44:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:13] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:13] [Server thread/INFO]: Preparing spawn area: 4%
+[21:44:14] [Server thread/INFO]: Preparing spawn area: 4%
+[21:44:14] [Server thread/INFO]: Time elapsed: 1071 ms
+[21:44:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:44:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:14] [Server thread/INFO]: Time elapsed: 284 ms
+[21:44:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:44:14] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:14] [Server thread/INFO]: Time elapsed: 97 ms
+[21:44:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[21:44:15] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[21:44:15] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:44:15] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[21:44:15] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[21:44:16] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[21:44:16] [Server thread/INFO]: [Essentials] Using locale en
+[21:44:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:44:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:44:16] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:44:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:44:16] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:44:16] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
+[21:44:16] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[21:44:16] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[21:44:16] [Server thread/INFO]: [TAB] Enabled in 253ms
+[21:44:16] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
+[21:44:17] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[21:44:18] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[21:44:18] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[21:44:19] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[21:44:19] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[21:44:19] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[21:44:19] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[21:44:19] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[21:44:19] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[21:44:20] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
+[21:44:20] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
+[21:44:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[21:44:20] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 1901ms
+[21:44:20] [Server thread/INFO]: [spark] Starting background profiler...
+[21:44:21] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:44:21] [Server thread/INFO]: Done preparing level "world" (8.132s)
+[21:44:21] [Server thread/INFO]: Running delayed init tasks
+[21:44:21] [Craft Scheduler Thread - 0 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[21:44:21] [Craft Scheduler Thread - 0 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[21:44:21] [Craft Scheduler Thread - 0 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[21:44:21] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:44:21] [Craft Scheduler Thread - 0 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[21:44:21] [Server thread/INFO]: [Skript] Loading variables...
+[21:44:21] [Server thread/INFO]: [Skript] Loaded 28 variables in 0.0 seconds
+[21:44:21] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[21:44:21] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.35 seconds
+[21:44:21] [Server thread/INFO]: [Skript] Finished loading.
+[21:44:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[21:44:21] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[21:44:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[21:44:21] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[21:44:21] [Server thread/INFO]: Done (21.396s)! For help, type "help"
+[21:47:28] [User Authenticator #0/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[21:47:28] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [AuthMe, SkinsRestorer, Essentials]
+[21:47:31] [Server thread/INFO]: DoggyCursed joined the game
+[21:47:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:47:31] [Server thread/INFO]: DoggyCursed[/127.197.36.135:38531] logged in with entity id 65 at ([world]65.5, 121.0, -88.5)
+[21:47:31] [Server thread/INFO]: DoggyCursed has made the advancement [Getting an Upgrade]
+[21:47:52] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] The user DoggyCursed has 2 accounts:
+[21:47:52] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] §7asdadsasd, §aDoggyCursed§7.
+[21:47:52] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
+[21:48:41] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:48:42] [Server thread/INFO]: dragon joined the game
+[21:48:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:48:42] [Server thread/INFO]: dragon[/127.166.114.16:56435] logged in with entity id 382 at ([world]65.5, 121.0, -93.5)
+[21:48:42] [Server thread/INFO]: dragon has made the advancement [Getting an Upgrade]
+[21:49:10] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:49:10] [Server thread/INFO]: Disconnecting dragon (/127.166.114.16:44975): The same username is already playing on the server!
+[21:49:10] [Server thread/INFO]: dragon (/127.166.114.16:44975) lost connection: The same username is already playing on the server!
+[21:49:12] [Server thread/INFO]: dragon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[21:49:12] [Server thread/INFO]: dragon left the game
+[21:49:17] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:49:18] [Server thread/INFO]: dragon joined the game
+[21:49:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:49:18] [Server thread/INFO]: dragon[/127.166.114.16:34363] logged in with entity id 455 at ([world]5.5, 93.0, -3.5)
+[21:49:48] [Server thread/INFO]: dragon lost connection: Timed out
+[21:49:48] [Server thread/INFO]: dragon left the game
+[21:49:54] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:49:54] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:49:54] [Server thread/INFO]: dragon joined the game
+[21:49:54] [Server thread/INFO]: dragon[/127.166.114.16:37483] logged in with entity id 551 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[21:50:25] [Server thread/INFO]: dragon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[21:50:25] [Server thread/INFO]: dragon left the game
+[21:50:47] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:50:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:50:48] [Server thread/INFO]: dragon joined the game
+[21:50:48] [Server thread/INFO]: dragon[/127.166.114.16:40289] logged in with entity id 645 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[21:50:51] [Server thread/INFO]: DoggyCursed has made the advancement [Monster Hunter]
+[21:51:17] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:51:17] [Server thread/INFO]: Disconnecting dragon (/127.166.114.16:39425): The same username is already playing on the server!
+[21:51:17] [Server thread/INFO]: dragon (/127.166.114.16:39425) lost connection: The same username is already playing on the server!
+[21:51:18] [Server thread/INFO]: dragon lost connection: Timed out
+[21:51:18] [Server thread/INFO]: dragon left the game
+[21:51:25] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:51:26] [Server thread/INFO]: dragon joined the game
+[21:51:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:51:26] [Server thread/INFO]: dragon[/127.166.114.16:42495] logged in with entity id 898 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[21:51:49] [User Authenticator #1/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:51:50] [Server thread/INFO]: Disconnecting dragon (/127.166.114.16:42665): The same username is already playing on the server!
+[21:51:50] [Server thread/INFO]: dragon (/127.166.114.16:42665) lost connection: The same username is already playing on the server!
+[21:51:56] [Server thread/INFO]: dragon lost connection: Timed out
+[21:51:56] [Server thread/INFO]: dragon left the game
+[21:52:13] [Server thread/INFO]: [✖] DoggyCursed fue apuñalado sin piedad por un enemigo. Le quedan 2 vidas.
+[21:52:27] [Server thread/INFO]: [✖] DoggyCursed se enterró vivo por accidente. Le queda 1 vida.
+[21:52:56] [Server thread/INFO]: [✖] DoggyCursed se enterró vivo por accidente. Le quedan 0 vidas.
+[21:52:56] [Server thread/INFO]: [✖] DoggyCursed se ha quedado sin vidas y fue expulsado del servidor.
+[21:52:56] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /ban DoggyCursed Se te acabaron las 3 vidas.
+[21:52:56] [Server thread/INFO]: DoggyCursed lost connection: You have been banned:
+Se te acabaron las 3 vidas.
+[21:52:56] [Server thread/INFO]: DoggyCursed left the game
+[21:52:56] [Server thread/INFO]: [Essentials] Player Console banned DoggyCursed for: \<secondary>You have been banned:
+\<reset>Se te acabaron las 3 vidas..
+[21:53:34] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /unban DoggyCursed
+[21:53:34] [Server thread/INFO]: [Essentials] Player Console unbanned DoggyCursed
+[21:53:40] [Server thread/INFO]: Made DoggyCursed a server operator
+[21:53:44] [User Authenticator #2/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[21:53:45] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:53:45] [Server thread/INFO]: DoggyCursed joined the game
+[21:53:45] [Server thread/INFO]: DoggyCursed[/127.197.36.135:40983] logged in with entity id 1319 at ([world]5.077422295795425, 80.0, -3.787455403216232)
+[21:53:54] [Craft Scheduler Thread - 33 - AuthMe/INFO]: [AuthMe] The user DoggyCursed has 2 accounts:
+[21:53:54] [Craft Scheduler Thread - 33 - AuthMe/INFO]: [AuthMe] §7asdadsasd, §aDoggyCursed§7.
+[21:53:54] [Craft Scheduler Thread - 33 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
+[21:53:57] [Server thread/INFO]: DoggyCursed issued server command: /gamemode creative

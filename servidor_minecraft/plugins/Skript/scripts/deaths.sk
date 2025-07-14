@@ -1,0 +1,104 @@
+# Asignar 3 vidas y 0 muertes la primera vez que entra
+on first join:
+    set {vidas::%player%} to 3
+    set {muertes::%player%} to 0
+    send "&7👤 Se te han asignado &c3 vidas&7. ¡Ten cuidado!"
+
+# Evento al morir un jugador
+on death of player:
+    add 1 to {muertes::%victim%}
+    remove 1 from {vidas::%victim%}
+
+    # Primero guarda el mensaje antes de borrarlo
+    set {_msg} to uncolored death message
+    set death message to ""
+
+    # Mensaje por defecto
+    set {_texto} to "ha muerto en circunstancias misteriosas."
+
+    # Si murió por un jugador
+    if attacker is player:
+        set {_texto} to "fue eliminado por &c%attacker%&7, y todos juzgamos su habilidad de combate."
+
+    # Mensajes específicos
+    else if {_msg} contains "tried to swim in lava":
+        set {_texto} to "probó el jacuzzi de lava y se arrepintió."
+    else if {_msg} contains "fell from a high place":
+        set {_texto} to "se tiró sin paracaídas."
+    else if {_msg} contains "drowned":
+        set {_texto} to "pensó que era un pez."
+    else if {_msg} contains "was slain by":
+        set {_texto} to "fue apuñalado sin piedad por un enemigo."
+    else if {_msg} contains "was shot by":
+        set {_texto} to "recibió un flechazo en toda la cara."
+    else if {_msg} contains "blown up by":
+        set {_texto} to "voló por los aires gracias a un Creeper con exceso de cariño."
+    else if {_msg} contains "went up in flames":
+        set {_texto} to "se prendió como antorcha humana."
+    else if {_msg} contains "burned to death":
+        set {_texto} to "se cocinó lentamente como un pollo al horno."
+    else if {_msg} contains "suffocated":
+        set {_texto} to "se enterró vivo por accidente."
+    else if {_msg} contains "fell out of the world":
+        set {_texto} to "exploró el vacío... para siempre."
+    else if {_msg} contains "froze to death":
+        set {_texto} to "se convirtió en paleta congelada."
+    else if {_msg} contains "was struck by lightning":
+        set {_texto} to "fue bendecido por Zeus con un rayo fulminante."
+    else if {_msg} contains "withered away":
+        set {_texto} to "se marchitó como flor triste."
+    else if {_msg} contains "was killed by magic":
+        set {_texto} to "jugó con magia y perdió."
+    else if {_msg} contains "starved to death":
+        set {_texto} to "olvidó que la comida existía."
+    else if {_msg} contains "was pricked to death":
+        set {_texto} to "se abrazó a un cactus sin pensarlo mucho."
+    else if {_msg} contains "was impaled":
+        set {_texto} to "probó el filo de algo muy puntiagudo."
+    else if {_msg} contains "was fireballed by":
+        set {_texto} to "fue incinerado por una bola de fuego con amor."
+    else if {_msg} contains "sonically-charged shriek":
+        set {_texto} to "descubrió el canto mortal del Warden."
+
+    # Mensaje global con singular/plural
+    if {vidas::%victim%} = 1:
+        broadcast "&8[&c✖&8] &6%victim% &7%{_texto}% &cLe queda &f1 &cvida."
+    else:
+        broadcast "&8[&c✖&8] &6%victim% &7%{_texto}% &cLe quedan &f%{vidas::%victim%}% &cvidas."
+
+    # Efectos y avisos
+    if {vidas::%victim%} > 0:
+        loop all players:
+            play sound "block.portal.trigger" with volume 1 and pitch 1 at loop-player
+
+        if {vidas::%victim%} = 1:
+            send "&c⚠ Te queda &f1 &cvida. ¡Cuidado!" to victim
+        else:
+            send "&c⚠ Te quedan &f%{vidas::%victim%}% &cvidas." to victim
+
+        send "&7✖ Has muerto &f%{muertes::%victim%}% &7veces." to victim
+
+    else:
+        loop all players:
+            play sound "block.end_portal.spawn" with volume 1 and pitch 1 at loop-player
+
+        send "&4✖ Te has quedado sin vidas. ¡Has sido baneado!" to victim
+        broadcast "&8[&4✖&8] &c%victim% &7se ha quedado sin vidas y fue expulsado del servidor."
+        execute console command "ban %victim% Se te acabaron las 3 vidas."
+
+# Comando para dar vidas
+command /darvidas <player> <number>:
+    permission: vidas.admin
+    trigger:
+        set {vidas::%arg-1%} to arg-2
+        send "&a✔ Has dado &f%arg-2% &avidas a &f%arg-1%&a."
+        send "&7➤ Tus vidas han sido restablecidas a &f%arg-2%&7." to arg-1
+
+# Comando para resetear vidas y muertes
+command /resetvidas <player>:
+    permission: vidas.admin
+    trigger:
+        set {vidas::%arg-1%} to 3
+        set {muertes::%arg-1%} to 0
+        send "&a✔ Has reseteado las vidas y muertes de &f%arg-1%&a."
+        send "&7➤ Tus vidas y muertes han sido reiniciadas." to arg-1

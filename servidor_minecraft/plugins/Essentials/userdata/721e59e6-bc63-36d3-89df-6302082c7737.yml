@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.197.36.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752469066581
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752529976257
+  login: 1752530025323
+money: '1'
+last-account-name: DoggyCursed
+logoutlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 5.077422295795425
+  y: 80.0
+  z: -3.787455403216232
+  yaw: -177.7046661376953
+  pitch: 34.669010162353516
+lastlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 65.5
+  y: 121.0
+  z: -88.5
+  yaw: 0.0
+  pitch: 0.0
