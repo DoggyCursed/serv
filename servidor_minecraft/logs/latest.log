@@ -207,3 +207,24 @@ Se te acabaron las 3 vidas.
 [21:53:54] [Craft Scheduler Thread - 33 - AuthMe/INFO]: [AuthMe] §7asdadsasd, §aDoggyCursed§7.
 [21:53:54] [Craft Scheduler Thread - 33 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
 [21:53:57] [Server thread/INFO]: DoggyCursed issued server command: /gamemode creative
+[21:54:12] [Server thread/INFO]: DoggyCursed issued server command: /setspawn
+[21:54:15] [Server thread/INFO]: DoggyCursed issued server command: /setspawn DoggyCursed
+[21:54:18] [Server thread/INFO]: DoggyCursed issued server command: /setspawn
+[21:54:31] [Server thread/INFO]: DoggyCursed issued server command: /darvidas DoggyCursed 3
+[21:54:38] [Server thread/INFO]: DoggyCursed issued server command: /gamemode survival
+[21:54:40] [Server thread/INFO]: DoggyCursed issued server command: /kill DoggyCursed
+[21:54:40] [Server thread/INFO]: [✖] DoggyCursed ha muerto en circunstancias misteriosas. Le quedan 2 vidas.
+[21:54:57] [Server thread/INFO]: DoggyCursed lost connection: Disconnected
+[21:54:57] [Server thread/INFO]: DoggyCursed left the game
+[21:55:01] [User Authenticator #3/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:55:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:55:03] [Server thread/INFO]: dragon joined the game
+[21:55:03] [Server thread/INFO]: dragon[/127.166.114.16:58173] logged in with entity id 1507 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[21:55:33] [Server thread/INFO]: dragon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[21:55:33] [Server thread/INFO]: dragon left the game
+[21:57:07] [User Authenticator #4/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[21:57:08] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:57:08] [Server thread/INFO]: dragon joined the game
+[21:57:08] [Server thread/INFO]: dragon[/127.166.114.16:40097] logged in with entity id 1615 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[21:57:38] [Server thread/INFO]: dragon lost connection: Timed out
+[21:57:38] [Server thread/INFO]: dragon left the game

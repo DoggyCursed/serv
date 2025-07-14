@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752529976257
+  logout: 1752530097277
   login: 1752530025323
 money: '1'
 last-account-name: DoggyCursed
 logoutlocation:
   world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
   world-name: world
-  x: 5.077422295795425
-  y: 80.0
-  z: -3.787455403216232
-  yaw: -177.7046661376953
-  pitch: 34.669010162353516
+  x: 65.7582091419846
+  y: 121.0
+  z: -99.95055244956013
+  yaw: 141.7098388671875
+  pitch: 42.97880935668945
 lastlocation:
   world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
   world-name: world
