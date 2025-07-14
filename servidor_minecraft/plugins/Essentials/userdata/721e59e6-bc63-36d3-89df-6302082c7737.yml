@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752469066581
+  lastteleport: 1752536153930
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1752530097277
-  login: 1752530025323
+  login: 1752535742528
 money: '1'
 last-account-name: DoggyCursed
 logoutlocation:
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
   world-name: world
-  x: 65.5
-  y: 121.0
-  z: -88.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 686.180890492169
+  y: 92.05708923679731
+  z: 20.787566761827254
+  yaw: -123.35883331298828
+  pitch: 9.322924613952637

@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1752535451682
   login: 1752533356015
 money: '0'
 last-account-name: jopz
@@ -28,3 +28,11 @@ lastlocation:
   z: -98.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 179.22631079480502
+  y: 89.28239540236494
+  z: -169.47514434484196
+  yaw: 60.712799072265625
+  pitch: 23.57900047302246

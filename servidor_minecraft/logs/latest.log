@@ -1,242 +1,348 @@
-[22:25:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[22:25:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
-[22:25:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[22:25:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[22:25:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[23:28:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[23:28:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
+[23:28:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:28:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[23:28:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - Essentials (2.21.1), EssentialsSpawn (2.21.1), PlaceholderAPI (2.11.6), SimpleScore (3.12.5), SkinsRestorer (15.7.6), Skript (2.11.2), TAB (5.2.4)
-[22:25:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:25:58] [ServerMain/INFO]: Loaded 1407 recipes
-[22:25:58] [ServerMain/INFO]: Loaded 1520 advancements
-[22:25:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[22:25:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 489.4ms
-[22:25:58] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[22:25:58] [Server thread/INFO]: Loading properties
-[22:25:58] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
-[22:25:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[22:25:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:25:58] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:25:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[22:25:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[22:26:01] [Server thread/INFO]: Default game type: SURVIVAL
-[22:26:01] [Server thread/INFO]: Generating keypair
-[22:26:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:26:01] [Server thread/INFO]: Using epoll channel type
-[22:26:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:26:01] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[22:26:01] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[22:26:01] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
-[22:26:01] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
-[22:26:01] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
-[22:26:01] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
-[22:26:01] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
-[22:26:01] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
-[22:26:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:26:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
-[22:26:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
-[22:26:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[22:26:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
-[22:26:03] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[22:26:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:26:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:26:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:26:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:26:03] [Server thread/INFO]: Preparing level "world"
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[22:26:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[22:26:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:26:04] [Server thread/INFO]: Preparing spawn area: 0%
-[22:26:04] [Server thread/INFO]: Preparing spawn area: 0%
-[22:26:04] [Server thread/INFO]: Preparing spawn area: 0%
-[22:26:04] [Server thread/INFO]: Time elapsed: 1075 ms
-[22:26:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:26:05] [Server thread/INFO]: Preparing spawn area: 0%
-[22:26:05] [Server thread/INFO]: Time elapsed: 253 ms
-[22:26:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:26:05] [Server thread/INFO]: Preparing spawn area: 0%
-[22:26:05] [Server thread/INFO]: Time elapsed: 151 ms
-[22:26:05] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[22:26:05] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[22:26:05] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
-[22:26:05] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[22:26:06] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[22:26:06] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[22:26:06] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
-[22:26:06] [Server thread/INFO]: [Essentials] Using locale en
-[22:26:06] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[22:26:06] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[22:26:06] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[22:26:06] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
-[22:26:07] [Server thread/INFO]: [TAB] Enabled in 354ms
-[22:26:07] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
-[22:26:08] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
-[22:26:09] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[22:26:09] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
-[22:26:09] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[22:26:09] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
-[22:26:10] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
-[22:26:10] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
-[22:26:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
-[22:26:10] [Server thread/INFO]: [spark] Starting background profiler...
-[22:26:10] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[22:26:10] [Server thread/INFO]: Done preparing level "world" (7.605s)
-[22:26:10] [Server thread/INFO]: Running delayed init tasks
-[22:26:10] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[22:26:11] [User Authenticator #0/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
-[22:26:11] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 2304ms
-[22:26:11] [Server thread/INFO]: [Skript] Loading variables...
-[22:26:11] [Server thread/INFO]: [Skript] Loaded 38 variables in 0.0 seconds
-[22:26:12] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[22:26:12] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.48 seconds
-[22:26:12] [Server thread/INFO]: [Skript] Finished loading.
-[22:26:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[22:26:12] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
-[22:26:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[22:26:12] [Server thread/INFO]: 2 placeholder hook(s) registered!
-[22:26:12] [Server thread/INFO]: Done (22.374s)! For help, type "help"
-[22:26:12] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, Essentials]
-[22:26:15] [Server thread/INFO]: Eduardo joined the game
-[22:26:15] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[22:26:15] [Server thread/INFO]: Eduardo[/127.67.122.73:36763] logged in with entity id 77 at ([world]62.49925484321656, 122.0, -98.02998633815061)
-[22:26:29] [Server thread/INFO]: Eduardo issued server command: /login 1234
-[22:26:31] [User Authenticator #0/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[22:26:32] [Server thread/INFO]: DroggyCursed joined the game
-[22:26:32] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[22:26:32] [Server thread/INFO]: DroggyCursed[/127.197.36.135:38537] logged in with entity id 292 at ([world]9.021372700594805, 105.0, -65.72750037699143)
-[22:26:33] [Server thread/WARN]: [SimpleScore] Task #463 for SimpleScore v3.12.5 generated an exception
-java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
-	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
-	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
-	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
-	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:26:35] [Async Chat Thread - #0/INFO]: [Not Secure] <DroggyCursed> xd
-[22:26:37] [Async Chat Thread - #0/INFO]: [Not Secure] <DroggyCursed> no hace falta
-[22:26:38] [Async Chat Thread - #0/INFO]: [Not Secure] <DroggyCursed> ya
-[22:26:50] [Server thread/INFO]: Eduardo issued server command: /login 1234
-[22:27:59] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> alejate
-[22:28:00] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> un poco
-[22:31:08] [Server thread/INFO]: Eduardo has made the advancement [Sweet Dreams]
-[22:32:02] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursed> cuidado
-[22:32:04] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursed> con el golem
-[22:32:33] [Server thread/INFO]: DroggyCursed has made the advancement [Acquire Hardware]
-[22:32:41] [Server thread/INFO]: DroggyCursed has made the advancement [Isn't It Iron Pick]
-[22:33:11] [Server thread/INFO]: Eduardo has made the advancement [Stone Age]
-[22:34:29] [User Authenticator #1/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
-[22:34:30] [Server thread/INFO]: fox joined the game
-[22:34:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[22:34:30] [Server thread/INFO]: fox[/127.166.114.16:54253] logged in with entity id 1413 at ([world]63.5, 122.0, -97.5)
-[22:35:00] [Server thread/INFO]: fox lost connection: Timed out
-[22:35:00] [Server thread/INFO]: fox left the game
-[22:38:38] [Async Chat Thread - #6/INFO]: [Not Secure] <Eduardo> los otros no dieron para conectarse
-[22:38:59] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> se fueron
-[22:39:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Eduardo> si estás en vivo cierto
-[22:39:20] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> si
-[22:39:37] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> no suele venir mucha gente
-[22:39:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Eduardo> nos pasamos Minecraft o que
-[22:39:48] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> claro
-[22:39:56] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> vamos a la mina capa 16
-[22:40:05] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> ven
-[22:40:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Eduardo> listo broo
-[22:40:21] [Async Chat Thread - #6/INFO]: [Not Secure] <DroggyCursed> ven
-[22:45:30] [Server thread/INFO]: Eduardo has made the advancement [Monster Hunter]
-[22:49:05] [Server thread/INFO]: DroggyCursed has made the advancement [Diamonds!]
-[22:49:14] [User Authenticator #2/INFO]: UUID of player jopz is 50f120fd-ac67-3871-814d-d1c8d66ced41
-[22:49:15] [TAB Processing Thread/INFO]: [TAB] [WARN] Player jopz's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[22:49:16] [Server thread/INFO]: jopz joined the game
-[22:49:16] [Server thread/INFO]: jopz[/127.166.114.16:48337] logged in with entity id 3354 at ([world]72.5, 122.0, -98.5)
-[22:49:16] [Server thread/INFO]: jopz has made the advancement [Getting an Upgrade]
-[22:49:24] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> bienvenidfo
-[22:49:26] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> XD
-[22:49:37] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> rt
-[22:49:54] [Server thread/INFO]: jopz has made the advancement [Monster Hunter]
-[22:49:58] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> hola
-[22:50:08] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> soy yo alex
-[22:50:15] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> holaa
-[22:50:39] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> donde andan
-[22:50:44] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> lejisimos
-[22:50:48] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> cuidate
-[22:51:21] [Async Chat Thread - #8/INFO]: [Not Secure] <jopz> no puedo mandar tpa
-[22:51:27] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> es vanilla
-[22:51:35] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursed> pero si mueres 3 veces te banean
-[22:52:01] [Server thread/INFO]: jopz issued server command: /skin jopz
-[22:52:11] [Server thread/INFO]: DroggyCursed has made the advancement [Sneak 100]
-[22:53:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Eduardo> consegui diamante
-[22:53:25] [Async Chat Thread - #10/INFO]: [Not Secure] <DroggyCursed> yo tmbnt
-[22:53:28] [Async Chat Thread - #10/INFO]: [Not Secure] <DroggyCursed> voy al nether
-[22:53:50] [Server thread/WARN]: [SimpleScore] Task #33264 for SimpleScore v3.12.5 generated an exception
-java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
-	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
-	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
-	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
-	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[22:54:12] [Server thread/INFO]: Eduardo has made the advancement [Acquire Hardware]
-[22:54:43] [Server thread/INFO]: Eduardo has made the advancement [Isn't It Iron Pick]
-[22:54:46] [Server thread/INFO]: DroggyCursed issued server command: /skin set DoggyCursed
-[22:54:49] [Server thread/INFO]: Eduardo has made the advancement [Diamonds!]
-[22:55:32] [Server thread/INFO]: DroggyCursed has made the advancement [Suit Up]
-[22:56:00] [Server thread/INFO]: DroggyCursed has made the advancement [Hot Stuff]
-[22:56:52] [Server thread/INFO]: jopz has made the advancement [Suit Up]
-[22:56:56] [Server thread/INFO]: jopz has made the advancement [Ice Bucket Challenge]
-[22:57:40] [Server thread/INFO]: jopz has made the advancement [Stone Age]
-[22:58:38] [Server thread/INFO]: jopz issued server command: /skin jopz
-[23:00:26] [Async Chat Thread - #12/INFO]: [Not Secure] <jopz> donde estan
-[23:00:33] [Async Chat Thread - #12/INFO]: [Not Secure] <DroggyCursed> 247 -141
-[23:02:11] [Server thread/INFO]: jopz has made the advancement [Acquire Hardware]
-[23:02:40] [Server thread/INFO]: jopz has made the advancement [Sweet Dreams]
-[23:03:35] [Async Chat Thread - #14/INFO]: [Not Secure] <jopz> tenes 3 de hierro
+[23:28:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:28:28] [ServerMain/INFO]: Loaded 1407 recipes
+[23:28:28] [ServerMain/INFO]: Loaded 1520 advancements
+[23:28:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:28:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 506.5ms
+[23:28:28] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[23:28:28] [Server thread/INFO]: Loading properties
+[23:28:28] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[23:28:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:28:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:28:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:28:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:28:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:28:29] [Server thread/INFO]: Default game type: SURVIVAL
+[23:28:29] [Server thread/INFO]: Generating keypair
+[23:28:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:28:30] [Server thread/INFO]: Using epoll channel type
+[23:28:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:28:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:28:31] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[23:28:31] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[23:28:31] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[23:28:31] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
+[23:28:31] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
+[23:28:31] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[23:28:31] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
+[23:28:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:28:31] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
+[23:28:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[23:28:32] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:28:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
+[23:28:32] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[23:28:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:28:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:28:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:28:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:28:32] [Server thread/INFO]: Preparing level "world"
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:28:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:28:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:28:33] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:34] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:34] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:34] [Server thread/INFO]: Time elapsed: 1052 ms
+[23:28:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:28:34] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:34] [Server thread/INFO]: Time elapsed: 285 ms
+[23:28:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:28:34] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:34] [Server thread/INFO]: Time elapsed: 120 ms
+[23:28:34] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[23:28:34] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[23:28:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[23:28:35] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[23:28:35] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:28:35] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[23:28:35] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[23:28:35] [Server thread/INFO]: [Essentials] Using locale en
+[23:28:36] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:28:36] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:28:36] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[23:28:36] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[23:28:36] [Server thread/INFO]: [TAB] Enabled in 269ms
+[23:28:36] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
+[23:28:37] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[23:28:38] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[23:28:38] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
+[23:28:38] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[23:28:38] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[23:28:39] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
+[23:28:39] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
+[23:28:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[23:28:39] [Server thread/INFO]: [spark] Starting background profiler...
+[23:28:40] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[23:28:40] [Server thread/INFO]: Done preparing level "world" (7.402s)
+[23:28:40] [Server thread/INFO]: Running delayed init tasks
+[23:28:40] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:28:40] [User Authenticator #0/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:28:40] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 2310ms
+[23:28:40] [Server thread/INFO]: [Skript] Loading variables...
+[23:28:40] [Server thread/INFO]: [Skript] Loaded 46 variables in 0.0 seconds
+[23:28:41] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[23:28:41] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.42 seconds
+[23:28:41] [Server thread/INFO]: [Skript] Finished loading.
+[23:28:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[23:28:41] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[23:28:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[23:28:41] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[23:28:41] [Server thread/INFO]: Done (21.563s)! For help, type "help"
+[23:28:41] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, Essentials]
+[23:28:42] [Server thread/INFO]: casimerito202 joined the game
+[23:28:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:28:43] [Server thread/INFO]: casimerito202[/127.245.190.124:58803] logged in with entity id 33 at ([world]164.29907228694108, 95.20000004768372, -191.5729068211155)
+[23:28:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 86f71d16-1f17-4f28-b417-b5e564f65bdb, mapped to EnderMan['Enderman'/158, uuid='86f71d16-1f17-4f28-b417-b5e564f65bdb', l='ServerLevel[world]', x=-63.72, y=102.00, z=-17.29, cpos=[-4, -2], tl=0, v=true], can't add EnderMan['Enderman'/185, uuid='86f71d16-1f17-4f28-b417-b5e564f65bdb', l='ServerLevel[world]', x=-68.50, y=103.00, z=-2.32, cpos=[-5, -1], tl=0, v=false]
+[23:28:59] [User Authenticator #0/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[23:29:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:29:00] [Server thread/INFO]: xTaku_ joined the game
+[23:29:00] [Server thread/INFO]: xTaku_[/127.186.232.238:58029] logged in with entity id 299 at ([world]342.5085652391079, 84.0, -64.30000001192093)
+[23:29:00] [User Authenticator #0/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[23:29:02] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:29:02] [Server thread/INFO]: DoggyCursed joined the game
+[23:29:02] [Server thread/INFO]: DoggyCursed[/127.197.36.135:37827] logged in with entity id 340 at ([world]65.7582091419846, 121.0, -99.95055244956013)
+[23:29:04] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> DoggyCursed
+[23:29:05] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> DoggyCursed
+[23:29:05] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> DoggyCursed
+[23:29:05] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> DoggyCursed
+[23:29:06] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> DoggyCursed
+[23:29:07] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> DIME
+[23:29:14] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> tu eres pendejo no?
+[23:29:19] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> Why
+[23:29:25] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> existe meteor client
+[23:29:31] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> existe wurs client
+[23:29:36] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> gratis
+[23:29:38] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> pa la 1.21.7
+[23:29:40] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> XDD
+[23:29:43] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> ah XD
+[23:29:49] [Server thread/INFO]: DoggyCursed issued server command: /gamemode creative
+[23:29:51] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> pon el anti cheat
+[23:29:58] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> q anticheat me recomiendas
+[23:30:04] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> hay no se causa
+[23:30:07] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> yo tenia puesto login pero son pelotudos
+[23:30:10] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> solo no seas sano
+[23:30:16] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> eres sanaso
+[23:30:25] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> a q te refieres con sanaso
+[23:30:35] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> asu oe
+[23:30:37] [Server thread/INFO]: DoggyCursed issued server command: /banlist
+[23:30:38] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> q inocencia
+[23:30:49] [Server thread/INFO]: DoggyCursed issued server command: /unban 127.86.67.158
+[23:30:52] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> a q estas mal o pendejo :V
+[23:30:53] [Server thread/INFO]: DoggyCursed issued server command: /unbanip 127.86.67.158
+[23:30:53] [Server thread/INFO]: [Essentials] Player DoggyCursed unbanned IP: 127.86.67.158
+[23:30:58] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> bro
+[23:30:58] [Server thread/INFO]: Villager Villager['Leatherworker'/50, uuid='691a161e-0296-4b5b-ac4c-67d115d61df2', l='ServerLevel[world]', x=201.50, y=88.00, z=-177.17, cpos=[12, -12], tl=2580, v=true] died, message: 'Leatherworker was slain by Zombie'
+[23:30:59] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> tenes dc?
+[23:31:02] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> si bro
+[23:31:09] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> dale pasamelo
+[23:31:16] [Async Chat Thread - #1/INFO]: [Not Secure] <DoggyCursed> hablamos esto por privado xd
+[23:31:26] [User Authenticator #1/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[23:31:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:31:27] [Server thread/INFO]: DroggyCursed joined the game
+[23:31:27] [Server thread/INFO]: DroggyCursed[/127.197.36.135:51053] logged in with entity id 1128 at ([world]1028.699999988079, 74.0, -408.69999998807907)
+[23:31:28] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 816e12c4-662e-4a89-81af-8228dd413ccb, mapped to Salmon['Salmon'/1173, uuid='816e12c4-662e-4a89-81af-8228dd413ccb', l='ServerLevel[world]', x=1075.44, y=60.90, z=-385.10, cpos=[67, -25], tl=0, v=true], can't add Salmon['Salmon'/1193, uuid='816e12c4-662e-4a89-81af-8228dd413ccb', l='ServerLevel[world]', x=1070.99, y=62.58, z=-380.07, cpos=[66, -24], tl=0, v=false]
+[23:31:28] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 02ab7ddf-d6ac-43c9-b342-50b858e5043a, mapped to Bat['Bat'/1191, uuid='02ab7ddf-d6ac-43c9-b342-50b858e5043a', l='ServerLevel[world]', x=962.64, y=7.10, z=-412.41, cpos=[60, -26], tl=0, v=true], can't add Bat['Bat'/1203, uuid='02ab7ddf-d6ac-43c9-b342-50b858e5043a', l='ServerLevel[world]', x=957.75, y=4.82, z=-414.75, cpos=[59, -26], tl=0, v=false]
+[23:31:28] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 47e26840-0338-44eb-b6c9-2c692c5c9c8f, mapped to Salmon['Salmon'/1192, uuid='47e26840-0338-44eb-b6c9-2c692c5c9c8f', l='ServerLevel[world]', x=1071.53, y=62.39, z=-379.49, cpos=[66, -24], tl=0, v=true], can't add Salmon['Salmon'/1207, uuid='47e26840-0338-44eb-b6c9-2c692c5c9c8f', l='ServerLevel[world]', x=1072.75, y=62.03, z=-382.36, cpos=[67, -24], tl=0, v=false]
+[23:31:28] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6f2688c4-4e6e-4036-95c2-6c4a751256c1, mapped to Zombie['Zombie'/1245, uuid='6f2688c4-4e6e-4036-95c2-6c4a751256c1', l='ServerLevel[world]', x=1036.50, y=68.00, z=-312.50, cpos=[64, -20], tl=0, v=true], can't add Zombie['Zombie'/1259, uuid='6f2688c4-4e6e-4036-95c2-6c4a751256c1', l='ServerLevel[world]', x=1040.22, y=68.00, z=-312.50, cpos=[65, -20], tl=0, v=false]
+[23:31:29] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0bef84e8-5d7a-4b83-8a39-e9a1a2f531a5, mapped to Bat['Bat'/1277, uuid='0bef84e8-5d7a-4b83-8a39-e9a1a2f531a5', l='ServerLevel[world]', x=1130.22, y=19.70, z=-438.31, cpos=[70, -28], tl=0, v=true], can't add Bat['Bat'/1287, uuid='0bef84e8-5d7a-4b83-8a39-e9a1a2f531a5', l='ServerLevel[world]', x=1136.42, y=16.46, z=-440.63, cpos=[71, -28], tl=0, v=false]
+[23:31:29] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0593519e-4970-4d54-8711-80c131f92e90, mapped to Spider['Spider'/1293, uuid='0593519e-4970-4d54-8711-80c131f92e90', l='ServerLevel[world]', x=1099.50, y=63.00, z=-328.50, cpos=[68, -21], tl=0, v=true], can't add Spider['Spider'/1303, uuid='0593519e-4970-4d54-8711-80c131f92e90', l='ServerLevel[world]', x=1108.33, y=64.00, z=-327.30, cpos=[69, -21], tl=0, v=false]
+[23:31:31] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> marcoslol1234
+[23:31:38] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> esta pendeja la cuenta
+[23:31:41] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> pero joya
+[23:31:45] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> duro añitos
+[23:31:46] [User Authenticator #1/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[23:31:48] [Server thread/INFO]: Eduardo joined the game
+[23:31:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:31:48] [Server thread/INFO]: Eduardo[/127.67.122.73:46725] logged in with entity id 1461 at ([world]1064.2895312519875, 60.0, -411.30000001192093)
+[23:32:03] [Server thread/INFO]: DoggyCursed issued server command: /gamemode spectator
+[23:32:06] [Server thread/INFO]: Villager Villager['Farmer'/37, uuid='6991d153-ed06-4c24-8a25-a4177cf514e0', l='ServerLevel[world]', x=230.49, y=94.00, z=-203.46, cpos=[14, -13], tl=3922, v=true] died, message: 'Farmer was slain by Zombie'
+[23:32:19] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> avisas
+[23:32:23] [Async Chat Thread - #0/INFO]: [Not Secure] <DoggyCursed> dale
+[23:32:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Eduardo> dónde estás broo
+[23:32:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Eduardo> vamos a dormir
+[23:32:48] [Async Chat Thread - #0/INFO]: [Not Secure] <DroggyCursed> yo?
+[23:32:56] [Server thread/INFO]: casimerito202 has made the advancement [Monster Hunter]
+[23:33:02] [User Authenticator #2/INFO]: UUID of player carlitos123 is dcbc9b66-8496-36a1-9823-f3f11b1bcf0d
+[23:33:06] [Server thread/INFO]: carlitos123 joined the game
+[23:33:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player carlitos123's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:33:06] [Server thread/INFO]: carlitos123[/127.86.67.158:47741] logged in with entity id 1925 at ([world]553.7665063767031, 69.0, 63.13048121732043)
+[23:33:19] [Async Chat Thread - #0/INFO]: [Not Secure] <DoggyCursed> r
+[23:33:21] [Async Chat Thread - #0/INFO]: [Not Secure] <DoggyCursed> te mande soli
+[23:33:26] [Server thread/INFO]: DoggyCursed issued server command: /tp carlitos123
+[23:33:27] [Server thread/INFO]: [✖] casimerito202 fue apuñalado sin piedad por un enemigo. Le quedan -1 vidas.
+[23:33:27] [Server thread/INFO]: [✖] casimerito202 se ha quedado sin vidas y fue expulsado del servidor.
+[23:33:27] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /ban casimerito202 Se te acabaron las 3 vidas.
+[23:33:27] [Server thread/INFO]: casimerito202 lost connection: You have been banned:
+Se te acabaron las 3 vidas.
+[23:33:27] [Server thread/INFO]: casimerito202 left the game
+[23:33:27] [Server thread/INFO]: [Essentials] Player Console banned casimerito202 for: \<secondary>You have been banned:
+\<reset>Se te acabaron las 3 vidas..
+[23:33:30] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:33:30] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:35421): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:30] [Server thread/INFO]: casimerito202 (/127.245.190.124:35421) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:32] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:33:32] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:41441): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:32] [Server thread/INFO]: casimerito202 (/127.245.190.124:41441) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:33] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:33:33] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:45661): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:33] [Server thread/INFO]: casimerito202 (/127.245.190.124:45661) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:34] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> XD
+[23:33:35] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:33:35] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:35509): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:35] [Server thread/INFO]: casimerito202 (/127.245.190.124:35509) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:36] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> AJJAJAJAJAJ
+[23:33:37] [Async Chat Thread - #0/INFO]: [Not Secure] <DoggyCursed> xd
+[23:33:42] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:33:42] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:38207): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:42] [Server thread/INFO]: casimerito202 (/127.245.190.124:38207) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:43] [Async Chat Thread - #0/INFO]: [Not Secure] <xTaku_> lol
+[23:33:44] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:33:44] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:41667): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:33:44] [Server thread/INFO]: casimerito202 (/127.245.190.124:41667) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Eduardo> duerme
+[23:34:09] [Server thread/INFO]: DoggyCursed issued server command: /banip carlitos123
+[23:34:09] [Server thread/INFO]: [Essentials] Player DoggyCursed banned IP address 127.86.67.158 for: The Ban Hammer has spoken!.
+[23:34:09] [Server thread/INFO]: carlitos123 lost connection: You have been banned:
+The Ban Hammer has spoken!
+[23:34:09] [Server thread/INFO]: carlitos123 left the game
+[23:34:16] [User Authenticator #2/INFO]: UUID of player carlitos123 is dcbc9b66-8496-36a1-9823-f3f11b1bcf0d
+[23:34:16] [Server thread/INFO]: Disconnecting carlitos123 (/127.86.67.158:57483): Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
+[23:34:16] [Server thread/INFO]: carlitos123 (/127.86.67.158:57483) lost connection: Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
+[23:34:21] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:21] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:57409): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:21] [Server thread/INFO]: casimerito202 (/127.245.190.124:57409) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:25] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:25] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:43991): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:25] [Server thread/INFO]: casimerito202 (/127.245.190.124:43991) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:26] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:26] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:55511): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:26] [Server thread/INFO]: casimerito202 (/127.245.190.124:55511) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:28] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:28] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:58167): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:28] [Server thread/INFO]: casimerito202 (/127.245.190.124:58167) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:47] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:47] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:59527): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:47] [Server thread/INFO]: casimerito202 (/127.245.190.124:59527) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:48] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:48] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:36293): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:48] [Server thread/INFO]: casimerito202 (/127.245.190.124:36293) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:50] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:34:50] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:39157): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:50] [Server thread/INFO]: casimerito202 (/127.245.190.124:39157) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:34:56] [Server thread/INFO]: xTaku_ lost connection: Disconnected
+[23:34:56] [Server thread/INFO]: xTaku_ left the game
+[23:35:02] [User Authenticator #2/INFO]: UUID of player carlitos123 is dcbc9b66-8496-36a1-9823-f3f11b1bcf0d
+[23:35:02] [Server thread/INFO]: Disconnecting carlitos123 (/127.86.67.158:52627): Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
+[23:35:02] [Server thread/INFO]: carlitos123 (/127.86.67.158:52627) lost connection: Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
+[23:35:11] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:35:11] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:54181): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:11] [Server thread/INFO]: casimerito202 (/127.245.190.124:54181) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Eduardo> duerme broo
+[23:35:12] [User Authenticator #2/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[23:35:13] [Server thread/INFO]: xTaku_ joined the game
+[23:35:13] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:35:13] [Server thread/INFO]: xTaku_[/127.186.232.238:45561] logged in with entity id 2990 at ([world]342.30000001192093, 84.0, -61.08812464855481)
+[23:35:13] [Server thread/INFO]: DoggyCursed issued server command: /banlist
+[23:35:15] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:35:15] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:47111): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:15] [Server thread/INFO]: casimerito202 (/127.245.190.124:47111) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:18] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:35:18] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:45995): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:18] [Server thread/INFO]: casimerito202 (/127.245.190.124:45995) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:22] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:35:22] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:49759): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:22] [Server thread/INFO]: casimerito202 (/127.245.190.124:49759) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:35:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Eduardo> duerman
+[23:35:53] [Server thread/INFO]: DoggyCursed issued server command: /tp xTaku_
+[23:36:00] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ dale
+[23:36:02] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ decime
+[23:36:08] [Server thread/INFO]: xTaku_ issued server command: /r tpate p
+[23:36:08] [Server thread/INFO]: [Essentials] xTaku_ was denied access to command.
+[23:36:13] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> no tengo msg
+[23:36:17] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> recien la creas?
+[23:36:18] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> xd
+[23:36:29] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ nop pero como es vanilla solo yo tengo acceso a plugins xd
+[23:36:33] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> :v
+[23:36:35] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ mas sencillo no crees?XD
+[23:36:38] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> se
+[23:36:48] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> asme tpa
+[23:36:50] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ todo lo q es las configs las hago yo aparte con op y ya
+[23:36:57] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ t estoy viendo
+[23:37:04] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> mira
+[23:37:12] [Server thread/WARN]: xTaku_ was kicked for floating too long!
+[23:37:12] [Server thread/INFO]: xTaku_ lost connection: Flying is not enabled on this server
+[23:37:12] [Server thread/INFO]: xTaku_ left the game
+[23:37:15] [Server thread/INFO]: DoggyCursed issued server command: /tp xTaku_
+[23:37:15] [User Authenticator #3/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[23:37:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:37:16] [Server thread/INFO]: xTaku_ joined the game
+[23:37:16] [Server thread/INFO]: xTaku_[/127.186.232.238:40083] logged in with entity id 3553 at ([world]341.9495854622637, 273.42998287976303, -65.96585444019468)
+[23:37:36] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ ah si tenes
+[23:37:43] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ bunny hops en el aire y todo xDD
+[23:37:44] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:44] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:59747): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:44] [Server thread/INFO]: casimerito202 (/127.245.190.124:59747) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:45] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> abajo mio hay copper
+[23:37:45] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:45] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:45181): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:45] [Server thread/INFO]: casimerito202 (/127.245.190.124:45181) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:46] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:46] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:35623): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:46] [Server thread/INFO]: casimerito202 (/127.245.190.124:35623) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:47] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:47] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:41363): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:47] [Server thread/INFO]: casimerito202 (/127.245.190.124:41363) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:52] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:52] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:50341): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:52] [Server thread/INFO]: casimerito202 (/127.245.190.124:50341) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:54] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:54] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:46933): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:54] [Server thread/INFO]: casimerito202 (/127.245.190.124:46933) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:55] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:37:55] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:55749): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:37:55] [Server thread/INFO]: casimerito202 (/127.245.190.124:55749) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:38:01] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[23:38:01] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:42067): You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:38:02] [Server thread/INFO]: casimerito202 (/127.245.190.124:42067) lost connection: You are banned from this server. Reason: Se te acabaron las 3 vidas.
+[23:38:02] [Server thread/INFO]: DoggyCursed issued server command: /w xTaku_ dale deja pongo rapido el anticheat
+[23:38:11] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> ya
+[23:38:17] [Server thread/INFO]: xTaku_ lost connection: Disconnected
+[23:38:17] [Server thread/INFO]: xTaku_ left the game

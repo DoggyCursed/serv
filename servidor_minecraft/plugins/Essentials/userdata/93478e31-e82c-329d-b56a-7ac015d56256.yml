@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752531921323
-  login: 1752531975878
+  logout: 1752535561533
+  login: 1752535909003
 money: '0'
 last-account-name: Eduardo
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
   world-name: world
-  x: 62.49925484321656
-  y: 122.0
-  z: -98.02998633815061
-  yaw: -88.6873550415039
-  pitch: 90.0
+  x: 1064.2895312519875
+  y: 60.0
+  z: -411.30000001192093
+  yaw: 109.225830078125
+  pitch: 21.74998664855957

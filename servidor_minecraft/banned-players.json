@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "32cc71d2-420c-344c-9b00-0223d4baedd0",
+    "name": "casimerito202",
+    "created": "2025-07-14 23:33:27 +0000",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Se te acabaron las 3 vidas."
+  }
+]
