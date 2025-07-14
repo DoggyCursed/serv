@@ -228,3 +228,121 @@ Se te acabaron las 3 vidas.
 [21:57:08] [Server thread/INFO]: dragon[/127.166.114.16:40097] logged in with entity id 1615 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
 [21:57:38] [Server thread/INFO]: dragon lost connection: Timed out
 [21:57:38] [Server thread/INFO]: dragon left the game
+[22:07:13] [User Authenticator #5/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[22:07:15] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:07:15] [Server thread/INFO]: DroggyCursed joined the game
+[22:07:15] [Server thread/INFO]: DroggyCursed[/127.197.36.135:47007] logged in with entity id 1694 at ([world]60.5, 123.0, -89.5)
+[22:07:15] [Server thread/INFO]: DroggyCursed has made the advancement [Getting an Upgrade]
+[22:07:19] [Server thread/WARN]: [SimpleScore] Task #27717 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getCurrentText(PlayerLine.kt:13) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:136) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:07:45] [Server thread/INFO]: DroggyCursed lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:07:45] [Server thread/INFO]: DroggyCursed left the game
+[22:08:13] [User Authenticator #6/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[22:08:14] [Server thread/INFO]: DroggyCursed joined the game
+[22:08:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:08:14] [Server thread/INFO]: DroggyCursed[/127.197.36.135:50461] logged in with entity id 1766 at ([world]63.5, 122.0, -97.5)
+[22:08:27] [Server thread/INFO]: [AuthMe] DroggyCursed registered 127.197.36.135
+[22:08:27] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] The user DroggyCursed has 3 accounts:
+[22:08:27] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] §7asdadsasd, doggycursed, §aDroggyCursed§7.
+[22:08:27] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] DroggyCursed logged in 127.197.36.135
+[22:09:00] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:09:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:09:04] [Server thread/INFO]: yuniendry joined the game
+[22:09:04] [Server thread/INFO]: yuniendry[/127.67.122.73:57873] logged in with entity id 1855 at ([world]61.5, 120.0, -85.5)
+[22:09:04] [Server thread/INFO]: yuniendry has made the advancement [Getting an Upgrade]
+[22:09:34] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:09:34] [Server thread/INFO]: yuniendry left the game
+[22:09:39] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:09:40] [Server thread/INFO]: yuniendry joined the game
+[22:09:40] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:09:40] [Server thread/INFO]: yuniendry[/127.67.122.73:48633] logged in with entity id 1928 at ([world]63.15805663967587, 122.0, -97.09712313449735)
+[22:10:10] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:10:10] [Server thread/INFO]: yuniendry left the game
+[22:10:16] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:10:17] [Server thread/INFO]: yuniendry joined the game
+[22:10:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:10:17] [Server thread/INFO]: yuniendry[/127.67.122.73:53641] logged in with entity id 2108 at ([world]63.24793157734109, 122.0, -97.41349553104637)
+[22:10:29] [Server thread/INFO]: DroggyCursed has made the advancement [Monster Hunter]
+[22:10:47] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:10:47] [Server thread/INFO]: yuniendry left the game
+[22:10:51] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:10:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:10:52] [Server thread/INFO]: yuniendry joined the game
+[22:10:52] [Server thread/INFO]: yuniendry[/127.67.122.73:47437] logged in with entity id 2383 at ([world]63.24793157734109, 122.0, -97.41349553104637)
+[22:11:06] [User Authenticator #6/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[22:11:07] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:11:07] [Server thread/INFO]: dragon joined the game
+[22:11:07] [Server thread/INFO]: dragon[/127.166.114.16:36689] logged in with entity id 2657 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[22:11:09] [Server thread/INFO]: DroggyCursed has made the advancement [Sweet Dreams]
+[22:11:11] [Server thread/INFO]: yuniendry issued server command: /register1234
+[22:11:22] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:11:22] [Server thread/INFO]: yuniendry left the game
+[22:11:34] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:11:35] [Server thread/INFO]: yuniendry joined the game
+[22:11:35] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:11:35] [Server thread/INFO]: yuniendry[/127.67.122.73:52407] logged in with entity id 2728 at ([world]63.24793157734109, 122.0, -97.41349553104637)
+[22:11:37] [Server thread/INFO]: dragon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:11:37] [User Authenticator #6/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[22:11:37] [Server thread/INFO]: dragon left the game
+[22:11:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:11:38] [Server thread/INFO]: dragon joined the game
+[22:11:38] [Server thread/INFO]: dragon[/127.166.114.16:39707] logged in with entity id 2738 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[22:12:05] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:12:05] [Server thread/INFO]: yuniendry left the game
+[22:12:05] [User Authenticator #6/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[22:12:05] [Server thread/INFO]: Disconnecting dragon (/127.166.114.16:48589): The same username is already playing on the server!
+[22:12:05] [Server thread/INFO]: dragon (/127.166.114.16:48589) lost connection: The same username is already playing on the server!
+[22:12:08] [Server thread/INFO]: dragon lost connection: Timed out
+[22:12:08] [Server thread/INFO]: dragon left the game
+[22:12:09] [User Authenticator #6/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[22:12:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:12:10] [Server thread/INFO]: dragon joined the game
+[22:12:10] [Server thread/INFO]: dragon[/127.166.114.16:44405] logged in with entity id 2898 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[22:12:17] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:12:18] [Server thread/INFO]: yuniendry joined the game
+[22:12:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:12:18] [Server thread/INFO]: yuniendry[/127.67.122.73:37365] logged in with entity id 2995 at ([world]63.24793157734109, 122.0, -97.41349553104637)
+[22:12:40] [Server thread/INFO]: dragon lost connection: Timed out
+[22:12:40] [Server thread/INFO]: dragon left the game
+[22:12:45] [Server thread/INFO]: yuniendry issued server command: /register_1234
+[22:12:48] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:12:48] [Server thread/INFO]: yuniendry left the game
+[22:12:55] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:12:56] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:12:56] [Server thread/INFO]: yuniendry joined the game
+[22:12:56] [Server thread/INFO]: yuniendry[/127.67.122.73:52307] logged in with entity id 3118 at ([world]63.24793157734109, 122.0, -97.41349553104637)
+[22:13:26] [Server thread/INFO]: yuniendry issued server command: /register_1234_1234
+[22:13:26] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:13:26] [Server thread/INFO]: yuniendry left the game
+[22:13:33] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:13:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:13:34] [Server thread/INFO]: yuniendry joined the game
+[22:13:34] [Server thread/INFO]: yuniendry[/127.67.122.73:50125] logged in with entity id 3271 at ([world]63.02681289726801, 122.0, -97.5275430702554)
+[22:14:04] [User Authenticator #6/INFO]: UUID of player dragon is 61db925b-4e90-3aaf-a9dc-d420f47037cc
+[22:14:04] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:14:04] [Server thread/INFO]: yuniendry left the game
+[22:14:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player dragon's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:14:06] [Server thread/INFO]: dragon joined the game
+[22:14:06] [Server thread/INFO]: dragon[/127.166.114.16:59877] logged in with entity id 3418 at ([world]5.482500176616398, 93.0, -3.3936974988464654)
+[22:14:10] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:14:11] [Server thread/INFO]: yuniendry joined the game
+[22:14:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:14:11] [Server thread/INFO]: yuniendry[/127.67.122.73:43597] logged in with entity id 3499 at ([world]63.02681289726801, 122.0, -97.5275430702554)
+[22:14:36] [Server thread/INFO]: dragon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:14:36] [Server thread/INFO]: dragon left the game
