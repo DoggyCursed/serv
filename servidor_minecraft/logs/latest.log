@@ -346,3 +346,151 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [22:14:11] [Server thread/INFO]: yuniendry[/127.67.122.73:43597] logged in with entity id 3499 at ([world]63.02681289726801, 122.0, -97.5275430702554)
 [22:14:36] [Server thread/INFO]: dragon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
 [22:14:36] [Server thread/INFO]: dragon left the game
+[22:14:41] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:14:41] [Server thread/INFO]: yuniendry left the game
+[22:14:47] [User Authenticator #6/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:14:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:14:48] [Server thread/INFO]: yuniendry joined the game
+[22:14:48] [Server thread/INFO]: yuniendry[/127.67.122.73:36211] logged in with entity id 3617 at ([world]63.02681289726801, 122.0, -97.5275430702554)
+[22:15:07] [Server thread/INFO]: yuniendry issued server command: /register_1234_1234
+[22:15:18] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:15:18] [Server thread/INFO]: yuniendry left the game
+[22:16:30] [User Authenticator #7/INFO]: UUID of player yuniendry is a9757a4c-95cf-3bab-877b-a61753bf731e
+[22:16:32] [TAB Processing Thread/INFO]: [TAB] [WARN] Player yuniendry's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:16:32] [Server thread/INFO]: yuniendry joined the game
+[22:16:32] [Server thread/INFO]: yuniendry[/127.67.122.73:41157] logged in with entity id 3912 at ([world]63.02681289726801, 122.0, -97.5275430702554)
+[22:16:49] [Server thread/INFO]: yuniendry issued server command: /register_234_234
+[22:17:02] [Server thread/INFO]: yuniendry lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:17:02] [Server thread/INFO]: yuniendry left the game
+[22:17:58] [User Authenticator #8/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[22:18:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:18:00] [Server thread/INFO]: fox joined the game
+[22:18:00] [Server thread/INFO]: fox[/127.166.114.16:49379] logged in with entity id 4343 at ([world]56.5, 124.0, -90.5)
+[22:18:00] [Server thread/INFO]: fox has made the advancement [Getting an Upgrade]
+[22:18:30] [Server thread/INFO]: fox lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:18:30] [Server thread/INFO]: fox left the game
+[22:18:36] [User Authenticator #8/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[22:18:37] [Server thread/INFO]: fox joined the game
+[22:18:37] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:18:37] [Server thread/INFO]: fox[/127.166.114.16:48751] logged in with entity id 4592 at ([world]63.5, 122.0, -97.5)
+[22:18:57] [User Authenticator #8/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:19:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:19:01] [Server thread/INFO]: Eduardo joined the game
+[22:19:01] [Server thread/INFO]: Eduardo[/127.67.122.73:40237] logged in with entity id 4729 at ([world]55.5, 124.0, -86.5)
+[22:19:01] [Server thread/INFO]: Eduardo has made the advancement [Getting an Upgrade]
+[22:19:07] [Server thread/INFO]: fox lost connection: Timed out
+[22:19:07] [Server thread/INFO]: fox left the game
+[22:19:13] [Server thread/INFO]: DroggyCursed has made the advancement [Stone Age]
+[22:19:21] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> -- /register clave clave
+[22:19:22] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> -- /register clave clave
+[22:19:26] [User Authenticator #8/INFO]: UUID of player fox is 1ca0e676-437f-38b4-9880-b5242051dc08
+[22:19:27] [Server thread/INFO]: fox joined the game
+[22:19:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player fox's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:19:27] [Server thread/INFO]: fox[/127.166.114.16:56279] logged in with entity id 4824 at ([world]63.5, 122.0, -97.5)
+[22:19:30] [Server thread/INFO]: Eduardo issued server command: /register_1234_1234
+[22:19:31] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:19:31] [Server thread/INFO]: Eduardo left the game
+[22:19:35] [User Authenticator #8/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:19:36] [Server thread/INFO]: Eduardo joined the game
+[22:19:36] [Server thread/INFO]: Eduardo[/127.67.122.73:41575] logged in with entity id 4868 at ([world]62.94175776125757, 122.0, -97.69559289477154)
+[22:19:36] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:19:55] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> hola
+[22:19:57] [Server thread/INFO]: fox lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:19:57] [Server thread/INFO]: fox left the game
+[22:20:06] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:20:06] [Server thread/INFO]: Eduardo left the game
+[22:20:42] [Server thread/WARN]: [SimpleScore] Task #44091 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:21:18] [Server thread/WARN]: [SimpleScore] Task #44811 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getCurrentText(PlayerLine.kt:13) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:136) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:21:26] [User Authenticator #9/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:21:27] [Server thread/INFO]: Eduardo joined the game
+[22:21:27] [Server thread/INFO]: Eduardo[/127.67.122.73:45465] logged in with entity id 5171 at ([world]62.30000001192093, 122.0, -97.92059553842618)
+[22:21:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:21:45] [Server thread/INFO]: Eduardo issued server command: /register_5454_5454
+[22:21:57] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:21:57] [Server thread/INFO]: Eduardo left the game
+[22:22:01] [User Authenticator #9/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:22:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:22:03] [Server thread/INFO]: Eduardo joined the game
+[22:22:03] [Server thread/INFO]: Eduardo[/127.67.122.73:49731] logged in with entity id 5334 at ([world]62.30000001192093, 122.0, -97.92059553842618)
+[22:22:18] [Server thread/INFO]: Eduardo issued server command: /login_1234
+[22:22:33] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:22:33] [Server thread/INFO]: Eduardo left the game
+[22:22:36] [Server thread/WARN]: [SimpleScore] Task #46400 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:22:38] [User Authenticator #9/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:22:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:22:39] [Server thread/INFO]: Eduardo joined the game
+[22:22:39] [Server thread/INFO]: Eduardo[/127.67.122.73:45787] logged in with entity id 5483 at ([world]62.30000001192093, 122.0, -97.99734500359644)
+[22:23:09] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:23:09] [Server thread/INFO]: Eduardo left the game
+[22:23:13] [User Authenticator #9/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:23:14] [Server thread/INFO]: Eduardo joined the game
+[22:23:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:23:14] [Server thread/INFO]: Eduardo[/127.67.122.73:51361] logged in with entity id 5621 at ([world]62.49925484321656, 122.0, -98.02998633815061)
+[22:23:44] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:23:44] [Server thread/INFO]: Eduardo left the game
+[22:23:48] [User Authenticator #9/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:23:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:23:49] [Server thread/INFO]: Eduardo joined the game
+[22:23:49] [Server thread/INFO]: Eduardo[/127.67.122.73:37925] logged in with entity id 5779 at ([world]62.49925484321656, 122.0, -98.02998633815061)
+[22:24:19] [Server thread/INFO]: Eduardo lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[22:24:19] [Server thread/INFO]: Eduardo left the game
+[22:24:24] [User Authenticator #9/INFO]: UUID of player Eduardo is 93478e31-e82c-329d-b56a-7ac015d56256
+[22:24:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Eduardo's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[22:24:25] [Server thread/INFO]: Eduardo joined the game
+[22:24:25] [Server thread/INFO]: Eduardo[/127.67.122.73:48553] logged in with entity id 6009 at ([world]62.49925484321656, 122.0, -98.02998633815061)
+[22:24:40] [Server thread/INFO]: Reloading!
+[22:24:40] [Server thread/INFO]: Loaded 1407 recipes
+[22:24:40] [Server thread/INFO]: Loaded 1520 advancements
+[22:24:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+Xd<--[HERE]
