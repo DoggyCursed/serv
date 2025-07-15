@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1752556134013
+  logout: 1752556565061
+  login: 1752556695229
 money: '0'
 last-account-name: 66kq
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: -98.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 185.87853925219912
+  y: 89.17675927506424
+  z: -168.97885748811686
+  yaw: 43.90909194946289
+  pitch: 9.223193168640137

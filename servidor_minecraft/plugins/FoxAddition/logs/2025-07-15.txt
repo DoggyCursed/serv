@@ -29,3 +29,14 @@
 [2025-07-15 04:50:40] 
 [2025-07-15 04:50:40] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
 [2025-07-15 05:08:42] [ALERT] DroggyCursedd detected Reach (Hit) [in:vertical] [distance:4.464159374955443/4.1] [ping:-1] [vls:1(+1)]
+[2025-07-15 05:14:10] [ALERT] DroggyCursedd detected Phase [Block:BLACKSTONE_SLAB] [loc:1018.5, 33.9, 603.8] [vls:1(+1)]
+[2025-07-15 05:14:10] [ALERT] DroggyCursedd detected Phase [Block:BLACKSTONE_SLAB] [loc:1018.6, 33.9, 603.8] [vls:1(+1)]
+[2025-07-15 05:14:11] [ALERT] DroggyCursedd detected Phase [Block:BLACKSTONE_SLAB] [loc:1018.6, 33.9, 603.8] [vls:1(+1)]
+[2025-07-15 05:14:11] [ALERT] DroggyCursedd detected Phase [Block:BLACKSTONE_SLAB] [loc:1018.6, 33.9, 604.0] [vls:1(+1)]
+[2025-07-15 05:14:11] [ALERT] DroggyCursedd detected Phase [Block:BLACKSTONE_SLAB] [loc:1018.6, 33.9, 603.9] [vls:1(+1)]
+[2025-07-15 05:18:02] 
+[2025-07-15 05:18:02] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-15 05:20:46] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:30/50] [vls:2(+2)]
+[2025-07-15 05:22:39] [ALERT] DroggyCursedd detected Reach (Hit) [in:vertical] [distance:5.306766547678642/4.1] [ping:-1] [vls:1(+1)]
+[2025-07-15 05:23:49] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:27/50] [vls:2(+2)]
+[2025-07-15 05:27:06] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:43/50] [vls:2(+2)]
