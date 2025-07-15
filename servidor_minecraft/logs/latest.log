@@ -347,3 +347,8 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [15:17:21] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
 [15:17:21] [Server thread/INFO]: [X: 491, Y: 80, Z: 2285] [15:17:21]
 [15:18:13] [Server thread/INFO]: DroggyCursedd removed one flag
+[15:30:15] [Server thread/INFO]: 
+[15:30:15] [Server thread/INFO]: DroggyCursedd failed AntiKnockBack A (Movement) Flags: 1
+[15:30:15] [Server thread/INFO]: [X: 288, Y: 85, Z: 2269] [15:30:15]
+[15:30:44] [Server thread/INFO]: DroggyCursedd has made the advancement [Take Aim]
+[15:31:13] [Server thread/INFO]: DroggyCursedd removed one flag
