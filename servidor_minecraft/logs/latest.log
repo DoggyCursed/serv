@@ -499,3 +499,87 @@ We suspect you are using client modifications (3rd-party software)
 [20:01:23] [Server thread/INFO]: [X: 370, Y: 78, Z: 258] [20:01:23]
 [20:01:36] [Server thread/INFO]: DoggyCursed removed one flag
 [20:02:36] [Server thread/INFO]: DoggyCursed removed one flag
+[20:02:46] [User Authenticator #7/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[20:02:46] [Server thread/INFO]: Disconnecting DoggyCursed (/127.197.36.135:36525): The same username is already playing on the server!
+[20:02:46] [Server thread/INFO]: DoggyCursed (/127.197.36.135:36525) lost connection: The same username is already playing on the server!
+[20:02:46] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:02:46] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:37177): The same username is already playing on the server!
+[20:02:46] [Server thread/INFO]: casimerito202 (/127.245.190.124:37177) lost connection: The same username is already playing on the server!
+[20:02:49] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:02:49] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:58009): The same username is already playing on the server!
+[20:02:49] [Server thread/INFO]: casimerito202 (/127.245.190.124:58009) lost connection: The same username is already playing on the server!
+[20:02:49] [Server thread/INFO]: DoggyCursed lost connection: Timed out
+[20:02:49] [Server thread/INFO]: DoggyCursed left the game
+[20:02:50] [User Authenticator #8/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[20:02:51] [Server thread/INFO]: casimerito202 was kicked due to keepalive timeout!
+[20:02:51] [Server thread/INFO]: casimerito202 lost connection: Timed out
+[20:02:51] [Server thread/INFO]: casimerito202 left the game
+[20:02:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:02:51] [Server thread/INFO]: DoggyCursed joined the game
+[20:02:51] [Server thread/INFO]: DoggyCursed[/127.197.36.135:38061] logged in with entity id 16943 at ([world]360.57694180242584, 55.0, 294.30000001192093)
+[20:02:52] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:02:53] [Server thread/INFO]: casimerito202 joined the game
+[20:02:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:02:53] [Server thread/INFO]: casimerito202[/127.245.190.124:36397] logged in with entity id 16956 at ([world]382.1907119793158, 63.0, 306.5614252844547)
+[20:02:56] [Craft Scheduler Thread - 383 - AuthMe/INFO]: [AuthMe] The user DoggyCursed has 3 accounts:
+[20:02:56] [Craft Scheduler Thread - 383 - AuthMe/INFO]: [AuthMe] §7§aDoggyCursed§7, droggycursed, droggycursedd.
+[20:02:56] [Craft Scheduler Thread - 383 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
+[20:03:08] [Craft Scheduler Thread - 382 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[20:03:08] [Craft Scheduler Thread - 382 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[20:03:08] [Craft Scheduler Thread - 382 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[20:03:17] [Server thread/INFO]: 
+[20:03:17] [Server thread/INFO]: DoggyCursed failed AntiKnockBack A (Movement) Flags: 1
+[20:03:17] [Server thread/INFO]: [X: 367, Y: 46, Z: 298] [20:03:17]
+[20:03:22] [Server thread/INFO]: [✖] DoggyCursed voló por los aires gracias a un Creeper con exceso de cariño. Le queda 1 vida.
+[20:03:36] [Server thread/INFO]: DoggyCursed removed one flag
+[20:03:37] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:03:38] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:50837): The same username is already playing on the server!
+[20:03:38] [Server thread/INFO]: casimerito202 (/127.245.190.124:50837) lost connection: The same username is already playing on the server!
+[20:03:39] [User Authenticator #8/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[20:03:39] [Server thread/INFO]: Disconnecting DoggyCursed (/127.197.36.135:55905): The same username is already playing on the server!
+[20:03:39] [Server thread/INFO]: DoggyCursed (/127.197.36.135:55905) lost connection: The same username is already playing on the server!
+[20:03:42] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:03:42] [Server thread/INFO]: Disconnecting casimerito202 (/127.245.190.124:41499): The same username is already playing on the server!
+[20:03:42] [Server thread/INFO]: casimerito202 (/127.245.190.124:41499) lost connection: The same username is already playing on the server!
+[20:03:42] [User Authenticator #8/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[20:03:42] [Server thread/INFO]: Disconnecting DoggyCursed (/127.197.36.135:48741): The same username is already playing on the server!
+[20:03:42] [Server thread/INFO]: DoggyCursed (/127.197.36.135:48741) lost connection: The same username is already playing on the server!
+[20:03:45] [Server thread/INFO]: casimerito202 lost connection: Timed out
+[20:03:45] [Server thread/INFO]: casimerito202 left the game
+[20:03:46] [Server thread/INFO]: DoggyCursed lost connection: Timed out
+[20:03:46] [Server thread/INFO]: DoggyCursed left the game
+[20:03:55] [User Authenticator #8/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[20:03:58] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:04:11] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:04:12] [User Authenticator #8/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[20:04:13] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:04:13] [Server thread/INFO]: DoggyCursed joined the game
+[20:04:13] [Server thread/INFO]: DoggyCursed[/127.197.36.135:40035] logged in with entity id 17078 at ([world]367.1745132920988, 46.17675927506424, 298.6629730635343)
+[20:04:24] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:04:25] [Server thread/INFO]: DoggyCursed (/127.197.36.135:41137) lost connection: Timed out
+[20:04:28] [Craft Scheduler Thread - 386 - AuthMe/INFO]: [AuthMe] The user DoggyCursed has 3 accounts:
+[20:04:28] [Craft Scheduler Thread - 386 - AuthMe/INFO]: [AuthMe] §7§aDoggyCursed§7, droggycursed, droggycursedd.
+[20:04:28] [Craft Scheduler Thread - 386 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
+[20:04:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d46b348[id=32cc71d2-420c-344c-9b00-0223d4baedd0,name=casimerito202,properties={}] lost connection: Timed out
+[20:04:32] [Async Chat Thread - #6/INFO]: [Not Secure] <DoggyCursed> te mato?
+[20:04:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@55f48aac[id=32cc71d2-420c-344c-9b00-0223d4baedd0,name=casimerito202,properties={}] lost connection: Timed out
+[20:04:48] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:04:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@776d08e[id=32cc71d2-420c-344c-9b00-0223d4baedd0,name=casimerito202,properties={}] lost connection: Timed out
+[20:05:14] [Server thread/INFO]: ✔ Has dado 1 vidas a DoggyCursed.
+[20:05:14] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:05:18] [Server thread/INFO]: casimerito202 (/127.245.190.124:48307) lost connection: Timed out
+[20:05:28] [Server thread/INFO]: Correct usage: /darvidas <player> <number>
+[20:05:29] [User Authenticator #8/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[20:05:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:05:30] [Server thread/INFO]: casimerito202 joined the game
+[20:05:30] [Server thread/INFO]: casimerito202[/127.245.190.124:40261] logged in with entity id 17338 at ([world]373.0946504153643, 60.231523797587016, 300.2088652393693)
+[20:05:42] [Craft Scheduler Thread - 389 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[20:05:42] [Craft Scheduler Thread - 389 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[20:05:42] [Craft Scheduler Thread - 389 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[20:05:43] [Server thread/INFO]: casimerito202 (/127.245.190.124:33949) lost connection: Timed out
+[20:05:59] [Server thread/INFO]: ✔ Has dado 2 vidas a DoggyCursed.
+[20:07:11] [Async Chat Thread - #8/INFO]: [Not Secure] <casimerito202> oki
+[20:08:33] [Server thread/INFO]: casimerito202 lost connection: Disconnected
+[20:08:33] [Server thread/INFO]: casimerito202 left the game
+[20:08:45] [Server thread/INFO]: DoggyCursed lost connection: Disconnected
+[20:08:45] [Server thread/INFO]: DoggyCursed left the game
