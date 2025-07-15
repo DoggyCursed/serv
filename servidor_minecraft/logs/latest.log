@@ -327,3 +327,48 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [19:05:22] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
 [19:05:22] [Server thread/INFO]: [X: -125, Y: 43, Z: -104] [19:05:22]
 [19:05:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:13:40] [Server thread/INFO]: 
+[19:13:40] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[19:13:40] [Server thread/INFO]: [X: -305, Y: 52, Z: 147] [19:13:40]
+[19:14:24] [User Authenticator #2/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[19:14:25] [Server thread/INFO]: casimerito202 joined the game
+[19:14:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:14:25] [Server thread/INFO]: casimerito202[/127.245.190.124:53357] logged in with entity id 8230 at ([world]438.8078599858316, 80.0, 267.41273873843977)
+[19:14:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:14:42] [Craft Scheduler Thread - 199 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[19:14:42] [Craft Scheduler Thread - 199 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[19:14:42] [Craft Scheduler Thread - 199 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[19:14:44] [Server thread/INFO]: 
+[19:14:44] [Server thread/INFO]: casimerito202 failed Speed B (Movement) Flags: 1
+[19:14:44] [Server thread/INFO]: [X: 429, Y: 80, Z: 267] [19:14:44]
+[19:14:56] [Server thread/INFO]: [✖] casimerito202 fue apuñalado sin piedad por un enemigo. Le quedan 2 vidas.
+[19:15:06] [Async Chat Thread - #2/INFO]: [Not Secure] <DoggyCursed> noo
+[19:15:07] [Async Chat Thread - #2/INFO]: [Not Secure] <DoggyCursed> cuidado
+[19:15:12] [Server thread/INFO]: casimerito202 lost connection: Disconnected
+[19:15:12] [Server thread/INFO]: casimerito202 left the game
+[19:15:36] [Server thread/INFO]: casimerito202 removed one flag
+[19:16:00] [User Authenticator #3/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[19:16:02] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:16:02] [Server thread/INFO]: casimerito202 joined the game
+[19:16:02] [Server thread/INFO]: casimerito202[/127.245.190.124:47541] logged in with entity id 8627 at ([world]282.41613314452457, 73.0, 223.72777472956017)
+[19:16:17] [Craft Scheduler Thread - 204 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[19:16:17] [Craft Scheduler Thread - 204 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[19:16:17] [Craft Scheduler Thread - 204 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[19:16:31] [Server thread/INFO]: 
+[19:16:31] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[19:16:31] [Server thread/INFO]: [X: -486, Y: 60, Z: 239] [19:16:31]
+[19:16:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:16:45] [Server thread/INFO]: 
+[19:16:45] [Server thread/INFO]: casimerito202 failed NoFall A (Movement) Flags: 1
+[19:16:45] [Server thread/INFO]: [X: 406, Y: 81, Z: 276] [19:16:45]
+[19:17:18] [Server thread/INFO]: 
+[19:17:18] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[19:17:18] [Server thread/INFO]: [X: -546, Y: 53, Z: 219] [19:17:18]
+[19:17:28] [Server thread/INFO]: casimerito202 has made the advancement [We Need to Go Deeper]
+[19:17:33] [Async Chat Thread - #4/INFO]: [Not Secure] <DoggyCursed> cuidado
+[19:17:34] [Async Chat Thread - #4/INFO]: [Not Secure] <DoggyCursed> esta en dificil
+[19:17:36] [Server thread/INFO]: casimerito202 removed one flag
+[19:17:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:21:45] [Server thread/INFO]: 
+[19:21:45] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[19:21:45] [Server thread/INFO]: [X: -714, Y: 54, Z: 144] [19:21:45]
