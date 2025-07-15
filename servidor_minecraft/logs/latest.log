@@ -309,3 +309,17 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [18:50:36] [Server thread/INFO]: [X: 383, Y: 69, Z: 222] [18:50:36]
 [18:50:36] [Server thread/INFO]: DoggyCursed removed one flag
 [18:51:09] [Server thread/INFO]: DoggyCursed has made the advancement [Hot Stuff]
+[18:54:07] [Server thread/INFO]: DoggyCursed has made the advancement [We Need to Go Deeper]
+[18:57:36] [Server thread/INFO]: 
+[18:57:36] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[18:57:36] [Server thread/INFO]: [X: -6, Y: 52, Z: -130] [18:57:36]
+[18:57:36] [Server thread/INFO]: DoggyCursed removed one flag
+[18:57:42] [Server thread/INFO]: DoggyCursed has made the advancement [A Terrible Fortress]
+[18:59:02] [Server thread/INFO]: DoggyCursed has made the advancement [Not Today, Thank You]
+[18:59:07] [Server thread/INFO]: DoggyCursed has made the advancement [Into Fire]
+[18:59:42] [Server thread/INFO]: DoggyCursed has made the advancement [Diamonds!]
+[19:00:07] [Server thread/INFO]: 
+[19:00:07] [Server thread/INFO]: DoggyCursed failed AntiKnockBack A (Movement) Flags: 1
+[19:00:07] [Server thread/INFO]: [X: -68, Y: 64, Z: -195] [19:00:07]
+[19:00:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:01:44] [Server thread/INFO]: DoggyCursed has made the advancement [Spooky Scary Skeleton]
