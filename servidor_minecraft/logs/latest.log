@@ -420,3 +420,15 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [16:37:18] [Server thread/INFO]: 
 [16:37:18] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
 [16:37:18] [Server thread/INFO]: [X: 493, Y: 18, Z: 2304] [16:37:18]
+[16:38:09] [Server thread/INFO]: DroggyCursedd has made the advancement [The End?]
+[16:38:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:38:11] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[16:38:13] [Server thread/INFO]: DroggyCursedd removed one flag
+[16:44:09] [Server thread/INFO]: 
+[16:44:09] [Server thread/INFO]: DroggyCursedd failed Fly A (Movement) Flags: 1
+[16:44:09] [Server thread/INFO]: [X: 0, Y: 62, Z: 2] [16:44:09]
+[16:44:13] [Server thread/INFO]: DroggyCursedd removed one flag
+[16:45:17] [Server thread/INFO]: DroggyCursedd has made the advancement [Free the End]
+[16:46:16] [Server thread/INFO]: DroggyCursedd has reached the goal [The Next Generation]
+[16:48:29] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
+[16:48:29] [Server thread/INFO]: DroggyCursedd left the game
