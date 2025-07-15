@@ -18,3 +18,7 @@
 [2025-07-15 00:47:54] [ALERT] casimerit202 detected FastPlace [Blocks] [interval:44/60] [vls:1(+1)]
 [2025-07-15 00:52:27] [ALERT] casimerit202 detected FastSwitch [BadPackets] [interval:47/50] [vls:2(+2)]
 [2025-07-15 00:52:44] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:45/50] [vls:2(+2)]
+[2025-07-15 01:03:31] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:38/50] [vls:2(+2)]
+[2025-07-15 01:03:31] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:49/50] [vls:2(+2)]
+[2025-07-15 01:03:45] [ALERT] DroggyCursedd detected Reach (Hit) [in:horizontal] [distance:4.683023027215733/4.1] [ping:-1] [vls:1(+1)]
+[2025-07-15 01:03:45] [ALERT] DroggyCursedd detected Reach (Hit) [in:horizontal] [distance:4.495061132591679/4.213166097551584] [ping:-1] [vls:1(+1)]
