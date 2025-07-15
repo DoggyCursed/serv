@@ -1005,3 +1005,6 @@ The Ban Hammer has spoken!
 [01:12:37] [Craft Scheduler Thread - 99 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
 [01:13:29] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
 [01:13:29] [Server thread/INFO]: DroggyCursedd left the game
+[02:11:32] [User Authenticator #18/INFO]: UUID of player carlitos123 is dcbc9b66-8496-36a1-9823-f3f11b1bcf0d
+[02:11:32] [Server thread/INFO]: Disconnecting carlitos123 (/127.86.67.158:55001): Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
+[02:11:32] [Server thread/INFO]: carlitos123 (/127.86.67.158:55001) lost connection: Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
