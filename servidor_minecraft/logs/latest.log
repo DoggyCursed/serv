@@ -474,3 +474,15 @@ We suspect you are using client modifications (3rd-party software)
 [19:41:14] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
 [19:41:14] [Server thread/INFO]: [X: -1102, Y: 62, Z: -552] [19:41:14]
 [19:41:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:48:42] [Server thread/INFO]: [✖] DoggyCursed ha muerto en circunstancias misteriosas. Le quedan 2 vidas.
+[19:48:58] [User Authenticator #6/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[19:48:59] [Server thread/INFO]: casimerito202 joined the game
+[19:48:59] [Server thread/INFO]: casimerito202[/127.245.190.124:57989] logged in with entity id 14519 at ([world]268.69999998807907, 77.0, 241.15473958345686)
+[19:48:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:49:06] [Craft Scheduler Thread - 330 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[19:49:06] [Craft Scheduler Thread - 330 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[19:49:06] [Craft Scheduler Thread - 330 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[19:50:58] [Server thread/INFO]: 
+[19:50:58] [Server thread/INFO]: casimerito202 failed NoFall A (Movement) Flags: 1
+[19:50:58] [Server thread/INFO]: [X: 355, Y: 80, Z: 260] [19:50:58]
+[19:51:36] [Server thread/INFO]: casimerito202 removed one flag
