@@ -323,3 +323,7 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [19:00:07] [Server thread/INFO]: [X: -68, Y: 64, Z: -195] [19:00:07]
 [19:00:36] [Server thread/INFO]: DoggyCursed removed one flag
 [19:01:44] [Server thread/INFO]: DoggyCursed has made the advancement [Spooky Scary Skeleton]
+[19:05:22] [Server thread/INFO]: 
+[19:05:22] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[19:05:22] [Server thread/INFO]: [X: -125, Y: 43, Z: -104] [19:05:22]
+[19:05:36] [Server thread/INFO]: DoggyCursed removed one flag
