@@ -218,3 +218,23 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:59:46] [Server thread/INFO]: 
+[05:59:46] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[05:59:46] [Server thread/INFO]: [X: 154, Y: 95, Z: -16] [05:59:46]
+[05:59:53] [Server thread/INFO]: 
+[05:59:53] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 2
+[05:59:53] [Server thread/INFO]: [X: 171, Y: 95, Z: 18] [05:59:53]
+[05:59:58] [Server thread/INFO]: 
+[05:59:58] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[05:59:58] [Server thread/INFO]: [X: 168, Y: 92, Z: 50] [05:59:58]
+[06:00:41] [Server thread/INFO]: DroggyCursedd removed one flag
+[06:01:41] [Server thread/INFO]: 
+[06:01:41] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[06:01:41] [Server thread/INFO]: [X: 157, Y: 94, Z: 68] [06:01:41]
+[06:01:41] [Server thread/INFO]: DroggyCursedd removed one flag
+[06:04:59] [Server thread/INFO]: 
+[06:04:59] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[06:04:59] [Server thread/INFO]: [X: 515, Y: 93, Z: 261] [06:04:59]
+[06:05:22] [Server thread/INFO]: 
+[06:05:22] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 2
+[06:05:22] [Server thread/INFO]: [X: 596, Y: 74, Z: 225] [06:05:22]
