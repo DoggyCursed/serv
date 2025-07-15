@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.166.114.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752613317647
+  login: 1752613287596
+money: '0'
+last-account-name: Alex_123
+lastlocation:
+  world: 5e359c05-8fb1-42af-a34a-767b7e613072
+  world-name: world
+  x: 269.5
+  y: 72.0
+  z: 214.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 5e359c05-8fb1-42af-a34a-767b7e613072
+  world-name: world
+  x: 272.5
+  y: 72.0
+  z: 224.5
+  yaw: 0.0
+  pitch: 0.0

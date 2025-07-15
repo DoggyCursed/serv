@@ -583,3 +583,10 @@ We suspect you are using client modifications (3rd-party software)
 [20:08:33] [Server thread/INFO]: casimerito202 left the game
 [20:08:45] [Server thread/INFO]: DoggyCursed lost connection: Disconnected
 [20:08:45] [Server thread/INFO]: DoggyCursed left the game
+[21:01:24] [User Authenticator #9/INFO]: UUID of player Alex_123 is 5c995877-5604-38b5-a324-955d363b6c5d
+[21:01:27] [Server thread/INFO]: Alex_123 joined the game
+[21:01:27] [Server thread/INFO]: Alex_123[/127.166.114.16:56139] logged in with entity id 17769 at ([world]269.5, 72.0, 214.5)
+[21:01:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alex_123's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:01:27] [Server thread/INFO]: Alex_123 has made the advancement [Getting an Upgrade]
+[21:01:57] [Server thread/INFO]: Alex_123 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[21:01:57] [Server thread/INFO]: Alex_123 left the game
