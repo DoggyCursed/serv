@@ -351,3 +351,211 @@ We suspect you are using client modifications (3rd-party software)
 [00:32:22] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> DroggyCursed
 [00:32:24] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> llego tu ora
 [00:32:33] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> q paso
+[00:32:59] [Server thread/INFO]: DroggyCursed lost connection: Disconnected
+[00:32:59] [Server thread/INFO]: DroggyCursed left the game
+[00:33:49] [Server thread/INFO]: 
+[00:33:49] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:33:49] [Server thread/INFO]: [X: 186, Y: 87, Z: -188] [00:33:49]
+[00:33:50] [Server thread/INFO]: 
+[00:33:50] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 2
+[00:33:50] [Server thread/INFO]: [X: 179, Y: 88, Z: -188] [00:33:50]
+[00:33:51] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:33:51] [Server thread/INFO]: casimerit202 left the game
+[00:33:53] [User Authenticator #5/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
+[00:33:54] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:33:54] [Server thread/INFO]: casimerit202 joined the game
+[00:33:54] [Server thread/INFO]: casimerit202[/127.245.190.124:56051] logged in with entity id 8366 at ([world]179.25499701444622, 88.0, -187.89297991016284)
+[00:34:04] [User Authenticator #5/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:34:05] [Server thread/INFO]: DroggyCursed joined the game
+[00:34:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:34:05] [Server thread/INFO]: DroggyCursed[/127.197.36.135:41233] logged in with entity id 8485 at ([world]2376.620712779489, 64.0, -708.1978454403913)
+[00:34:07] [Craft Scheduler Thread - 53 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
+[00:34:12] [Server thread/INFO]: 
+[00:34:12] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:34:12] [Server thread/INFO]: [X: 170, Y: 92, Z: -188] [00:34:12]
+[00:34:17] [Server thread/INFO]: casimerit202 removed one flag
+[00:34:35] [Server thread/INFO]: DroggyCursed lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[00:34:36] [Server thread/INFO]: DroggyCursed left the game
+[00:36:30] [User Authenticator #6/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[00:36:32] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:36:32] [Server thread/INFO]: DroggyCursedd joined the game
+[00:36:32] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:36327] logged in with entity id 9113 at ([world]62.5, 122.0, -99.5)
+[00:36:32] [Server thread/INFO]: DroggyCursedd has made the advancement [Getting an Upgrade]
+[00:36:37] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> oe
+[00:36:39] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> tramposa
+[00:36:50] [Server thread/INFO]: [AuthMe] DroggyCursedd registered 127.197.36.135
+[00:36:50] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[00:36:50] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[00:36:50] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[00:36:55] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> tienes razon
+[00:36:56] [Server thread/INFO]: Villager Villager['Nitwit'/371, uuid='a9b71a4e-caa9-4395-9712-080959d5e04b', l='ServerLevel[world]', x=218.58, y=89.50, z=-226.93, cpos=[13, -15], tl=15999, v=true] died, message: 'Nitwit was slain by casimerit202'
+[00:36:57] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> perdi una vida
+[00:36:59] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> deja vuelvo XD
+[00:37:11] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> pero usa tu otra tambien
+[00:37:19] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> ah?
+[00:37:19] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> estabas con xray no fall kill aura
+[00:37:23] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> rusheaste todo con hacks
+[00:37:23] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> nop
+[00:37:31] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> mamaguevo vas a decir que no descarado
+[00:37:31] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> te segui con la barra
+[00:37:33] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> usa otra y ya
+[00:37:34] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> de abajo
+[00:37:47] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> tenia acha
+[00:37:47] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> lol
+[00:37:52] [Server thread/INFO]: Made xTaku_ a server operator
+[00:37:54] [Server thread/INFO]: xTaku_ has made the advancement [Monster Hunter]
+[00:37:55] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> :V
+[00:37:56] [Server thread/INFO]: casimerit202 issued server command: /shop
+[00:37:59] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> dale
+[00:38:01] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> mata el srv ya q
+[00:38:02] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> no
+[00:38:04] [Server thread/INFO]: 
+[00:38:04] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:38:04] [Server thread/INFO]: [X: 193, Y: 87, Z: -202] [00:38:04]
+[00:38:08] [Server thread/INFO]: xTaku_ issued server command: /op DroggyCursedd
+[00:38:08] [Server thread/INFO]: [xTaku_: Made DroggyCursedd a server operator]
+[00:38:09] [Server thread/INFO]: Made xTaku_ no longer a server operator
+[00:38:13] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> no we
+[00:38:17] [Server thread/INFO]: casimerit202 removed one flag
+[00:38:20] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> jadasjajja
+[00:38:23] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> bueno deja de hacer trampa
+[00:38:29] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> q no ise trampa
+[00:38:32] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> baboso
+[00:38:35] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> man estabas usando hacks
+[00:38:38] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> desde q entraste
+[00:38:40] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> hace rataso
+[00:38:42] [Server thread/INFO]: Villager Villager['Villager'/5256, uuid='fd025073-55d5-4369-93fe-94920e80ebdb', l='ServerLevel[world]', x=2381.14, y=64.00, z=-693.73, cpos=[148, -44], tl=11873, v=true] died, message: 'Villager was slain by xTaku_'
+[00:38:43] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> luego que rusheaste ya te los quitastes
+[00:38:44] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> XDDD
+[00:38:53] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> pero dale te la dejo pasar
+[00:38:55] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> consegui hierro de la cueva cercana
+[00:38:55] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
+[00:38:55] [Server thread/INFO]: DroggyCursedd left the game
+[00:38:56] [Server thread/INFO]: 
+[00:38:56] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:38:56] [Server thread/INFO]: [X: 209, Y: 87, Z: -211] [00:38:56]
+[00:38:58] [Server thread/INFO]: 
+[00:38:58] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 2
+[00:38:58] [Server thread/INFO]: [X: 205, Y: 87, Z: -207] [00:38:58]
+[00:38:58] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:38:58] [Server thread/INFO]: casimerit202 left the game
+[00:40:02] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:40:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:04] [Server thread/INFO]: DroggyCursed joined the game
+[00:40:04] [Server thread/INFO]: DroggyCursed[/127.197.36.135:49011] logged in with entity id 10001 at ([world]2376.039721135075, 64.0, -709.0002451485277)
+[00:40:07] [Server thread/INFO]: 
+[00:40:07] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
+[00:40:07] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:07]
+[00:40:08] [Server thread/INFO]: 
+[00:40:08] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
+[00:40:08] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:08]
+[00:40:08] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:40:08] [Server thread/INFO]: DroggyCursed left the game
+[00:40:10] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:40:11] [Server thread/INFO]: DroggyCursed joined the game
+[00:40:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:11] [Server thread/INFO]: DroggyCursed[/127.197.36.135:33747] logged in with entity id 10009 at ([world]2376.0868318881476, 64.03999999910593, -709.0473559016001)
+[00:40:12] [Server thread/INFO]: 
+[00:40:12] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
+[00:40:12] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:12]
+[00:40:13] [Server thread/INFO]: 
+[00:40:13] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
+[00:40:13] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:13]
+[00:40:13] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:40:13] [Server thread/INFO]: DroggyCursed left the game
+[00:40:15] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:40:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:16] [Server thread/INFO]: DroggyCursed joined the game
+[00:40:16] [Server thread/INFO]: DroggyCursed[/127.197.36.135:51135] logged in with entity id 10017 at ([world]2376.122928922997, 64.03999999910593, -709.0834529364492)
+[00:40:17] [Server thread/INFO]: 
+[00:40:17] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
+[00:40:17] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:17]
+[00:40:18] [Server thread/INFO]: 
+[00:40:18] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
+[00:40:18] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:18]
+[00:40:18] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:40:18] [Server thread/INFO]: DroggyCursed left the game
+[00:40:20] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:40:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:21] [Server thread/INFO]: DroggyCursed joined the game
+[00:40:21] [Server thread/INFO]: DroggyCursed[/127.197.36.135:47891] logged in with entity id 10023 at ([world]2376.1448730270627, 64.0, -709.1751386266718)
+[00:40:22] [Server thread/INFO]: 
+[00:40:22] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
+[00:40:22] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:22]
+[00:40:23] [Server thread/INFO]: 
+[00:40:23] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
+[00:40:23] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:23]
+[00:40:23] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:40:23] [Server thread/INFO]: DroggyCursed left the game
+[00:40:25] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:40:25] [Server thread/INFO]: 
+[00:40:25] [Server thread/INFO]: xTaku_ failed NoFall A (Movement) Flags: 1
+[00:40:25] [Server thread/INFO]: [X: 2381, Y: 65, Z: -711] [00:40:25]
+[00:40:26] [Server thread/INFO]: DroggyCursed joined the game
+[00:40:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:26] [Server thread/INFO]: DroggyCursed[/127.197.36.135:56153] logged in with entity id 10030 at ([world]2376.1224637989635, 64.03999999910593, -709.2327137720687)
+[00:40:27] [Server thread/INFO]: 
+[00:40:27] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
+[00:40:27] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:27]
+[00:40:27] [Server thread/INFO]: 
+[00:40:27] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
+[00:40:27] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:27]
+[00:40:27] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:40:27] [Server thread/INFO]: DroggyCursed left the game
+[00:40:29] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
+[00:40:30] [Server thread/INFO]: DroggyCursed joined the game
+[00:40:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:40:30] [Server thread/INFO]: DroggyCursed[/127.197.36.135:51837] logged in with entity id 10041 at ([world]2376.1196487282414, 64.0, -709.2996523549876)
+[00:40:32] [Server thread/INFO]: 
+[00:40:32] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
+[00:40:32] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:32]
+[00:40:33] [Server thread/INFO]: 
+[00:40:33] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
+[00:40:33] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:33]
+[00:40:33] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:40:33] [Server thread/INFO]: DroggyCursed left the game
+[00:41:17] [Server thread/INFO]: xTaku_ removed one flag
+[00:41:46] [User Authenticator #8/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
+[00:41:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:41:47] [Server thread/INFO]: casimerit202 joined the game
+[00:41:47] [Server thread/INFO]: casimerit202[/127.245.190.124:60365] logged in with entity id 10185 at ([world]205.37900281077722, 87.80958890136314, -206.06717445148064)
+[00:41:58] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
+[00:42:25] [User Authenticator #8/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[00:42:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:42:27] [Server thread/INFO]: DroggyCursedd joined the game
+[00:42:27] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:42637] logged in with entity id 10408 at ([world]59.926056472972164, 124.0, -109.92514175453758)
+[00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
