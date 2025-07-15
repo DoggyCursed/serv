@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752554820350
-  login: 1752554825646
+  logout: 1752555275549
+  login: 1752555285042
 money: '0'
 last-account-name: DroggyCursedd
 lastlocation:
@@ -29,10 +29,10 @@ lastlocation:
   yaw: -21.033226013183594
   pitch: 36.13580322265625
 logoutlocation:
-  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
-  world-name: world
-  x: 1775.5038710278243
-  y: 62.523264312744146
-  z: 707.6414962440963
-  yaw: -86.68610382080078
-  pitch: 29.998146057128906
+  world: 90971dcd-6f20-4cfe-bc21-f1533054cb8c
+  world-name: world_nether
+  x: 335.782090907776
+  y: 49.0
+  z: 104.68197673114943
+  yaw: 166.5245819091797
+  pitch: 56.057552337646484
