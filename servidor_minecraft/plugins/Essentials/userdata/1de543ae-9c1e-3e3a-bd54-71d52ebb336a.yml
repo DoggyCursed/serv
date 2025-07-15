@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.245.190.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752537766672
+  login: 1752537984822
+money: '0'
+last-account-name: casimerit202
+lastlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 73.5
+  y: 118.0
+  z: -92.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 176.39783737632263
+  y: 86.0
+  z: -243.9623619611027
+  yaw: -59.042877197265625
+  pitch: 17.624746322631836

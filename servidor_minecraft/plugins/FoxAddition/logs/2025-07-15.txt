@@ -1,0 +1,4 @@
+[2025-07-15 00:05:52] 
+[2025-07-15 00:05:52] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-15 00:12:27] [ALERT] casimerit202 detected FastPlace [Blocks] [interval:36/60] [vls:1(+1)]
+[2025-07-15 00:12:30] [ALERT] casimerit202 detected FastPlace [Blocks] [interval:46/60] [vls:1(+1)]

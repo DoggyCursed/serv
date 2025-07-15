@@ -1,0 +1,14 @@
+[2025-07-14 23:47:19] 
+[2025-07-14 23:47:19] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-14 23:49:37] 
+[2025-07-14 23:49:37] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-14 23:51:43] 
+[2025-07-14 23:51:43] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-14 23:52:43] 
+[2025-07-14 23:52:43] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-14 23:54:31] 
+[2025-07-14 23:54:31] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-14 23:58:37] [ALERT] xTaku_ detected FastPlace [Blocks] [interval:50/60] [vls:1(+1)]
+[2025-07-14 23:58:47] [ALERT] xTaku_ detected FastPlace [Blocks] [interval:50/60] [vls:1(+1)]
+[2025-07-14 23:58:47] [ALERT] xTaku_ detected FastPlace [Blocks] [interval:50/60] [vls:1(+1)]
+[2025-07-14 23:59:57] [ALERT] casimerit202 detected FastSwitch [BadPackets] [interval:49/50] [vls:2(+2)]
