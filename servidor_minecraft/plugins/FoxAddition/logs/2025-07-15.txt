@@ -68,3 +68,4 @@
 [2025-07-15 16:13:27] [ALERT] DroggyCursedd detected Phase [Block:FARMLAND] [loc:328.4, 85.9, 2268.4] [vls:1(+1)]
 [2025-07-15 16:13:48] [ALERT] DroggyCursedd detected Lenience [FastBow] [lenience:103/151] [interval:899/950] [vls:1(+1)]
 [2025-07-15 16:16:52] [ALERT] DroggyCursedd detected Phase [Block:DIRT_PATH] [loc:339.4, 78.9, 2282.5] [vls:1(+1)]
+[2025-07-15 16:26:47] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:27/50] [vls:2(+2)]

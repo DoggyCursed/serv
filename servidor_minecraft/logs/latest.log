@@ -396,3 +396,13 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [16:17:00] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
 [16:17:00] [Server thread/INFO]: [X: 359, Y: 64, Z: 2309] [16:17:00]
 [16:17:13] [Server thread/INFO]: DroggyCursedd removed one flag
+[16:24:42] [Server thread/INFO]: 
+[16:24:42] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[16:24:42] [Server thread/INFO]: [X: 343, Y: 84, Z: 2273] [16:24:42]
+[16:25:13] [Server thread/INFO]: DroggyCursedd removed one flag
+[16:26:48] [User Authenticator #2/INFO]: UUID of player 66kq is ff54c858-5763-3a98-956b-0d38f4ff3635
+[16:26:49] [Server thread/INFO]: 66kq joined the game
+[16:26:49] [TAB Processing Thread/INFO]: [TAB] [WARN] Player 66kq's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[16:26:49] [Server thread/INFO]: 66kq[/127.253.70.45:36025] logged in with entity id 18853 at ([world]119.01417440382185, 68.0, -835.4517168269507)
+[16:26:57] [Server thread/INFO]: 66kq lost connection: Disconnected
+[16:26:57] [Server thread/INFO]: 66kq left the game
