@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1752601064663
   login: 1752599457613
 money: '0'
 last-account-name: zeko123
@@ -28,3 +28,11 @@ lastlocation:
   z: -98.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: -616.1806881897327
+  y: 112.0
+  z: 129.50483706174353
+  yaw: 72.56272888183594
+  pitch: 24.329116821289062
