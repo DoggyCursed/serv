@@ -49,3 +49,4 @@
 [2025-07-15 06:43:28] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:49/50] [vls:2(+2)]
 [2025-07-15 14:47:09] 
 [2025-07-15 14:47:09] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-15 14:58:39] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:46/50] [vls:2(+2)]
