@@ -559,3 +559,207 @@ We suspect you are using client modifications (3rd-party software)
 [00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
 [00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
 [00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[00:43:11] [Server thread/INFO]: 
+[00:43:11] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:43:11] [Server thread/INFO]: [X: 189, Y: 87, Z: -197] [00:43:11]
+[00:43:17] [Server thread/INFO]: casimerit202 removed one flag
+[00:45:26] [Server thread/INFO]: 
+[00:45:26] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
+[00:45:26] [Server thread/INFO]: [X: 1979, Y: 72, Z: -605] [00:45:26]
+[00:45:28] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> :v
+[00:45:43] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> ostia aldea alado
+[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (1/40)
+[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (2/40)
+[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (3/40)
+[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (4/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (5/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (6/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (7/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (8/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (9/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (10/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (11/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (12/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (13/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (14/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (15/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (16/40)
+[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (17/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (18/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (19/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (20/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (21/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (22/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (23/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (24/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (25/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (26/40)
+[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (27/40)
+[00:45:53] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (28/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (29/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (30/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (31/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (32/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (33/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (34/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (35/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (36/40)
+[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (37/40)
+[00:45:54] [Server thread/INFO]: 
+[00:45:54] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 2
+[00:45:54] [Server thread/INFO]: [X: 1846, Y: 72, Z: -590] [00:45:54]
+[00:45:54] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:45:54] [Server thread/INFO]: xTaku_ left the game
+[00:45:59] [User Authenticator #9/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:46:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:46:00] [Server thread/INFO]: xTaku_ joined the game
+[00:46:00] [Server thread/INFO]: xTaku_[/127.186.232.238:53005] logged in with entity id 12469 at ([world]1846.2438547958052, 72.0, -589.6909986617165)
+[00:46:04] [Craft Scheduler Thread - 68 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
+[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (38/40)
+[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (39/40)
+[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (40/40)
+[00:46:07] [Server thread/INFO]: (Light) xTaku_ was punished for SpeedC
+[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (1/40)
+[00:46:07] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick xTaku_ SpeedC
+[00:46:07] [Server thread/INFO]: xTaku_ lost connection: SpeedC
+[00:46:07] [Server thread/INFO]: xTaku_ left the game
+[00:46:07] [Server thread/INFO]: [Essentials] Player Console kicked xTaku_ for SpeedC.
+[00:46:11] [User Authenticator #9/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:46:12] [Server thread/INFO]: xTaku_ joined the game
+[00:46:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:46:12] [Server thread/INFO]: xTaku_[/127.186.232.238:41263] logged in with entity id 12644 at ([world]1831.7536295262055, 71.16610926093821, -591.0661290829156)
+[00:46:16] [Craft Scheduler Thread - 68 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
+[00:46:19] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (2/40)
+[00:46:19] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (3/40)
+[00:46:19] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (4/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (5/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (6/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (7/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (8/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (9/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (10/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (11/40)
+[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (12/40)
+[00:46:21] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (13/40)
+[00:46:21] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (14/40)
+[00:46:36] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> q no sirve
+[00:46:36] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> we
+[00:46:41] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> asme ss
+[00:46:44] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> maricon
+[00:46:45] [Server thread/INFO]: 
+[00:46:45] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:46:45] [Server thread/INFO]: [X: 180, Y: 87, Z: -195] [00:46:45]
+[00:46:46] [Server thread/INFO]: [FA] DroggyCursedd might be using Reach [#1].
+[00:46:47] [Server thread/INFO]: 
+[00:46:47] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 2
+[00:46:47] [Server thread/INFO]: [X: 178, Y: 87, Z: -195] [00:46:47]
+[00:46:47] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:46:47] [Server thread/INFO]: casimerit202 left the game
+[00:46:49] [Server thread/INFO]: casimerit202 (/127.245.190.124:58245) lost connection: Disconnected
+[00:46:49] [User Authenticator #9/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
+[00:46:50] [User Authenticator #9/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
+[00:46:51] [Server thread/INFO]: casimerit202 joined the game
+[00:46:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:46:51] [Server thread/INFO]: casimerit202[/127.245.190.124:33433] logged in with entity id 13052 at ([world]178.87229353239206, 87.9375, -194.24391466165073)
+[00:46:54] [Server thread/INFO]: 
+[00:46:54] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
+[00:46:54] [Server thread/INFO]: [X: 1681, Y: 66, Z: -563] [00:46:54]
+[00:47:03] [Craft Scheduler Thread - 39 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
+[00:47:05] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> te grabare mi pantalla y te mandare al dc
+[00:47:07] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> cabraso
+[00:47:14] [Server thread/INFO]: 
+[00:47:14] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 2
+[00:47:14] [Server thread/INFO]: [X: 1633, Y: 72, Z: -565] [00:47:14]
+[00:47:14] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:47:14] [Server thread/INFO]: xTaku_ left the game
+[00:47:19] [User Authenticator #9/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:47:20] [Server thread/INFO]: xTaku_ joined the game
+[00:47:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:47:20] [Server thread/INFO]: xTaku_[/127.186.232.238:39635] logged in with entity id 13335 at ([world]1633.4101611612944, 72.0, -564.9290905863478)
+[00:47:24] [Craft Scheduler Thread - 62 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
+[00:47:37] [Server thread/WARN]: [SimpleScore] Task #390841 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:48:19] [Server thread/INFO]: xTaku_ lost connection: Timed out
+[00:48:19] [Server thread/INFO]: xTaku_ left the game
+[00:48:25] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:48:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:48:26] [Server thread/INFO]: xTaku_ joined the game
+[00:48:26] [Server thread/INFO]: xTaku_[/127.186.232.238:42281] logged in with entity id 13882 at ([world]1631.8439200003631, 72.0, -564.7256910523203)
+[00:48:34] [Craft Scheduler Thread - 63 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
+[00:48:36] [Server thread/INFO]: 
+[00:48:36] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
+[00:48:36] [Server thread/INFO]: [X: 1629, Y: 72, Z: -565] [00:48:36]
+[00:49:03] [Server thread/INFO]: 
+[00:49:03] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 2
+[00:49:03] [Server thread/INFO]: [X: 1520, Y: 69, Z: -567] [00:49:03]
+[00:49:03] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[00:49:03] [Server thread/INFO]: xTaku_ left the game
+[00:49:10] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:49:11] [Server thread/INFO]: xTaku_ joined the game
+[00:49:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:49:11] [Server thread/INFO]: xTaku_[/127.186.232.238:39557] logged in with entity id 14403 at ([world]1520.0376288445018, 69.0, -566.0286788659209)
+[00:49:15] [Server thread/INFO]: 
+[00:49:15] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:49:15] [Server thread/INFO]: [X: 192, Y: 87, Z: -190] [00:49:15]
+[00:49:15] [Craft Scheduler Thread - 61 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
+[00:49:17] [Server thread/INFO]: casimerit202 removed one flag
+[00:49:44] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:49:44] [Server thread/INFO]: Disconnecting xTaku_ (/127.186.232.238:39651): The same username is already playing on the server!
+[00:49:45] [Server thread/INFO]: xTaku_ (/127.186.232.238:39651) lost connection: The same username is already playing on the server!
+[00:49:46] [Server thread/INFO]: xTaku_ lost connection: Timed out
+[00:49:46] [Server thread/INFO]: xTaku_ left the game
+[00:49:51] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
+[00:49:52] [Server thread/INFO]: xTaku_ joined the game
+[00:49:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:49:52] [Server thread/INFO]: xTaku_[/127.186.232.238:52069] logged in with entity id 14753 at ([world]1520.0376288445018, 69.0, -566.0286788659209)
+[00:49:57] [Craft Scheduler Thread - 69 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
+[00:50:09] [Server thread/INFO]: DroggyCursedd issued server command: /skin set DoggyCursed
+[00:50:16] [Server thread/INFO]: 
+[00:50:16] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
+[00:50:16] [Server thread/INFO]: [X: 1425, Y: 70, Z: -537] [00:50:16]
+[00:50:17] [Server thread/INFO]: xTaku_ removed one flag
+[00:50:21] [Server thread/INFO]: xTaku_ lost connection: Disconnected
+[00:50:21] [Server thread/INFO]: xTaku_ left the game
+[00:50:31] [Server thread/INFO]: 
+[00:50:31] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
+[00:50:31] [Server thread/INFO]: [X: 185, Y: 87, Z: -244] [00:50:31]
+[00:50:41] [Server thread/INFO]: DroggyCursedd has made the advancement [Stone Age]
+[00:51:17] [Server thread/INFO]: casimerit202 removed one flag
+[00:51:47] [Server thread/INFO]: 
+[00:51:47] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 1
+[00:51:47] [Server thread/INFO]: [X: 163, Y: 66, Z: -326] [00:51:47]
+[00:52:17] [Server thread/INFO]: casimerit202 removed one flag
+[00:52:50] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursedd> casimiro ese man se rindio
+[00:52:54] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursedd> de tanto hackear xd
