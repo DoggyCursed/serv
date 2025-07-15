@@ -166,7 +166,7 @@ anticheat:
       tolerance: 0.1
   noslow:
     a: # Fast walking through speed-slowed blocks
-      enabled: true
+      enabled: false
       checkDelay: 1
       maximumSuspiciousSpeed: 4
       type:

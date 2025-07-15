@@ -310,3 +310,30 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:44:15] [Server thread/INFO]: 
+[04:44:15] [Server thread/INFO]: DroggyCursedd failed Speed A (Movement) Flags: 1
+[04:44:15] [Server thread/INFO]: [X: 1733, Y: 64, Z: 438] [04:44:15]
+[04:45:07] [Server thread/INFO]: DroggyCursedd removed one flag
+[04:46:34] [Server thread/INFO]: 
+[04:46:34] [Server thread/INFO]: DroggyCursedd failed NoSlow A (Movement) Flags: 1
+[04:46:34] [Server thread/INFO]: [X: 1779, Y: 62, Z: 708] [04:46:34]
+[04:47:00] [Server thread/INFO]: 
+[04:47:00] [Server thread/INFO]: DroggyCursedd failed NoSlow A (Movement) Flags: 2
+[04:47:00] [Server thread/INFO]: [X: 1775, Y: 62, Z: 707] [04:47:00]
+[04:47:00] [Server thread/INFO]: DroggyCursedd lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[04:47:00] [Server thread/INFO]: DroggyCursedd left the game
+[04:47:04] [User Authenticator #4/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:47:05] [Server thread/INFO]: DroggyCursedd joined the game
+[04:47:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:47:05] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:50305] logged in with entity id 10734 at ([world]1775.5038710278243, 62.110764312744145, 707.6414962440963)
+[04:47:11] [Craft Scheduler Thread - 144 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:47:11] [Craft Scheduler Thread - 144 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:47:11] [Craft Scheduler Thread - 144 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:47:17] [Server thread/INFO]: 
+[04:47:17] [Server thread/INFO]: DroggyCursedd failed NoSlow A (Movement) Flags: 1
+[04:47:17] [Server thread/INFO]: [X: 1788, Y: 62, Z: 715] [04:47:17]
+[04:48:07] [Server thread/INFO]: DroggyCursedd removed one flag
