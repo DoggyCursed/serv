@@ -87,3 +87,4 @@
 [2025-07-15 19:23:49] [ALERT] DoggyCursed detected FastSwitch [BadPackets] [interval:26/50] [vls:2(+2)]
 [2025-07-15 19:27:53] [ALERT] DoggyCursed detected FastPlace [Blocks] [interval:44/60] [vls:1(+1)]
 [2025-07-15 19:29:39] [ALERT] DoggyCursed detected Reach (Hit) [in:horizontal] [distance:4.787354058829044/4.1] [ping:-1] [vls:1(+1)]
+[2025-07-15 19:33:58] [ALERT] DoggyCursed detected FastSwitch [BadPackets] [interval:49/50] [vls:2(+2)]

@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1752603868951
+  logout: 1752607961248
+  login: 1752607964853
 money: '0'
 last-account-name: DoggyCursed
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: 229.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: 6c6e5a27-51e0-43a7-9ef5-2dc6f88eed77
+  world-name: world_nether
+  x: -982.2443736285982
+  y: 79.96
+  z: -101.57915520034426
+  yaw: 16.875
+  pitch: 55.123294830322266

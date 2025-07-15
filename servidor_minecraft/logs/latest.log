@@ -387,3 +387,90 @@ Se te acabaron las 3 vidas.
 [19:23:51] [Server thread/INFO]: [Essentials] Player Console banned casimerito202 for: \<secondary>You have been banned:
 \<reset>Se te acabaron las 3 vidas..
 [19:24:36] [Server thread/INFO]: casimerito202 removed one flag
+[19:32:35] [Server thread/INFO]: 
+[19:32:35] [Server thread/INFO]: DoggyCursed failed Fly B (Movement) Flags: 1
+[19:32:35] [Server thread/INFO]: [X: -983, Y: 82, Z: -103] [19:32:35]
+[19:32:35] [Server thread/INFO]: 
+[19:32:35] [Server thread/INFO]: DoggyCursed failed Fly B (Movement) Flags: 2
+[19:32:35] [Server thread/INFO]: [X: -983, Y: 82, Z: -102] [19:32:35]
+[19:32:35] [Server thread/INFO]: 
+[19:32:35] [Server thread/INFO]: DoggyCursed failed Fly B (Movement) Flags: 3
+[19:32:35] [Server thread/INFO]: [X: -983, Y: 81, Z: -102] [19:32:35]
+[19:32:35] [Server thread/INFO]: DoggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[19:32:36] [Server thread/INFO]: DoggyCursed left the game
+[19:32:39] [User Authenticator #4/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[19:32:40] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:32:40] [Server thread/INFO]: DoggyCursed joined the game
+[19:32:40] [Server thread/INFO]: DoggyCursed[/127.197.36.135:34807] logged in with entity id 11786 at ([world_nether]-982.2443736285982, 80.9875, -101.57915520034426)
+[19:32:41] [Server thread/INFO]: 
+[19:32:41] [Server thread/INFO]: DoggyCursed failed Fly B (Movement) Flags: 1
+[19:32:41] [Server thread/INFO]: [X: -983, Y: 80, Z: -102] [19:32:41]
+[19:32:41] [Server thread/INFO]: 
+[19:32:41] [Server thread/INFO]: DoggyCursed failed Fly B (Movement) Flags: 2
+[19:32:41] [Server thread/INFO]: [X: -983, Y: 80, Z: -102] [19:32:41]
+[19:32:41] [Server thread/INFO]: 
+[19:32:41] [Server thread/INFO]: DoggyCursed failed Fly B (Movement) Flags: 3
+[19:32:41] [Server thread/INFO]: [X: -983, Y: 79, Z: -102] [19:32:41]
+[19:32:41] [Server thread/INFO]: DoggyCursed lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[19:32:41] [Server thread/INFO]: DoggyCursed left the game
+[19:32:43] [User Authenticator #4/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[19:32:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:32:44] [Server thread/INFO]: DoggyCursed joined the game
+[19:32:44] [Server thread/INFO]: DoggyCursed[/127.197.36.135:58549] logged in with entity id 11792 at ([world_nether]-982.2443736285982, 80.5225, -101.57915520034426)
+[19:32:50] [Craft Scheduler Thread - 272 - AuthMe/INFO]: [AuthMe] The user DoggyCursed has 3 accounts:
+[19:32:50] [Craft Scheduler Thread - 272 - AuthMe/INFO]: [AuthMe] §7§aDoggyCursed§7, droggycursed, droggycursedd.
+[19:32:50] [Craft Scheduler Thread - 272 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
+[19:34:47] [Server thread/INFO]: Made DoggyCursed a server operator
+[19:35:30] [Server thread/INFO]: DoggyCursed issued server command: /darvidas casimerito202
+[19:35:35] [Server thread/INFO]: DoggyCursed issued server command: /darvidas casimerito202 3
+[19:35:47] [Server thread/INFO]: DoggyCursed issued server command: /banlist
+[19:35:59] [Server thread/INFO]: DoggyCursed issued server command: /darvidas casimerito202
+[19:36:02] [Server thread/INFO]: DoggyCursed issued server command: /unban casimerito202
+[19:36:02] [Server thread/INFO]: [Essentials] Player DoggyCursed unbanned casimerito202
+[19:37:59] [User Authenticator #5/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[19:38:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:38:00] [Server thread/INFO]: casimerito202 joined the game
+[19:38:00] [Server thread/INFO]: casimerito202[/127.245.190.124:50171] logged in with entity id 12337 at ([world]362.34969063442986, 80.24947197770308, 261.4493845392752)
+[19:38:07] [Server thread/INFO]: DoggyCursed issued server command: /darvidas casimerito202 3
+[19:38:17] [Craft Scheduler Thread - 289 - AuthMe/INFO]: [AuthMe] casimerito202 used the wrong password
+[19:38:17] [Server thread/INFO]: casimerito202 lost connection: Wrong password!
+[19:38:17] [Server thread/INFO]: casimerito202 left the game
+[19:38:17] [Server thread/INFO]: DoggyCursed issued server command: /deop DoggyCursed
+[19:38:17] [Server thread/INFO]: [DoggyCursed: Made DoggyCursed no longer a server operator]
+[19:38:20] [User Authenticator #5/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[19:38:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:38:21] [Server thread/INFO]: casimerito202 joined the game
+[19:38:21] [Server thread/INFO]: casimerito202[/127.245.190.124:38853] logged in with entity id 12433 at ([world]272.2263920141683, 72.0, 224.08210896072924)
+[19:38:30] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] casimerito202 used the wrong password
+[19:38:30] [Server thread/INFO]: casimerito202 lost connection: Wrong password!
+[19:38:30] [Server thread/INFO]: casimerito202 left the game
+[19:38:41] [User Authenticator #5/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[19:38:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:38:42] [Server thread/INFO]: casimerito202 joined the game
+[19:38:42] [Server thread/INFO]: casimerito202[/127.245.190.124:58839] logged in with entity id 12456 at ([world]272.2263920141683, 72.0, 224.08210896072924)
+[19:38:50] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[19:38:50] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[19:38:50] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[19:39:07] [Server thread/INFO]: 
+[19:39:07] [Server thread/INFO]: casimerito202 failed AntiKnockBack A (Movement) Flags: 1
+[19:39:07] [Server thread/INFO]: [X: 274, Y: 88, Z: 281] [19:39:07]
+[19:39:36] [Server thread/INFO]: casimerito202 removed one flag
+[19:39:52] [Server thread/INFO]: 
+[19:39:52] [Server thread/INFO]: casimerito202 failed Scaffold B (Interaction) Flags: 1
+[19:39:52] [Server thread/INFO]: [X: 214, Y: 85, Z: 324] [19:39:52]
+[19:40:22] [Server thread/INFO]: [✖] casimerito202 recibió un flechazo en toda la cara. Le quedan 2 vidas.
+[19:40:33] [Server thread/INFO]: casimerito202 lost connection: Disconnected
+[19:40:33] [Server thread/INFO]: casimerito202 left the game
+[19:40:36] [Server thread/INFO]: casimerito202 removed one flag
+[19:41:14] [Server thread/INFO]: 
+[19:41:14] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[19:41:14] [Server thread/INFO]: [X: -1102, Y: 62, Z: -552] [19:41:14]
+[19:41:36] [Server thread/INFO]: DoggyCursed removed one flag
