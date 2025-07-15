@@ -199,3 +199,114 @@
 [04:09:20] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
 [04:09:20] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
 [04:09:27] [Server thread/INFO]: DroggyCursedd has made the advancement [Isn't It Iron Pick]
+[04:21:02] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
+[04:21:02] [Server thread/INFO]: DroggyCursedd left the game
+[04:22:37] [User Authenticator #1/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:22:39] [Server thread/INFO]: DroggyCursedd joined the game
+[04:22:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:22:39] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:37397] logged in with entity id 1868 at ([world]-152.55483619263595, 16.0, -95.30000001192093)
+[04:22:44] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:22:44] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:22:44] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:22:50] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
+[04:22:50] [Server thread/INFO]: DroggyCursedd left the game
+[04:22:56] [User Authenticator #1/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:22:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:22:57] [Server thread/INFO]: DroggyCursedd joined the game
+[04:22:57] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:40899] logged in with entity id 2006 at ([world]-160.40579244348964, 16.0, -95.38174057602147)
+[04:23:03] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:23:03] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:23:03] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:23:06] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
+[04:23:06] [Server thread/INFO]: DroggyCursedd left the game
+[04:23:54] [User Authenticator #1/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:23:56] [Server thread/INFO]: DroggyCursedd joined the game
+[04:23:56] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:23:56] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:47103] logged in with entity id 2015 at ([world]-161.07791692231285, 16.0, -95.64644439745746)
+[04:24:02] [Craft Scheduler Thread - 54 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:24:02] [Craft Scheduler Thread - 54 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:24:02] [Craft Scheduler Thread - 54 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:28:44] [Server thread/INFO]: 
+[04:28:44] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[04:28:44] [Server thread/INFO]: [X: -401, Y: 96, Z: -136] [04:28:44]
+[04:29:07] [Server thread/INFO]: DroggyCursedd removed one flag
+[04:29:23] [Server thread/INFO]: 
+[04:29:23] [Server thread/INFO]: DroggyCursedd failed Speed A (Movement) Flags: 1
+[04:29:23] [Server thread/INFO]: [X: -235, Y: 101, Z: -253] [04:29:23]
+[04:29:39] [Server thread/INFO]: 
+[04:29:39] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 2
+[04:29:39] [Server thread/INFO]: [X: -194, Y: 95, Z: -325] [04:29:39]
+[04:29:39] [Server thread/INFO]: DroggyCursedd lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[04:29:39] [Server thread/INFO]: DroggyCursedd left the game
+[04:29:43] [User Authenticator #2/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:29:44] [Server thread/INFO]: DroggyCursedd joined the game
+[04:29:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:29:44] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:60263] logged in with entity id 3321 at ([world]-193.8050761754823, 95.83999997377396, -324.70011681637936)
+[04:29:49] [Craft Scheduler Thread - 78 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:29:49] [Craft Scheduler Thread - 78 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:29:49] [Craft Scheduler Thread - 78 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:30:37] [Server thread/INFO]: DroggyCursedd has made the advancement [Sweet Dreams]
+[04:31:01] [Server thread/INFO]: 
+[04:31:01] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[04:31:01] [Server thread/INFO]: [X: 96, Y: 96, Z: -435] [04:31:01]
+[04:31:07] [Server thread/INFO]: DroggyCursedd removed one flag
+[04:31:09] [Server thread/INFO]: 
+[04:31:09] [Server thread/INFO]: DroggyCursedd failed Speed A (Movement) Flags: 1
+[04:31:09] [Server thread/INFO]: [X: 141, Y: 95, Z: -439] [04:31:09]
+[04:31:34] [Server thread/INFO]: 
+[04:31:34] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 2
+[04:31:34] [Server thread/INFO]: [X: 225, Y: 92, Z: -385] [04:31:34]
+[04:31:34] [Server thread/INFO]: DroggyCursedd lost connection: [MineGuard]
+
+You have been kicked from the network
+
+We suspect you are using client modifications (3rd-party software)
+[04:31:34] [Server thread/INFO]: DroggyCursedd left the game
+[04:31:38] [User Authenticator #3/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:31:39] [Server thread/INFO]: DroggyCursedd joined the game
+[04:31:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:31:39] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:39233] logged in with entity id 4103 at ([world]225.76071924773052, 92.0, -384.4172604917392)
+[04:31:43] [Craft Scheduler Thread - 85 - AuthMe/INFO]: [AuthMe] DroggyCursedd used the wrong password
+[04:31:43] [Server thread/INFO]: DroggyCursedd lost connection: Wrong password!
+[04:31:43] [Server thread/INFO]: DroggyCursedd left the game
+[04:31:46] [User Authenticator #3/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:31:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:31:46] [Server thread/INFO]: DroggyCursedd joined the game
+[04:31:46] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:54683] logged in with entity id 4112 at ([world]225.98273812438035, 92.0, -384.3117271582174)
+[04:31:49] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:31:49] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:31:49] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:32:38] [Server thread/INFO]: 
+[04:32:38] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[04:32:38] [Server thread/INFO]: [X: 439, Y: 89, Z: -257] [04:32:38]
+[04:33:07] [Server thread/INFO]: DroggyCursedd removed one flag
+[04:33:42] [Server thread/INFO]: 
+[04:33:42] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[04:33:42] [Server thread/INFO]: [X: 536, Y: 75, Z: -337] [04:33:42]
+[04:34:07] [Server thread/INFO]: DroggyCursedd removed one flag
+[04:34:12] [Server thread/INFO]: 
+[04:34:12] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 1
+[04:34:12] [Server thread/INFO]: [X: 646, Y: 80, Z: -312] [04:34:12]
+[04:35:07] [Server thread/INFO]: DroggyCursedd removed one flag
+[04:38:56] [Server thread/WARN]: [SimpleScore] Task #77806 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getCurrentText(PlayerLine.kt:13) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:136) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
