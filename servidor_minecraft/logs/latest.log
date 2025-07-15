@@ -238,3 +238,13 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [06:05:22] [Server thread/INFO]: 
 [06:05:22] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 2
 [06:05:22] [Server thread/INFO]: [X: 596, Y: 74, Z: 225] [06:05:22]
+[06:11:29] [Server thread/INFO]: 
+[06:11:29] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[06:11:29] [Server thread/INFO]: [X: -42, Y: 51, Z: 207] [06:11:29]
+[06:11:41] [Server thread/INFO]: DroggyCursedd removed one flag
+[06:12:53] [Server thread/INFO]: DroggyCursedd has made the advancement [A Terrible Fortress]
+[06:13:59] [Server thread/INFO]: DroggyCursedd has made the advancement [Into Fire]
+[06:17:11] [Server thread/INFO]: 
+[06:17:11] [Server thread/INFO]: DroggyCursedd failed AntiKnockBack A (Movement) Flags: 1
+[06:17:11] [Server thread/INFO]: [X: -216, Y: 89, Z: 204] [06:17:11]
+[06:17:41] [Server thread/INFO]: DroggyCursedd removed one flag
