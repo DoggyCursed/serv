@@ -343,3 +343,7 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [15:16:18] [Server thread/INFO]: DroggyCursedd failed NoClip A (Movement) Flags: 2
 [15:16:18] [Server thread/INFO]: [X: 487, Y: 64, Z: 2288] [15:16:18]
 [15:16:41] [Server thread/INFO]: DroggyCursedd has made the advancement [Stay Hydrated!]
+[15:17:21] [Server thread/INFO]: 
+[15:17:21] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[15:17:21] [Server thread/INFO]: [X: 491, Y: 80, Z: 2285] [15:17:21]
+[15:18:13] [Server thread/INFO]: DroggyCursedd removed one flag
