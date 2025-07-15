@@ -91,3 +91,5 @@
 [2025-07-15 19:45:28] [ALERT] DoggyCursed detected Reach (Hit) [in:vertical] [distance:4.125/4.1] [ping:-1] [vls:1(+1)]
 [2025-07-15 19:51:40] [ALERT] casimerito202 detected FastSwitch [BadPackets] [interval:48/50] [vls:2(+2)]
 [2025-07-15 19:51:41] [ALERT] casimerito202 detected FastSwitch [BadPackets] [interval:48/50] [vls:2(+2)]
+[2025-07-15 19:54:44] [ALERT] DoggyCursed detected Reach (Hit) [in:horizontal] [distance:4.180551458850869/4.1] [ping:-1] [vls:1(+1)]
+[2025-07-15 19:57:01] [ALERT] DoggyCursed detected FastSwitch [BadPackets] [interval:48/50] [vls:2(+2)]
