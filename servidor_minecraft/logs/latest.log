@@ -248,3 +248,16 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [06:17:11] [Server thread/INFO]: DroggyCursedd failed AntiKnockBack A (Movement) Flags: 1
 [06:17:11] [Server thread/INFO]: [X: -216, Y: 89, Z: 204] [06:17:11]
 [06:17:41] [Server thread/INFO]: DroggyCursedd removed one flag
+[06:19:48] [Server thread/INFO]: DroggyCursedd has completed the challenge [Hot Tourist Destinations]
+[06:20:13] [Server thread/INFO]: 
+[06:20:13] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[06:20:13] [Server thread/INFO]: [X: -271, Y: 88, Z: 141] [06:20:13]
+[06:20:41] [Server thread/INFO]: DroggyCursedd removed one flag
+[06:24:50] [Server thread/INFO]: 
+[06:24:50] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[06:24:50] [Server thread/INFO]: [X: -291, Y: 99, Z: 133] [06:24:50]
+[06:25:41] [Server thread/INFO]: DroggyCursedd removed one flag
+[06:27:40] [Server thread/INFO]: 
+[06:27:40] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
+[06:27:40] [Server thread/INFO]: [X: -325, Y: 78, Z: 123] [06:27:40]
+[06:27:41] [Server thread/INFO]: DroggyCursedd removed one flag
