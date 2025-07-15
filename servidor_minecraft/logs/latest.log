@@ -275,3 +275,5 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [06:37:24] [Server thread/INFO]: 
 [06:37:24] [Server thread/INFO]: DroggyCursedd failed AntiKnockBack A (Movement) Flags: 2
 [06:37:24] [Server thread/INFO]: [X: -372, Y: 42, Z: 65] [06:37:24]
+[06:57:56] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
+[06:57:56] [Server thread/INFO]: DroggyCursedd left the game
