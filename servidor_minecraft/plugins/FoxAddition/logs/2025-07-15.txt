@@ -46,3 +46,4 @@
 [2025-07-15 06:08:26] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:29/50] [vls:2(+2)]
 [2025-07-15 06:08:26] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:32/50] [vls:2(+2)]
 [2025-07-15 06:14:43] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:20/50] [vls:2(+2)]
+[2025-07-15 06:43:28] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:49/50] [vls:2(+2)]
