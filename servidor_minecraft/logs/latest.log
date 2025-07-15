@@ -372,3 +372,18 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [19:21:45] [Server thread/INFO]: 
 [19:21:45] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
 [19:21:45] [Server thread/INFO]: [X: -714, Y: 54, Z: 144] [19:21:45]
+[19:22:36] [Server thread/INFO]: DoggyCursed removed one flag
+[19:22:55] [Server thread/INFO]: [✖] casimerito202 recibió un flechazo en toda la cara. Le queda 1 vida.
+[19:23:02] [Server thread/INFO]: casimerito202 issued server command: /kitsç
+[19:23:38] [Server thread/INFO]: 
+[19:23:38] [Server thread/INFO]: casimerito202 failed AntiKnockBack A (Movement) Flags: 1
+[19:23:38] [Server thread/INFO]: [X: 351, Y: 76, Z: 248] [19:23:38]
+[19:23:51] [Server thread/INFO]: [✖] casimerito202 recibió un flechazo en toda la cara. Le quedan 0 vidas.
+[19:23:51] [Server thread/INFO]: [✖] casimerito202 se ha quedado sin vidas y fue expulsado del servidor.
+[19:23:51] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /ban casimerito202 Se te acabaron las 3 vidas.
+[19:23:51] [Server thread/INFO]: casimerito202 lost connection: You have been banned:
+Se te acabaron las 3 vidas.
+[19:23:51] [Server thread/INFO]: casimerito202 left the game
+[19:23:51] [Server thread/INFO]: [Essentials] Player Console banned casimerito202 for: \<secondary>You have been banned:
+\<reset>Se te acabaron las 3 vidas..
+[19:24:36] [Server thread/INFO]: casimerito202 removed one flag

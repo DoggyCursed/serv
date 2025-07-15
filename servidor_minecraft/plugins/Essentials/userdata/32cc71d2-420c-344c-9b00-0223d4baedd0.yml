@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752606912200
+  logout: 1752607431271
   login: 1752606962696
 money: '0'
 last-account-name: casimerito202
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 5e359c05-8fb1-42af-a34a-767b7e613072
   world-name: world
-  x: 282.41613314452457
-  y: 73.0
-  z: 223.72777472956017
-  yaw: -98.40000915527344
-  pitch: 12.149999618530273
+  x: 362.2846717639412
+  y: 80.00133597911214
+  z: 260.97254648339697
+  yaw: 51.450042724609375
+  pitch: 36.899986267089844
