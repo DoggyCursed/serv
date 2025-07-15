@@ -11,28 +11,20 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752537634831
+  lastteleport: 0
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752537754187
-  login: 1752537282068
-money: '1'
+  logout: 0
+  login: 1752603868951
+money: '0'
 last-account-name: DoggyCursed
-logoutlocation:
-  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
-  world-name: world
-  x: 177.1251967662161
-  y: 103.50622087760013
-  z: -194.51751246040527
-  yaw: -73.19955444335938
-  pitch: 40.132080078125
 lastlocation:
-  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world: 5e359c05-8fb1-42af-a34a-767b7e613072
   world-name: world
-  x: 454.44175889897036
-  y: 71.88705085574234
-  z: 49.143169114850544
-  yaw: 132.49429321289062
-  pitch: 45.00107192993164
+  x: 274.5
+  y: 73.0
+  z: 229.5
+  yaw: 0.0
+  pitch: 0.0

@@ -5,7 +5,7 @@ monitoring:
   isPluginActivated: true
 
   # Current penalty when maximum flags are exceeded (Nothing, Kick, Ban)
-  penalty: Nothing
+  penalty: kick
 
   # If enabled, the MineGuard BanSystem will be used, if not, you can use your own ban plugin
   useMineGuardPunishmentSystem: true
@@ -17,7 +17,7 @@ monitoring:
   kickCommand: kick %player% Client modifications (3rd-party software)
 
   # Maximum flags before punishment
-  penaltyFlags: 2
+  penaltyFlags: 3
 
   # Ban unfair players later (recommended: makes it harder to bypass as players won’t know what caused the ban)
   queue: false
@@ -26,7 +26,7 @@ monitoring:
   queueDelayInMinutes: 15
 
   # Cancels unfair actions from players
-  movementCancel: true
+  movementCancel: false
 
   # Removes flags from players after this time
   removeFlagDelayInSeconds: 60

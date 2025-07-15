@@ -473,3 +473,43 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
+[07-15 18:16:06]: [FINE] The user DroggyCursedd has 3 accounts:
+[07-15 18:16:06]: [FINE] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[07-15 18:16:06]: [FINE] DroggyCursedd logged in 127.197.36.135
+[07-15 18:16:39]: [FINE] The user DroggyCursedd has 3 accounts:
+[07-15 18:16:39]: [FINE] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[07-15 18:16:39]: [FINE] DroggyCursedd logged in 127.197.36.135
+[07-15 18:18:30]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-15 18:22:31]: [INFO] SQLite Setup finished
+[07-15 18:22:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-15 18:22:31]: [INFO] Hooked successfully into Essentials
+[07-15 18:22:31]: [INFO] Essentials spawn file not found: '/workspaces/serv/servidor_minecraft/plugins/Essentials/spawn.yml'
+[07-15 18:22:31]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-15 18:22:31]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-15 18:22:36]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-15 18:22:36]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-15 18:22:36]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-15 18:22:36]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-15 18:22:36]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[07-15 18:24:01]: [FINE] casimerito202 registered 127.245.190.124
+[07-15 18:24:01]: [FINE] The user casimerito202 has 2 accounts:
+[07-15 18:24:01]: [FINE] §7casimerit202, §acasimerito202§7.
+[07-15 18:24:01]: [FINE] casimerito202 logged in 127.245.190.124
+[07-15 18:24:47]: [FINE] The user DoggyCursed has 3 accounts:
+[07-15 18:24:47]: [FINE] §7§aDoggyCursed§7, droggycursed, droggycursedd.
+[07-15 18:24:47]: [FINE] DoggyCursed logged in 127.197.36.135

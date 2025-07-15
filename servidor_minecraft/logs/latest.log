@@ -1,192 +1,286 @@
-[18:02:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[18:02:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
-[18:02:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:02:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
-[18:02:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+[18:21:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[18:21:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
+[18:21:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:21:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[18:21:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
  - AuthMe (5.6.0-bCUSTOM), Essentials (2.21.1), EssentialsSpawn (2.21.1), FoxAddition (1.2.0), Geyser-Spigot (2.8.2-SNAPSHOT), MineGuard (1.2.7), PlaceholderAPI (2.11.6), SimpleScore (3.12.5), SkinsRestorer (15.7.6), Skript (2.11.2), TAB (5.2.4), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[18:02:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:02:27] [ServerMain/INFO]: Loaded 1407 recipes
-[18:02:27] [ServerMain/INFO]: Loaded 1520 advancements
-[18:02:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[18:02:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 401.8ms
-[18:02:28] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[18:02:28] [Server thread/INFO]: Loading properties
-[18:02:28] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
-[18:02:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:02:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:02:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:02:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:02:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:02:30] [Server thread/INFO]: Default game type: SURVIVAL
-[18:02:30] [Server thread/INFO]: Generating keypair
-[18:02:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:02:30] [Server thread/INFO]: Using epoll channel type
-[18:02:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:02:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[18:02:31] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
-[18:02:31] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:02:32] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[18:02:32] [Server thread/INFO]: [floodgate] Took 1,228ms to boot Floodgate
-[18:02:32] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:02:32] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
-[18:02:32] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[18:02:33] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[18:02:33] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[18:02:33] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
-[18:02:33] [Server thread/INFO]: [MineGuard] Loading server plugin MineGuard v1.2.7
-[18:02:33] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
-[18:02:33] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
-[18:02:33] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
-[18:02:33] [Server thread/INFO]: [FA] Loading server plugin FoxAddition v1.2.0
-[18:02:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
-[18:02:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:02:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
-[18:02:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
-[18:02:34] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[18:02:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:02:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
-[18:02:34] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[18:02:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:02:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:02:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:02:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:02:34] [Server thread/INFO]: Preparing level "world"
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:02:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:02:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:02:35] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:35] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:36] [Server thread/INFO]: Preparing spawn area: 2%
-[18:02:36] [Server thread/INFO]: Time elapsed: 1205 ms
-[18:02:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:02:36] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:36] [Server thread/INFO]: Time elapsed: 348 ms
-[18:02:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:02:36] [Server thread/INFO]: Preparing spawn area: 0%
-[18:02:36] [Server thread/INFO]: Time elapsed: 132 ms
-[18:02:36] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
-[18:02:37] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[18:02:37] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[18:02:37] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[18:02:37] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
-[18:02:37] [Server thread/INFO]: [Essentials] Using locale en
-[18:02:37] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[18:02:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[18:02:37] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[18:02:37] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:02:38] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:02:38] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:02:38] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
-[18:02:38] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[18:02:38] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[18:02:38] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
-[18:02:39] [Server thread/INFO]: [TAB] Enabled in 241ms
-[18:02:39] [Server thread/INFO]: [MineGuard] Enabling MineGuard v1.2.7
-[18:02:39] [Server thread/INFO]: ███╗   ███╗██╗███╗   ██╗███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ 
-[18:02:39] [Server thread/INFO]: ████╗ ████║██║████╗  ██║██╔════╝██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
-[18:02:39] [Server thread/INFO]: ██╔████╔██║██║██╔██╗ ██║█████╗  ██║  ███╗██║   ██║███████║██████╔╝██║  ██║
-[18:02:39] [Server thread/INFO]: ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
-[18:02:39] [Server thread/INFO]: ██║ ╚═╝ ██║██║██║ ╚████║███████╗╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
-[18:02:39] [Server thread/INFO]: ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
-[18:02:39] [Server thread/INFO]: [MineGuard] » MineGuard Anticheat loaded
-[18:02:39] [Server thread/INFO]: [MineGuard] » MineGuard relies heavily on server TPS!
-[18:02:39] [Server thread/INFO]: [MineGuard] » Do you have suggestions for MineGuard or want quick support?
-[18:02:39] [Server thread/INFO]: [MineGuard] » Join the MineGuard Discord now! https://discord.gg/Bp5t3Z8hJz
-[18:02:39] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
-[18:02:39] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
-[18:02:40] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[18:02:40] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
-[18:02:41] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[18:02:41] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[18:02:41] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[18:02:41] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[18:02:41] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[18:02:41] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
-[18:02:42] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
-[18:02:42] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
-[18:02:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
-[18:02:42] [Server thread/INFO]: [FA] Enabling FoxAddition v1.2.0
-[18:02:42] [Server thread/INFO]: [FA]                           
-[18:02:42] [Server thread/INFO]: [FA] ______                         _      _  _  _    _                 
-[18:02:42] [Server thread/INFO]: [FA] |  ____|             /\       | |    | |(_)| |  (_)              
-[18:02:42] [Server thread/INFO]: [FA] | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
-[18:02:42] [Server thread/INFO]: [FA] |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
-[18:02:42] [Server thread/INFO]: [FA] | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
-[18:02:42] [Server thread/INFO]: [FA] |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
-[18:02:42] [Server thread/INFO]: [FA]          Powered by https://www.idcteam.xyz/
-[18:02:42] [Server thread/INFO]: [FA]                           
-[18:02:42] [Server thread/INFO]: [FA]                  Created by NovaCraft254
-[18:02:42] [Server thread/INFO]: [FA]         Running on 1.21.7-27-d9b5003 (MC: 1.21.7)
-[18:02:42] [Server thread/INFO]: [FA]                           
-[18:02:42] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs started...
-[18:02:42] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs finished.
-[18:02:42] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 1799ms
-[18:02:42] [Server thread/INFO]: [FA] [PHASE] Detecting automatically your version...
-[18:02:42] [Server thread/INFO]: [FA] [HOOK] Geyser (with Floodgate) has been hooked.
-[18:02:42] [Server thread/INFO]: [FA] [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
-[18:02:42] [Server thread/INFO]: [FA] [HOOK] PlaceholderAPI has been hooked.
-[18:02:42] [Server thread/INFO]: [FA] [FILES] FileWatcher is now enabled and ready to apply changes.
-[18:02:42] [Server thread/WARN]: [FA] [UPDATER] A new version of this plugin has been found.
-[18:02:42] [Server thread/WARN]: [FA] [UPDATER] Your version is: 1.2.0
-[18:02:42] [Server thread/WARN]: [FA] [UPDATER] Latest version is: 1.2.2
-[18:02:42] [Server thread/WARN]: [FA] [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
-[18:02:43] [Server thread/INFO]: [spark] Starting background profiler...
-[18:02:43] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:02:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:02:43] [Server thread/INFO]: [Geyser-Spigot] 
-[18:02:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b881 (git-master-17bd368)
-[18:02:43] [Server thread/INFO]: [Geyser-Spigot] 
-[18:02:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:02:47] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[18:02:47] [Server thread/INFO]: [Geyser-Spigot] Done (3.732s)! Run /geyser help for help!
-[18:02:47] [Server thread/INFO]: Done preparing level "world" (12.814s)
-[18:02:47] [Server thread/INFO]: Running delayed init tasks
-[18:02:47] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[18:02:47] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[18:02:47] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[18:02:47] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[18:02:47] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[18:02:47] [Craft Scheduler Thread - 1 - MineGuard/INFO]: [MineGuard] » You are using the latest MineGuard version (1.2.7)
-[18:02:47] [Server thread/INFO]: [Skript] Loading variables...
-[18:02:47] [Server thread/INFO]: [Skript] Loaded 60 variables in 0.0 seconds
-[18:02:47] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[18:02:47] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.31 seconds
-[18:02:47] [Server thread/INFO]: [Skript] Finished loading.
-[18:02:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:02:47] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
-[18:02:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[18:02:47] [Server thread/INFO]: 2 placeholder hook(s) registered!
-[18:02:47] [Server thread/INFO]: Done (28.079s)! For help, type "help"
+[18:21:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:21:57] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[18:21:57] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[18:21:58] [ServerMain/INFO]: No existing world data, creating new world
+[18:21:59] [ServerMain/INFO]: Loaded 1407 recipes
+[18:21:59] [ServerMain/INFO]: Loaded 1520 advancements
+[18:21:59] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:22:00] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 386.4ms
+[18:22:00] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[18:22:00] [Server thread/INFO]: Loading properties
+[18:22:00] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[18:22:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:22:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:22:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:22:00] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:22:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:22:01] [Server thread/INFO]: Default game type: SURVIVAL
+[18:22:01] [Server thread/INFO]: Generating keypair
+[18:22:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:22:02] [Server thread/INFO]: Using epoll channel type
+[18:22:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:22:02] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:22:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[18:22:02] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:22:03] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[18:22:03] [Server thread/INFO]: [floodgate] Took 1,092ms to boot Floodgate
+[18:22:03] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[18:22:03] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
+[18:22:03] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[18:22:04] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:22:04] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:22:04] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[18:22:04] [Server thread/INFO]: [MineGuard] Loading server plugin MineGuard v1.2.7
+[18:22:04] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
+[18:22:04] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[18:22:04] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[18:22:04] [Server thread/INFO]: [FA] Loading server plugin FoxAddition v1.2.0
+[18:22:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
+[18:22:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:22:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
+[18:22:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[18:22:05] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[18:22:05] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:22:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
+[18:22:05] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[18:22:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:22:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:22:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:22:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:22:05] [Server thread/INFO]: Preparing level "world"
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:22:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:22:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:22:18] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:18] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:19] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:19] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:20] [Server thread/INFO]: Preparing spawn area: 4%
+[18:22:20] [Server thread/INFO]: Preparing spawn area: 18%
+[18:22:21] [Server thread/INFO]: Preparing spawn area: 18%
+[18:22:21] [Server thread/INFO]: Preparing spawn area: 18%
+[18:22:22] [Server thread/INFO]: Preparing spawn area: 30%
+[18:22:22] [Server thread/INFO]: Preparing spawn area: 51%
+[18:22:23] [Server thread/INFO]: Preparing spawn area: 51%
+[18:22:23] [Server thread/INFO]: Preparing spawn area: 55%
+[18:22:24] [Server thread/INFO]: Preparing spawn area: 55%
+[18:22:24] [Server thread/INFO]: Time elapsed: 6481 ms
+[18:22:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:22:24] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:25] [Server thread/INFO]: Preparing spawn area: 12%
+[18:22:26] [Server thread/INFO]: Preparing spawn area: 18%
+[18:22:26] [Server thread/INFO]: Preparing spawn area: 51%
+[18:22:27] [Server thread/INFO]: Preparing spawn area: 91%
+[18:22:27] [Server thread/INFO]: Time elapsed: 2508 ms
+[18:22:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:22:27] [Server thread/INFO]: Preparing spawn area: 2%
+[18:22:27] [Server thread/INFO]: Preparing spawn area: 51%
+[18:22:27] [Server thread/INFO]: Time elapsed: 582 ms
+[18:22:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[18:22:28] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
+[18:22:28] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[18:22:28] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[18:22:28] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[18:22:28] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[18:22:28] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:22:28] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:22:28] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[18:22:28] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[18:22:28] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[18:22:28] [Server thread/INFO]: [Essentials] Done converting random teleport config.
+[18:22:28] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[18:22:28] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[18:22:28] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[18:22:28] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[18:22:28] [Server thread/INFO]: [Essentials] Using locale en
+[18:22:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:22:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:22:29] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[18:22:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:22:29] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[18:22:29] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[18:22:29] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
+[18:22:29] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[18:22:29] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[18:22:29] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[18:22:30] [Server thread/INFO]: [TAB] Enabled in 227ms
+[18:22:30] [Server thread/INFO]: [MineGuard] Enabling MineGuard v1.2.7
+[18:22:30] [Server thread/INFO]: ███╗   ███╗██╗███╗   ██╗███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ 
+[18:22:30] [Server thread/INFO]: ████╗ ████║██║████╗  ██║██╔════╝██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
+[18:22:30] [Server thread/INFO]: ██╔████╔██║██║██╔██╗ ██║█████╗  ██║  ███╗██║   ██║███████║██████╔╝██║  ██║
+[18:22:30] [Server thread/INFO]: ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
+[18:22:30] [Server thread/INFO]: ██║ ╚═╝ ██║██║██║ ╚████║███████╗╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
+[18:22:30] [Server thread/INFO]: ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+[18:22:30] [Server thread/INFO]: [MineGuard] » MineGuard Anticheat loaded
+[18:22:30] [Server thread/INFO]: [MineGuard] » MineGuard relies heavily on server TPS!
+[18:22:30] [Server thread/INFO]: [MineGuard] » Do you have suggestions for MineGuard or want quick support?
+[18:22:30] [Server thread/INFO]: [MineGuard] » Join the MineGuard Discord now! https://discord.gg/Bp5t3Z8hJz
+[18:22:30] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
+[18:22:30] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[18:22:31] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[18:22:31] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[18:22:31] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[18:22:31] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[18:22:31] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[18:22:31] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/serv/servidor_minecraft/plugins/Essentials/spawn.yml'
+[18:22:31] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[18:22:31] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[18:22:31] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[18:22:32] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
+[18:22:32] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
+[18:22:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[18:22:32] [Server thread/INFO]: [FA] Enabling FoxAddition v1.2.0
+[18:22:32] [Server thread/INFO]: [FA]                           
+[18:22:32] [Server thread/INFO]: [FA] ______                         _      _  _  _    _                 
+[18:22:32] [Server thread/INFO]: [FA] |  ____|             /\       | |    | |(_)| |  (_)              
+[18:22:32] [Server thread/INFO]: [FA] | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
+[18:22:32] [Server thread/INFO]: [FA] |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
+[18:22:32] [Server thread/INFO]: [FA] | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
+[18:22:32] [Server thread/INFO]: [FA] |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
+[18:22:32] [Server thread/INFO]: [FA]          Powered by https://www.idcteam.xyz/
+[18:22:32] [Server thread/INFO]: [FA]                           
+[18:22:32] [Server thread/INFO]: [FA]                  Created by NovaCraft254
+[18:22:32] [Server thread/INFO]: [FA]         Running on 1.21.7-27-d9b5003 (MC: 1.21.7)
+[18:22:32] [Server thread/INFO]: [FA]                           
+[18:22:32] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs started...
+[18:22:32] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs finished.
+[18:22:32] [Server thread/INFO]: [FA] [PHASE] Detecting automatically your version...
+[18:22:32] [Server thread/INFO]: [FA] [HOOK] Geyser (with Floodgate) has been hooked.
+[18:22:32] [Server thread/INFO]: [FA] [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
+[18:22:32] [Server thread/INFO]: [FA] [HOOK] PlaceholderAPI has been hooked.
+[18:22:32] [Server thread/INFO]: [FA] [FILES] FileWatcher is now enabled and ready to apply changes.
+[18:22:32] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 1476ms
+[18:22:32] [Server thread/WARN]: [FA] [UPDATER] A new version of this plugin has been found.
+[18:22:32] [Server thread/WARN]: [FA] [UPDATER] Your version is: 1.2.0
+[18:22:32] [Server thread/WARN]: [FA] [UPDATER] Latest version is: 1.2.2
+[18:22:32] [Server thread/WARN]: [FA] [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
+[18:22:33] [Server thread/INFO]: [spark] Starting background profiler...
+[18:22:33] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[18:22:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:22:33] [Server thread/INFO]: [Geyser-Spigot] 
+[18:22:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b881 (git-master-17bd368)
+[18:22:33] [Server thread/INFO]: [Geyser-Spigot] 
+[18:22:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:22:36] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[18:22:36] [Server thread/INFO]: [Geyser-Spigot] Done (3.275s)! Run /geyser help for help!
+[18:22:36] [Server thread/INFO]: Done preparing level "world" (31.385s)
+[18:22:36] [Server thread/INFO]: Running delayed init tasks
+[18:22:36] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[18:22:36] [Craft Scheduler Thread - 8 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[18:22:36] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[18:22:36] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[18:22:36] [Craft Scheduler Thread - 8 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[18:22:37] [Craft Scheduler Thread - 6 - MineGuard/INFO]: [MineGuard] » You are using the latest MineGuard version (1.2.7)
+[18:22:37] [Server thread/INFO]: [Skript] Loading variables...
+[18:22:37] [Server thread/INFO]: [Skript] Loaded 60 variables in 0.0 seconds
+[18:22:37] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[18:22:37] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.31 seconds
+[18:22:37] [Server thread/INFO]: [Skript] Finished loading.
+[18:22:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[18:22:37] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[18:22:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[18:22:37] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[18:22:37] [Server thread/INFO]: Done (46.013s)! For help, type "help"
+[18:23:07] [User Authenticator #0/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[18:23:07] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [AuthMe, MineGuard, SkinsRestorer, FoxAddition, Essentials, floodgate]
+[18:23:09] [Server thread/INFO]: casimerito202 joined the game
+[18:23:09] [Server thread/INFO]: casimerito202[/127.245.190.124:43857] logged in with entity id 67 at ([world]273.5, 73.0, 229.5)
+[18:23:09] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:23:09] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[18:23:09] [Server thread/INFO]: casimerito202 has made the advancement [Getting an Upgrade]
+[18:23:35] [Server thread/WARN]: [SimpleScore] Task #1209 for SimpleScore v3.12.5 generated an exception
+java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
+	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:23:39] [Server thread/INFO]: casimerito202 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[18:23:39] [Server thread/INFO]: casimerito202 left the game
+[18:23:42] [User Authenticator #0/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[18:23:43] [Server thread/INFO]: casimerito202 joined the game
+[18:23:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:23:43] [Server thread/INFO]: casimerito202[/127.245.190.124:36847] logged in with entity id 349 at ([world]272.67029732497434, 72.0, 224.9810157769725)
+[18:24:01] [Server thread/INFO]: [AuthMe] casimerito202 registered 127.245.190.124
+[18:24:01] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[18:24:01] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[18:24:01] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[18:24:27] [User Authenticator #0/INFO]: UUID of player DoggyCursed is 721e59e6-bc63-36d3-89df-6302082c7737
+[18:24:28] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DoggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:24:28] [Server thread/INFO]: DoggyCursed joined the game
+[18:24:28] [Server thread/INFO]: DoggyCursed[/127.197.36.135:60205] logged in with entity id 684 at ([world]274.5, 73.0, 229.5)
+[18:24:29] [Server thread/INFO]: DoggyCursed has made the advancement [Getting an Upgrade]
+[18:24:47] [Craft Scheduler Thread - 12 - AuthMe/INFO]: [AuthMe] The user DoggyCursed has 3 accounts:
+[18:24:47] [Craft Scheduler Thread - 12 - AuthMe/INFO]: [AuthMe] §7§aDoggyCursed§7, droggycursed, droggycursedd.
+[18:24:47] [Craft Scheduler Thread - 12 - AuthMe/INFO]: [AuthMe] DoggyCursed logged in 127.197.36.135
+[18:24:50] [Server thread/INFO]: 
+[18:24:50] [Server thread/INFO]: casimerito202 failed AntiKnockBack A (Movement) Flags: 1
+[18:24:50] [Server thread/INFO]: [X: 271, Y: 73, Z: 227] [18:24:50]
+[18:24:51] [Server thread/INFO]: casimerito202 has made the advancement [Monster Hunter]
+[18:24:56] [Async Chat Thread - #0/INFO]: [Not Secure] <DoggyCursed> pon /skin set
+[18:25:03] [Async Chat Thread - #0/INFO]: [Not Secure] <DoggyCursed> pon /skin set (nombre de una skin)
+[18:25:07] [Server thread/INFO]: casimerito202 issued server command: /skin set
+[18:25:08] [Server thread/INFO]: DoggyCursed issued server command: /deop DoggyCursed
+[18:25:08] [Server thread/INFO]: [DoggyCursed: Made DoggyCursed no longer a server operator]
+[18:25:16] [Server thread/INFO]: DoggyCursed has made the advancement [Stone Age]
+[18:25:18] [Server thread/INFO]: casimerito202 has made the advancement [Stone Age]
+[18:25:36] [Server thread/INFO]: casimerito202 removed one flag
+[18:29:57] [Server thread/INFO]: 
+[18:29:57] [Server thread/INFO]: DoggyCursed failed Speed B (Movement) Flags: 1
+[18:29:57] [Server thread/INFO]: [X: 418, Y: 77, Z: 257] [18:29:57]
+[18:30:36] [Server thread/INFO]: DoggyCursed removed one flag
+[18:30:46] [Server thread/INFO]: 
+[18:30:46] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
+[18:30:46] [Server thread/INFO]: [X: 438, Y: 80, Z: 266] [18:30:46]
+[18:31:36] [Server thread/INFO]: DoggyCursed removed one flag

@@ -1,11 +1,5 @@
 [
   {
-    "uuid": "721e59e6-bc63-36d3-89df-6302082c7737",
-    "name": "DoggyCursed",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "ed2490a3-2ce4-3bad-87d5-96bd8001fab5",
     "name": "DroggyCursed",
     "level": 4,
