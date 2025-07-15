@@ -432,3 +432,22 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [16:46:16] [Server thread/INFO]: DroggyCursedd has reached the goal [The Next Generation]
 [16:48:29] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
 [16:48:29] [Server thread/INFO]: DroggyCursedd left the game
+[17:10:55] [User Authenticator #3/INFO]: UUID of player zeko123 is 887fd337-0d72-350f-8c05-b9474b577daa
+[17:10:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player zeko123's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:10:57] [Server thread/INFO]: zeko123 joined the game
+[17:10:57] [Server thread/INFO]: zeko123[/127.11.84.68:48467] logged in with entity id 21918 at ([world]71.5, 118.0, -98.5)
+[17:10:57] [Server thread/INFO]: zeko123 has made the advancement [Getting an Upgrade]
+[17:11:26] [Server thread/INFO]: [AuthMe] zeko123 registered 127.11.84.68
+[17:11:26] [Craft Scheduler Thread - 559 - AuthMe/INFO]: [AuthMe] zeko123 logged in 127.11.84.68
+[17:12:09] [Server thread/INFO]: zeko123 has made the advancement [Monster Hunter]
+[17:14:15] [User Authenticator #4/INFO]: UUID of player Alex_123 is 5c995877-5604-38b5-a324-955d363b6c5d
+[17:14:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alex_123's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:14:16] [Server thread/INFO]: Alex_123 joined the game
+[17:14:16] [Server thread/INFO]: Alex_123[/127.166.114.16:57595] logged in with entity id 22535 at ([world]57.5, 125.0, -101.5)
+[17:14:16] [Server thread/INFO]: Alex_123 has made the advancement [Getting an Upgrade]
+[17:14:41] [Server thread/INFO]: zeko123 has made the advancement [Sweet Dreams]
+[17:14:46] [Server thread/INFO]: Alex_123 lost connection: Timed out
+[17:14:46] [Server thread/INFO]: Alex_123 left the game
+[17:15:26] [Server thread/INFO]: [✖] zeko123 recibió un flechazo en toda la cara. Le quedan 2 vidas.
+[17:15:32] [Server thread/INFO]: zeko123 issued server command: /back
+[17:15:32] [Server thread/INFO]: [Essentials] zeko123 was denied access to command.
