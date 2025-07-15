@@ -284,3 +284,17 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [18:30:46] [Server thread/INFO]: DoggyCursed failed NoFall A (Movement) Flags: 1
 [18:30:46] [Server thread/INFO]: [X: 438, Y: 80, Z: 266] [18:30:46]
 [18:31:36] [Server thread/INFO]: DoggyCursed removed one flag
+[18:31:57] [Server thread/INFO]: casimerito202 lost connection: Disconnected
+[18:31:57] [Server thread/INFO]: casimerito202 left the game
+[18:34:47] [User Authenticator #1/INFO]: UUID of player casimerito202 is 32cc71d2-420c-344c-9b00-0223d4baedd0
+[18:34:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerito202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:34:48] [Server thread/INFO]: casimerito202 joined the game
+[18:34:48] [Server thread/INFO]: casimerito202[/127.245.190.124:52507] logged in with entity id 2882 at ([world]440.14188483849773, 80.0, 266.69999998807907)
+[18:34:57] [Craft Scheduler Thread - 51 - AuthMe/INFO]: [AuthMe] The user casimerito202 has 2 accounts:
+[18:34:57] [Craft Scheduler Thread - 51 - AuthMe/INFO]: [AuthMe] §7casimerit202, §acasimerito202§7.
+[18:34:57] [Craft Scheduler Thread - 51 - AuthMe/INFO]: [AuthMe] casimerito202 logged in 127.245.190.124
+[18:35:37] [Server thread/INFO]: casimerito202 lost connection: Disconnected
+[18:35:37] [Server thread/INFO]: casimerito202 left the game
+[18:37:32] [Server thread/INFO]: DoggyCursed has made the advancement [Monster Hunter]
+[18:41:20] [Server thread/INFO]: DoggyCursed has made the advancement [Acquire Hardware]
+[18:41:56] [Server thread/INFO]: DoggyCursed has made the advancement [Isn't It Iron Pick]
