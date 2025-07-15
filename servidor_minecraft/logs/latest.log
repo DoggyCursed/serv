@@ -377,3 +377,16 @@ java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
 [15:52:02] [Server thread/INFO]: 
 [15:52:02] [Server thread/INFO]: DroggyCursedd failed Speed B (Movement) Flags: 2
 [15:52:02] [Server thread/INFO]: [X: 18, Y: 69, Z: 2023] [15:52:02]
+[15:58:01] [Server thread/INFO]: 
+[15:58:01] [Server thread/INFO]: DroggyCursedd failed AutoClicker C (Interaction) Flags: 1
+[15:58:01] [Server thread/INFO]: [X: 317, Y: 88, Z: 2272] [15:58:01]
+[15:58:13] [Server thread/INFO]: DroggyCursedd removed one flag
+[16:00:50] [Server thread/INFO]: DroggyCursedd lost connection: Timed out
+[16:00:50] [Server thread/INFO]: DroggyCursedd left the game
+[16:01:10] [User Authenticator #1/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[16:01:11] [Server thread/INFO]: DroggyCursedd joined the game
+[16:01:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[16:01:11] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:52879] logged in with entity id 13921 at ([world]329.3095411882408, 71.0, 2253.296156382129)
+[16:01:19] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[16:01:19] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[16:01:19] [Craft Scheduler Thread - 287 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135

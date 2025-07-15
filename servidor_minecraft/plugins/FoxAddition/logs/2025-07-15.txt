@@ -59,3 +59,7 @@
 [2025-07-15 15:45:36] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:47/50] [vls:2(+2)]
 [2025-07-15 15:54:17] [ALERT] DroggyCursedd detected Lenience [FastBow] [lenience:112/151] [interval:856/950] [vls:1(+1)]
 [2025-07-15 15:54:19] [ALERT] DroggyCursedd detected Lenience [FastBow] [lenience:112/151] [interval:900/950] [vls:1(+1)]
+[2025-07-15 15:58:01] [ALERT] DroggyCursedd detected FastPlace [Blocks] [interval:5/60] [vls:1(+1)]
+[2025-07-15 15:58:01] [ALERT] DroggyCursedd detected FastPlace [Blocks] [interval:5/60] [vls:1(+1)]
+[2025-07-15 15:58:01] [ALERT] DroggyCursedd detected FastPlace [Blocks] [interval:0/60] [vls:1(+1)]
+[2025-07-15 15:58:01] [ALERT] DroggyCursedd detected FastPlace [Blocks] [interval:1/60] [vls:1(+1)]
