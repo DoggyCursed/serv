@@ -172,3 +172,46 @@
 [07-15 00:06:36]: [FINE] casimerit202 logged in 127.245.190.124
 [07-15 00:09:34]: [FINE] xTaku_ used the wrong password
 [07-15 00:09:40]: [FINE] xTaku_ logged in 127.186.232.238
+[07-15 00:15:38]: [FINE] The user DroggyCursed has 2 accounts:
+[07-15 00:15:38]: [FINE] §7doggycursed, §aDroggyCursed§7.
+[07-15 00:15:38]: [FINE] DroggyCursed logged in 127.197.36.135
+[07-15 00:19:07]: [FINE] xTaku_ used the wrong password
+[07-15 00:19:12]: [FINE] xTaku_ logged in 127.186.232.238
+[07-15 00:22:25]: [FINE] xTaku_ logged in 127.186.232.238
+[07-15 00:22:30]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-15 00:23:11]: [INFO] SQLite Setup finished
+[07-15 00:23:11]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-15 00:23:11]: [INFO] Hooked successfully into Essentials
+[07-15 00:23:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-15 00:23:11]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-15 00:23:17]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-15 00:23:17]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-15 00:23:17]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-15 00:23:17]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-15 00:23:17]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at AuthMe-5.6.0.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[07-15 00:23:33]: [FINE] The user DroggyCursed has 2 accounts:
+[07-15 00:23:33]: [FINE] §7doggycursed, §aDroggyCursed§7.
+[07-15 00:23:33]: [FINE] DroggyCursed logged in 127.197.36.135
+[07-15 00:23:48]: [FINE] casimerit202 logged in 127.245.190.124
+[07-15 00:23:50]: [FINE] xTaku_ logged in 127.186.232.238
+[07-15 00:25:18]: [FINE] The user DroggyCursed has 2 accounts:
+[07-15 00:25:18]: [FINE] §7doggycursed, §aDroggyCursed§7.
+[07-15 00:25:18]: [FINE] DroggyCursed logged in 127.197.36.135
+[07-15 00:25:45]: [FINE] xTaku_ logged in 127.186.232.238
+[07-15 00:28:04]: [FINE] xTaku_ logged in 127.186.232.238
+[07-15 00:30:28]: [FINE] casimerit202 logged in 127.245.190.124

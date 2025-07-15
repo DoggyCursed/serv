@@ -2,3 +2,7 @@
 [2025-07-15 00:05:52] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
 [2025-07-15 00:12:27] [ALERT] casimerit202 detected FastPlace [Blocks] [interval:36/60] [vls:1(+1)]
 [2025-07-15 00:12:30] [ALERT] casimerit202 detected FastPlace [Blocks] [interval:46/60] [vls:1(+1)]
+[2025-07-15 00:21:00] [ALERT] casimerit202 detected FastSwitch [BadPackets] [interval:44/50] [vls:2(+2)]
+[2025-07-15 00:23:12] 
+[2025-07-15 00:23:12] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-15 00:24:07] [ALERT] xTaku_ detected Reach (Hit) [in:horizontal] [distance:4.103365263380888/4.1] [ping:-1] [vls:1(+1)]

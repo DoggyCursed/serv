@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752538402164
-  login: 1752537978768
+  logout: 1752539085607
+  login: 1752539104582
 money: '0'
 last-account-name: DroggyCursed
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
   world-name: world
-  x: 1048.191951117767
-  y: 69.0
-  z: -405.895976240787
-  yaw: -119.79776763916016
-  pitch: 14.4340181350708
+  x: 1648.8468095284763
+  y: 81.0
+  z: -762.2040102050552
+  yaw: -2.616098403930664
+  pitch: 52.73590850830078

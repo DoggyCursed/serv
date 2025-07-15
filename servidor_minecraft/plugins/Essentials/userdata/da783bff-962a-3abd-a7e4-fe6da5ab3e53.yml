@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752538174608
-  login: 1752538178503
+  logout: 1752539163208
+  login: 1752539276299
 money: '0'
 last-account-name: xTaku_
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
   world-name: world
-  x: 520.4149022322399
-  y: 77.0
-  z: 66.69999998807907
-  yaw: -0.4917382299900055
-  pitch: 12.599992752075195
+  x: 1340.2001012344224
+  y: 66.0
+  z: -378.6056287881492
+  yaw: -148.08926391601562
+  pitch: 14.100008964538574

@@ -17,7 +17,7 @@ monitoring:
   kickCommand: kick %player% Client modifications (3rd-party software)
 
   # Maximum flags before punishment
-  penaltyFlags: 5
+  penaltyFlags: 2
 
   # Ban unfair players later (recommended: makes it harder to bypass as players won’t know what caused the ban)
   queue: false

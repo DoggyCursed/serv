@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.63.224.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752539515508
+  login: 1752539500921
+money: '0'
+last-account-name: freadny
+lastlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 56.5
+  y: 124.0
+  z: -91.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 332c21e2-3bb7-491a-aa15-9a4107cbc3ab
+  world-name: world
+  x: 63.5
+  y: 122.0
+  z: -97.5
+  yaw: -67.98738098144531
+  pitch: 24.02910041809082
