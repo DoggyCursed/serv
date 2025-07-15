@@ -1,1010 +1,201 @@
-[00:22:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[00:22:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
-[00:22:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:22:50] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
-[00:22:50] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (13):
- - AuthMe (5.6.0-bCUSTOM), Essentials (2.21.1), EssentialsSpawn (2.21.1), FoxAddition (1.2.0), Geyser-Spigot (2.8.2-SNAPSHOT), LightAntiCheat (1.2.6), MineGuard (1.2.7), PlaceholderAPI (2.11.6), SimpleScore (3.12.5), SkinsRestorer (15.7.6), Skript (2.11.2), TAB (5.2.4), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[00:22:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:22:58] [ServerMain/INFO]: Loaded 1407 recipes
-[00:22:58] [ServerMain/INFO]: Loaded 1520 advancements
-[00:22:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[00:22:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 470.7ms
-[00:22:58] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[00:22:58] [Server thread/INFO]: Loading properties
-[00:22:58] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
-[00:22:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:22:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:22:58] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:22:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:22:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:23:00] [Server thread/INFO]: Default game type: SURVIVAL
-[00:23:00] [Server thread/INFO]: Generating keypair
-[00:23:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:23:00] [Server thread/INFO]: Using epoll channel type
-[00:23:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:23:00] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[00:23:01] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
-[00:23:01] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[00:23:02] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:23:02] [Server thread/INFO]: [floodgate] Took 885ms to boot Floodgate
-[00:23:02] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[00:23:02] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
-[00:23:02] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[00:23:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:23:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:23:02] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
-[00:23:02] [Server thread/INFO]: [MineGuard] Loading server plugin MineGuard v1.2.7
-[00:23:02] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
-[00:23:02] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
-[00:23:02] [Server thread/INFO]: [LightAntiCheat] Loading server plugin LightAntiCheat v1.2.6
-[00:23:02] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
-[00:23:02] [Server thread/INFO]: [FA] Loading server plugin FoxAddition v1.2.0
-[00:23:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
-[00:23:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:23:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
-[00:23:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
-[00:23:03] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:23:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:23:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
-[00:23:03] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[00:23:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:23:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:23:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:23:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:23:04] [Server thread/INFO]: Preparing level "world"
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:23:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:23:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:23:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:23:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:23:05] [Server thread/INFO]: Preparing spawn area: 2%
-[00:23:05] [Server thread/INFO]: Time elapsed: 1181 ms
-[00:23:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:23:05] [Server thread/INFO]: Preparing spawn area: 0%
-[00:23:06] [Server thread/INFO]: Time elapsed: 278 ms
-[00:23:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:23:06] [Server thread/INFO]: Preparing spawn area: 0%
-[00:23:06] [Server thread/INFO]: Time elapsed: 117 ms
-[00:23:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
-[00:23:06] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[00:23:06] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[00:23:06] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[00:23:06] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[00:23:07] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
-[00:23:07] [Server thread/INFO]: [Essentials] Using locale en
-[00:23:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[00:23:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[00:23:07] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[00:23:07] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[00:23:07] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[00:23:08] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[00:23:08] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
-[00:23:08] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[00:23:08] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[00:23:08] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
-[00:23:08] [Server thread/INFO]: [TAB] Enabled in 209ms
-[00:23:08] [Server thread/INFO]: [MineGuard] Enabling MineGuard v1.2.7
-[00:23:08] [Server thread/INFO]: ███╗   ███╗██╗███╗   ██╗███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ 
-[00:23:08] [Server thread/INFO]: ████╗ ████║██║████╗  ██║██╔════╝██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
-[00:23:08] [Server thread/INFO]: ██╔████╔██║██║██╔██╗ ██║█████╗  ██║  ███╗██║   ██║███████║██████╔╝██║  ██║
-[00:23:08] [Server thread/INFO]: ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
-[00:23:08] [Server thread/INFO]: ██║ ╚═╝ ██║██║██║ ╚████║███████╗╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
-[00:23:08] [Server thread/INFO]: ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
-[00:23:08] [Server thread/INFO]: [MineGuard] » MineGuard Anticheat loaded
-[00:23:08] [Server thread/INFO]: [MineGuard] » MineGuard relies heavily on server TPS!
-[00:23:08] [Server thread/INFO]: [MineGuard] » Do you have suggestions for MineGuard or want quick support?
-[00:23:08] [Server thread/INFO]: [MineGuard] » Join the MineGuard Discord now! https://discord.gg/Bp5t3Z8hJz
-[00:23:08] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
-[00:23:09] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
-[00:23:10] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
-[00:23:10] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
-[00:23:11] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[00:23:11] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[00:23:11] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[00:23:11] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[00:23:11] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[00:23:11] [Server thread/INFO]: [LightAntiCheat] Enabling LightAntiCheat v1.2.6
-[00:23:12] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
-[00:23:12] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 1561ms
-[00:23:12] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
-[00:23:12] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
-[00:23:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
-[00:23:12] [Server thread/INFO]: [FA] Enabling FoxAddition v1.2.0
-[00:23:12] [Server thread/INFO]: [FA]                           
-[00:23:12] [Server thread/INFO]: [FA] ______                         _      _  _  _    _                 
-[00:23:12] [Server thread/INFO]: [FA] |  ____|             /\       | |    | |(_)| |  (_)              
-[00:23:12] [Server thread/INFO]: [FA] | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
-[00:23:12] [Server thread/INFO]: [FA] |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
-[00:23:12] [Server thread/INFO]: [FA] | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
-[00:23:12] [Server thread/INFO]: [FA] |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
-[00:23:12] [Server thread/INFO]: [FA]          Powered by https://www.idcteam.xyz/
-[00:23:12] [Server thread/INFO]: [FA]                           
-[00:23:12] [Server thread/INFO]: [FA]                  Created by NovaCraft254
-[00:23:12] [Server thread/INFO]: [FA]         Running on 1.21.7-27-d9b5003 (MC: 1.21.7)
-[00:23:12] [Server thread/INFO]: [FA]                           
-[00:23:12] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs started...
-[00:23:12] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs finished.
-[00:23:12] [Server thread/INFO]: [FA] [PHASE] Detecting automatically your version...
-[00:23:12] [Server thread/INFO]: [FA] [HOOK] Geyser (with Floodgate) has been hooked.
-[00:23:12] [Server thread/INFO]: [FA] [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
-[00:23:12] [Server thread/INFO]: [FA] [HOOK] PlaceholderAPI has been hooked.
-[00:23:12] [Server thread/INFO]: [FA] [FILES] FileWatcher is now enabled and ready to apply changes.
-[00:23:12] [Server thread/WARN]: [FA] [UPDATER] A new version of this plugin has been found.
-[00:23:12] [Server thread/WARN]: [FA] [UPDATER] Your version is: 1.2.0
-[00:23:12] [Server thread/WARN]: [FA] [UPDATER] Latest version is: 1.2.2
-[00:23:12] [Server thread/WARN]: [FA] [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
-[00:23:12] [Server thread/INFO]: [spark] Starting background profiler...
-[00:23:13] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[00:23:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:23:13] [Server thread/INFO]: [Geyser-Spigot] 
-[00:23:13] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b881 (git-master-17bd368)
-[00:23:13] [Server thread/INFO]: [Geyser-Spigot] 
-[00:23:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:23:17] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[00:23:17] [Server thread/INFO]: [Geyser-Spigot] Done (3.923s)! Run /geyser help for help!
-[00:23:17] [Server thread/INFO]: Done preparing level "world" (13.334s)
-[00:23:17] [Server thread/INFO]: Running delayed init tasks
-[00:23:17] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[00:23:17] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[00:23:17] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[00:23:17] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[00:23:17] [Craft Scheduler Thread - 1 - MineGuard/INFO]: [MineGuard] » You are using the latest MineGuard version (1.2.7)
-[00:23:17] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[00:23:17] [Server thread/INFO]: [Skript] Loading variables...
-[00:23:17] [Server thread/INFO]: [Skript] Loaded 50 variables in 0.0 seconds
-[00:23:17] [Server thread/INFO]: [Skript] All scripts loaded without errors.
-[00:23:17] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.33 seconds
-[00:23:17] [Server thread/INFO]: [Skript] Finished loading.
-[00:23:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[00:23:17] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
-[00:23:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[00:23:17] [Server thread/INFO]: 2 placeholder hook(s) registered!
-[00:23:17] [Server thread/INFO]: Done (28.745s)! For help, type "help"
-[00:23:25] [User Authenticator #0/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:23:25] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [AuthMe, MineGuard, SkinsRestorer, FoxAddition, LightAntiCheat, Essentials, floodgate]
-[00:23:26] [Server thread/INFO]: DroggyCursed joined the game
-[00:23:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:23:26] [Server thread/INFO]: DroggyCursed[/127.197.36.135:37347] logged in with entity id 24 at ([world]1498.7865750979277, 62.11076431274414, -713.9582839069478)
-[00:23:33] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] The user DroggyCursed has 2 accounts:
-[00:23:33] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] §7doggycursed, §aDroggyCursed§7.
-[00:23:33] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] DroggyCursed logged in 127.197.36.135
-[00:23:33] [User Authenticator #0/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
-[00:23:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:23:34] [Server thread/INFO]: casimerit202 joined the game
-[00:23:34] [Server thread/INFO]: casimerit202[/127.245.190.124:49195] logged in with entity id 289 at ([world]182.30000001192093, 86.9375, -178.33337164783364)
-[00:23:45] [User Authenticator #0/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:23:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:23:46] [Server thread/INFO]: xTaku_ joined the game
-[00:23:46] [Server thread/INFO]: xTaku_[/127.186.232.238:43045] logged in with entity id 521 at ([world]1043.1922062327212, 96.0, -207.26108633456266)
-[00:23:48] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
-[00:23:50] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:23:58] [Server thread/INFO]: xTaku_ has made the advancement [Hot Stuff]
-[00:24:06] [Server thread/INFO]: 
-[00:24:06] [Server thread/INFO]: xTaku_ failed KillAura G (Combat) Flags: 1
-[00:24:06] [Server thread/INFO]: [X: 1057, Y: 96, Z: -179] [00:24:06]
-[00:24:17] [Server thread/INFO]: xTaku_ removed one flag
-[00:24:24] [Server thread/INFO]: 
-[00:24:24] [Server thread/INFO]: DroggyCursed failed Speed A (Movement) Flags: 1
-[00:24:24] [Server thread/INFO]: [X: 1602, Y: 66, Z: -744] [00:24:24]
-[00:24:45] [Server thread/INFO]: 
-[00:24:45] [Server thread/INFO]: DroggyCursed failed Speed A (Movement) Flags: 2
-[00:24:45] [Server thread/INFO]: [X: 1648, Y: 81, Z: -763] [00:24:45]
-[00:24:45] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:24:45] [Server thread/INFO]: DroggyCursed left the game
-[00:24:47] [Craft Scheduler Thread - 14 - LightAntiCheat/ERROR]: Could not pass event LACAsyncPlayerMoveEvent to LightAntiCheat v1.2.6
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedList$LLSpliterator.forEachRemaining(LinkedList.java:1253) ~[?:?]
-	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
-	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.base/java.util.stream.DoublePipeline.collect(DoublePipeline.java:541) ~[?:?]
-	at java.base/java.util.stream.DoublePipeline.average(DoublePipeline.java:493) ~[?:?]
-	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.util.tps.TPSCalculator.getTPS(TPSCalculator.java:50) ~[LightAntiCheat-1.2.6.jar:?]
-	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.util.detection.CheckUtil.isCheckAllowed(CheckUtil.java:68) ~[LightAntiCheat-1.2.6.jar:?]
-	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.check.Check.isCheckAllowed(Check.java:73) ~[LightAntiCheat-1.2.6.jar:?]
-	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.check.checks.movement.flight.FlightA.beforeMovement(FlightA.java:288) ~[LightAntiCheat-1.2.6.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.7-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:71) ~[paper-api-1.21.7-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.7-R0.1-SNAPSHOT.jar:?]
-	at LightAntiCheat-1.2.6.jar/me.vekster.lightanticheat.event.LACEventCaller.lambda$null$0(LACEventCaller.java:60) ~[LightAntiCheat-1.2.6.jar:?]
-	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.7.jar:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:24:48] [Server thread/INFO]: xTaku_ has made the advancement [Not Today, Thank You]
-[00:24:54] [Server thread/INFO]: 
-[00:24:54] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:24:54] [Server thread/INFO]: [X: 184, Y: 87, Z: -190] [00:24:54]
-[00:25:03] [User Authenticator #1/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:25:04] [Server thread/INFO]: DroggyCursed joined the game
-[00:25:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:25:04] [Server thread/INFO]: DroggyCursed[/127.197.36.135:59363] logged in with entity id 1987 at ([world]1648.8468095284763, 81.0, -762.2040102050552)
-[00:25:04] [Server thread/INFO]: Villager Villager['Villager'/292, uuid='03950f0c-9cda-4657-bd8f-0de8a6518d42', l='ServerLevel[world]', x=196.61, y=82.00, z=-199.57, cpos=[12, -13], tl=1789, v=true] died, message: 'Villager was slain by casimerit202'
-[00:25:13] [Server thread/INFO]: Reloading!
-[00:25:14] [Server thread/INFO]: Loaded 1407 recipes
-[00:25:14] [Server thread/INFO]: Loaded 1520 advancements
-[00:25:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:25:18] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] The user DroggyCursed has 2 accounts:
-[00:25:18] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] §7doggycursed, §aDroggyCursed§7.
-[00:25:18] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] DroggyCursed logged in 127.197.36.135
-[00:25:19] [Server thread/INFO]: DroggyCursed issued server command: /plugins
-[00:25:20] [Server thread/INFO]: 
-[00:25:20] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
-[00:25:20] [Server thread/INFO]: [X: 1249, Y: 64, Z: -304] [00:25:20]
-[00:25:34] [Server thread/INFO]: 
-[00:25:34] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 2
-[00:25:34] [Server thread/INFO]: [X: 1296, Y: 64, Z: -344] [00:25:34]
-[00:25:34] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:25:34] [Server thread/INFO]: xTaku_ left the game
-[00:25:37] [User Authenticator #1/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:25:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:25:38] [Server thread/INFO]: xTaku_ joined the game
-[00:25:38] [Server thread/INFO]: xTaku_[/127.186.232.238:52615] logged in with entity id 2640 at ([world]1296.8519679739825, 64.0, -343.01343312055354)
-[00:25:45] [Craft Scheduler Thread - 37 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:25:46] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> pero lodel
-[00:25:53] [Server thread/INFO]: 
-[00:25:53] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 1
-[00:25:53] [Server thread/INFO]: [X: 185, Y: 86, Z: -185] [00:25:53]
-[00:26:02] [Async Chat Thread - #1/INFO]: [Not Secure] <xTaku_> deja reiinicio mejor
-[00:26:03] [Server thread/INFO]: xTaku_ lost connection: Disconnected
-[00:26:03] [Server thread/INFO]: xTaku_ left the game
-[00:26:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:26:18] [Server thread/INFO]: 
-[00:26:18] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:26:18] [Server thread/INFO]: [X: 185, Y: 87, Z: -198] [00:26:18]
-[00:27:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:27:54] [User Authenticator #2/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:27:55] [Server thread/INFO]: 
-[00:27:55] [Server thread/INFO]: DroggyCursed failed Speed B (Movement) Flags: 1
-[00:27:55] [Server thread/INFO]: [X: 1988, Y: 64, Z: -777] [00:27:55]
-[00:27:56] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:27:56] [Server thread/INFO]: xTaku_ joined the game
-[00:27:56] [Server thread/INFO]: xTaku_[/127.186.232.238:34459] logged in with entity id 3882 at ([world]1340.2001012344224, 66.0, -378.6056287881492)
-[00:28:04] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:28:17] [Server thread/INFO]: DroggyCursed removed one flag
-[00:28:48] [Server thread/INFO]: 
-[00:28:48] [Server thread/INFO]: DroggyCursed failed NoFall A (Movement) Flags: 1
-[00:28:48] [Server thread/INFO]: [X: 2242, Y: 65, Z: -710] [00:28:48]
-[00:29:17] [Server thread/INFO]: DroggyCursed removed one flag
-[00:30:06] [Server thread/INFO]: 
-[00:30:06] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:30:06] [Server thread/INFO]: [X: 197, Y: 88, Z: -225] [00:30:06]
-[00:30:07] [Server thread/INFO]: 
-[00:30:07] [Server thread/INFO]: casimerit202 failed Fly D (Movement) Flags: 2
-[00:30:07] [Server thread/INFO]: [X: 199, Y: 88, Z: -223] [00:30:07]
-[00:30:07] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:30:07] [Server thread/INFO]: casimerit202 left the game
-[00:30:14] [User Authenticator #3/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
-[00:30:15] [Server thread/INFO]: casimerit202 joined the game
-[00:30:15] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:30:15] [Server thread/INFO]: casimerit202[/127.245.190.124:53563] logged in with entity id 6413 at ([world]199.43413738068548, 88.7531999805212, -222.83688916228144)
-[00:30:28] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
-[00:31:11] [Server thread/INFO]: 
-[00:31:11] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 1
-[00:31:11] [Server thread/INFO]: [X: 209, Y: 86, Z: -208] [00:31:11]
-[00:31:16] [Server thread/INFO]: 
-[00:31:16] [Server thread/INFO]: DroggyCursed failed Speed A (Movement) Flags: 1
-[00:31:16] [Server thread/INFO]: [X: 2351, Y: 63, Z: -686] [00:31:16]
-[00:31:17] [Server thread/INFO]: DroggyCursed removed one flag
-[00:31:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:31:23] [Server thread/INFO]: 
-[00:31:23] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
-[00:31:23] [Server thread/INFO]: [X: 2122, Y: 68, Z: -559] [00:31:23]
-[00:31:39] [User Authenticator #4/INFO]: UUID of player freadny is 7e2f5c37-3c0d-3be7-a802-19c7fd66b123
-[00:31:40] [TAB Processing Thread/INFO]: [TAB] [WARN] Player freadny's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:31:40] [Server thread/INFO]: freadny joined the game
-[00:31:40] [Server thread/INFO]: freadny[/127.63.224.82:32783] logged in with entity id 7590 at ([world]56.5, 124.0, -91.5)
-[00:31:41] [Server thread/INFO]: freadny has made the advancement [Getting an Upgrade]
-[00:31:53] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> holaaaaa
-[00:31:55] [Server thread/INFO]: freadny lost connection: Disconnected
-[00:31:55] [Server thread/INFO]: freadny left the game
-[00:32:17] [Server thread/INFO]: xTaku_ removed one flag
-[00:32:22] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> DroggyCursed
-[00:32:24] [Async Chat Thread - #2/INFO]: [Not Secure] <xTaku_> llego tu ora
-[00:32:33] [Async Chat Thread - #2/INFO]: [Not Secure] <DroggyCursed> q paso
-[00:32:59] [Server thread/INFO]: DroggyCursed lost connection: Disconnected
-[00:32:59] [Server thread/INFO]: DroggyCursed left the game
-[00:33:49] [Server thread/INFO]: 
-[00:33:49] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:33:49] [Server thread/INFO]: [X: 186, Y: 87, Z: -188] [00:33:49]
-[00:33:50] [Server thread/INFO]: 
-[00:33:50] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 2
-[00:33:50] [Server thread/INFO]: [X: 179, Y: 88, Z: -188] [00:33:50]
-[00:33:51] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:33:51] [Server thread/INFO]: casimerit202 left the game
-[00:33:53] [User Authenticator #5/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
-[00:33:54] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:33:54] [Server thread/INFO]: casimerit202 joined the game
-[00:33:54] [Server thread/INFO]: casimerit202[/127.245.190.124:56051] logged in with entity id 8366 at ([world]179.25499701444622, 88.0, -187.89297991016284)
-[00:34:04] [User Authenticator #5/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:34:05] [Server thread/INFO]: DroggyCursed joined the game
-[00:34:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:34:05] [Server thread/INFO]: DroggyCursed[/127.197.36.135:41233] logged in with entity id 8485 at ([world]2376.620712779489, 64.0, -708.1978454403913)
-[00:34:07] [Craft Scheduler Thread - 53 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
-[00:34:12] [Server thread/INFO]: 
-[00:34:12] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:34:12] [Server thread/INFO]: [X: 170, Y: 92, Z: -188] [00:34:12]
-[00:34:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:34:35] [Server thread/INFO]: DroggyCursed lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
-[00:34:36] [Server thread/INFO]: DroggyCursed left the game
-[00:36:30] [User Authenticator #6/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
-[00:36:32] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:36:32] [Server thread/INFO]: DroggyCursedd joined the game
-[00:36:32] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:36327] logged in with entity id 9113 at ([world]62.5, 122.0, -99.5)
-[00:36:32] [Server thread/INFO]: DroggyCursedd has made the advancement [Getting an Upgrade]
-[00:36:37] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> oe
-[00:36:39] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> tramposa
-[00:36:50] [Server thread/INFO]: [AuthMe] DroggyCursedd registered 127.197.36.135
-[00:36:50] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
-[00:36:50] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
-[00:36:50] [Craft Scheduler Thread - 58 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
-[00:36:55] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> tienes razon
-[00:36:56] [Server thread/INFO]: Villager Villager['Nitwit'/371, uuid='a9b71a4e-caa9-4395-9712-080959d5e04b', l='ServerLevel[world]', x=218.58, y=89.50, z=-226.93, cpos=[13, -15], tl=15999, v=true] died, message: 'Nitwit was slain by casimerit202'
-[00:36:57] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> perdi una vida
-[00:36:59] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> deja vuelvo XD
-[00:37:11] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> pero usa tu otra tambien
-[00:37:19] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> ah?
-[00:37:19] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> estabas con xray no fall kill aura
-[00:37:23] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> rusheaste todo con hacks
-[00:37:23] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> nop
-[00:37:31] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> mamaguevo vas a decir que no descarado
-[00:37:31] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> te segui con la barra
-[00:37:33] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> usa otra y ya
-[00:37:34] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> de abajo
-[00:37:47] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> tenia acha
-[00:37:47] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> lol
-[00:37:52] [Server thread/INFO]: Made xTaku_ a server operator
-[00:37:54] [Server thread/INFO]: xTaku_ has made the advancement [Monster Hunter]
-[00:37:55] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> :V
-[00:37:56] [Server thread/INFO]: casimerit202 issued server command: /shop
-[00:37:59] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> dale
-[00:38:01] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> mata el srv ya q
-[00:38:02] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> no
-[00:38:04] [Server thread/INFO]: 
-[00:38:04] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:38:04] [Server thread/INFO]: [X: 193, Y: 87, Z: -202] [00:38:04]
-[00:38:08] [Server thread/INFO]: xTaku_ issued server command: /op DroggyCursedd
-[00:38:08] [Server thread/INFO]: [xTaku_: Made DroggyCursedd a server operator]
-[00:38:09] [Server thread/INFO]: Made xTaku_ no longer a server operator
-[00:38:13] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> no we
-[00:38:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:38:20] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> jadasjajja
-[00:38:23] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> bueno deja de hacer trampa
-[00:38:29] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> q no ise trampa
-[00:38:32] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> baboso
-[00:38:35] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> man estabas usando hacks
-[00:38:38] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> desde q entraste
-[00:38:40] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> hace rataso
-[00:38:42] [Server thread/INFO]: Villager Villager['Villager'/5256, uuid='fd025073-55d5-4369-93fe-94920e80ebdb', l='ServerLevel[world]', x=2381.14, y=64.00, z=-693.73, cpos=[148, -44], tl=11873, v=true] died, message: 'Villager was slain by xTaku_'
-[00:38:43] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> luego que rusheaste ya te los quitastes
-[00:38:44] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> XDDD
-[00:38:53] [Async Chat Thread - #4/INFO]: [Not Secure] <DroggyCursedd> pero dale te la dejo pasar
-[00:38:55] [Async Chat Thread - #4/INFO]: [Not Secure] <xTaku_> consegui hierro de la cueva cercana
-[00:38:55] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
-[00:38:55] [Server thread/INFO]: DroggyCursedd left the game
-[00:38:56] [Server thread/INFO]: 
-[00:38:56] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:38:56] [Server thread/INFO]: [X: 209, Y: 87, Z: -211] [00:38:56]
-[00:38:58] [Server thread/INFO]: 
-[00:38:58] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 2
-[00:38:58] [Server thread/INFO]: [X: 205, Y: 87, Z: -207] [00:38:58]
-[00:38:58] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:38:58] [Server thread/INFO]: casimerit202 left the game
-[00:40:02] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:40:04] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:04] [Server thread/INFO]: DroggyCursed joined the game
-[00:40:04] [Server thread/INFO]: DroggyCursed[/127.197.36.135:49011] logged in with entity id 10001 at ([world]2376.039721135075, 64.0, -709.0002451485277)
-[00:40:07] [Server thread/INFO]: 
-[00:40:07] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
-[00:40:07] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:07]
-[00:40:08] [Server thread/INFO]: 
-[00:40:08] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
-[00:40:08] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:08]
-[00:40:08] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:40:08] [Server thread/INFO]: DroggyCursed left the game
-[00:40:10] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:40:11] [Server thread/INFO]: DroggyCursed joined the game
-[00:40:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:11] [Server thread/INFO]: DroggyCursed[/127.197.36.135:33747] logged in with entity id 10009 at ([world]2376.0868318881476, 64.03999999910593, -709.0473559016001)
-[00:40:12] [Server thread/INFO]: 
-[00:40:12] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
-[00:40:12] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:12]
-[00:40:13] [Server thread/INFO]: 
-[00:40:13] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
-[00:40:13] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:13]
-[00:40:13] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:40:13] [Server thread/INFO]: DroggyCursed left the game
-[00:40:15] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:40:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:16] [Server thread/INFO]: DroggyCursed joined the game
-[00:40:16] [Server thread/INFO]: DroggyCursed[/127.197.36.135:51135] logged in with entity id 10017 at ([world]2376.122928922997, 64.03999999910593, -709.0834529364492)
-[00:40:17] [Server thread/INFO]: 
-[00:40:17] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
-[00:40:17] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:17]
-[00:40:18] [Server thread/INFO]: 
-[00:40:18] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
-[00:40:18] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:18]
-[00:40:18] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:40:18] [Server thread/INFO]: DroggyCursed left the game
-[00:40:20] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:40:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:21] [Server thread/INFO]: DroggyCursed joined the game
-[00:40:21] [Server thread/INFO]: DroggyCursed[/127.197.36.135:47891] logged in with entity id 10023 at ([world]2376.1448730270627, 64.0, -709.1751386266718)
-[00:40:22] [Server thread/INFO]: 
-[00:40:22] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
-[00:40:22] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:22]
-[00:40:23] [Server thread/INFO]: 
-[00:40:23] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
-[00:40:23] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:23]
-[00:40:23] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:40:23] [Server thread/INFO]: DroggyCursed left the game
-[00:40:25] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:40:25] [Server thread/INFO]: 
-[00:40:25] [Server thread/INFO]: xTaku_ failed NoFall A (Movement) Flags: 1
-[00:40:25] [Server thread/INFO]: [X: 2381, Y: 65, Z: -711] [00:40:25]
-[00:40:26] [Server thread/INFO]: DroggyCursed joined the game
-[00:40:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:26] [Server thread/INFO]: DroggyCursed[/127.197.36.135:56153] logged in with entity id 10030 at ([world]2376.1224637989635, 64.03999999910593, -709.2327137720687)
-[00:40:27] [Server thread/INFO]: 
-[00:40:27] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
-[00:40:27] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:27]
-[00:40:27] [Server thread/INFO]: 
-[00:40:27] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
-[00:40:27] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:27]
-[00:40:27] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:40:27] [Server thread/INFO]: DroggyCursed left the game
-[00:40:29] [User Authenticator #7/INFO]: UUID of player DroggyCursed is ed2490a3-2ce4-3bad-87d5-96bd8001fab5
-[00:40:30] [Server thread/INFO]: DroggyCursed joined the game
-[00:40:30] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursed's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:40:30] [Server thread/INFO]: DroggyCursed[/127.197.36.135:51837] logged in with entity id 10041 at ([world]2376.1196487282414, 64.0, -709.2996523549876)
-[00:40:32] [Server thread/INFO]: 
-[00:40:32] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 1
-[00:40:32] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:32]
-[00:40:33] [Server thread/INFO]: 
-[00:40:33] [Server thread/INFO]: DroggyCursed failed NoClip A (Movement) Flags: 2
-[00:40:33] [Server thread/INFO]: [X: 2376, Y: 64, Z: -710] [00:40:33]
-[00:40:33] [Server thread/INFO]: DroggyCursed lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:40:33] [Server thread/INFO]: DroggyCursed left the game
-[00:41:17] [Server thread/INFO]: xTaku_ removed one flag
-[00:41:46] [User Authenticator #8/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
-[00:41:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:41:47] [Server thread/INFO]: casimerit202 joined the game
-[00:41:47] [Server thread/INFO]: casimerit202[/127.245.190.124:60365] logged in with entity id 10185 at ([world]205.37900281077722, 87.80958890136314, -206.06717445148064)
-[00:41:58] [Craft Scheduler Thread - 52 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
-[00:42:25] [User Authenticator #8/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
-[00:42:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:42:27] [Server thread/INFO]: DroggyCursedd joined the game
-[00:42:27] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:42637] logged in with entity id 10408 at ([world]59.926056472972164, 124.0, -109.92514175453758)
-[00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
-[00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
-[00:42:34] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
-[00:43:11] [Server thread/INFO]: 
-[00:43:11] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:43:11] [Server thread/INFO]: [X: 189, Y: 87, Z: -197] [00:43:11]
-[00:43:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:45:26] [Server thread/INFO]: 
-[00:45:26] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
-[00:45:26] [Server thread/INFO]: [X: 1979, Y: 72, Z: -605] [00:45:26]
-[00:45:28] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> :v
-[00:45:43] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> ostia aldea alado
-[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (1/40)
-[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (2/40)
-[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (3/40)
-[00:45:50] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (4/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (5/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (6/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (7/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (8/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (9/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (10/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (11/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (12/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (13/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (14/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (15/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (16/40)
-[00:45:51] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (17/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (18/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (19/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (20/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (21/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (22/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (23/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (24/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (25/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (26/40)
-[00:45:52] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (27/40)
-[00:45:53] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (28/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (29/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (30/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (31/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (32/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (33/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (34/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (35/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (36/40)
-[00:45:54] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (37/40)
-[00:45:54] [Server thread/INFO]: 
-[00:45:54] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 2
-[00:45:54] [Server thread/INFO]: [X: 1846, Y: 72, Z: -590] [00:45:54]
-[00:45:54] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:45:54] [Server thread/INFO]: xTaku_ left the game
-[00:45:59] [User Authenticator #9/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:46:00] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:46:00] [Server thread/INFO]: xTaku_ joined the game
-[00:46:00] [Server thread/INFO]: xTaku_[/127.186.232.238:53005] logged in with entity id 12469 at ([world]1846.2438547958052, 72.0, -589.6909986617165)
-[00:46:04] [Craft Scheduler Thread - 68 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (38/40)
-[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (39/40)
-[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (40/40)
-[00:46:07] [Server thread/INFO]: (Light) xTaku_ was punished for SpeedC
-[00:46:07] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (1/40)
-[00:46:07] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick xTaku_ SpeedC
-[00:46:07] [Server thread/INFO]: xTaku_ lost connection: SpeedC
-[00:46:07] [Server thread/INFO]: xTaku_ left the game
-[00:46:07] [Server thread/INFO]: [Essentials] Player Console kicked xTaku_ for SpeedC.
-[00:46:11] [User Authenticator #9/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:46:12] [Server thread/INFO]: xTaku_ joined the game
-[00:46:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:46:12] [Server thread/INFO]: xTaku_[/127.186.232.238:41263] logged in with entity id 12644 at ([world]1831.7536295262055, 71.16610926093821, -591.0661290829156)
-[00:46:16] [Craft Scheduler Thread - 68 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:46:19] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (2/40)
-[00:46:19] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (3/40)
-[00:46:19] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (4/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (5/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (6/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (7/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (8/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (9/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (10/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (11/40)
-[00:46:20] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (12/40)
-[00:46:21] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (13/40)
-[00:46:21] [Server thread/INFO]: (Light) xTaku_ was flagged for SpeedC (14/40)
-[00:46:36] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> q no sirve
-[00:46:36] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> we
-[00:46:41] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> asme ss
-[00:46:44] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> maricon
-[00:46:45] [Server thread/INFO]: 
-[00:46:45] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:46:45] [Server thread/INFO]: [X: 180, Y: 87, Z: -195] [00:46:45]
-[00:46:46] [Server thread/INFO]: [FA] DroggyCursedd might be using Reach [#1].
-[00:46:47] [Server thread/INFO]: 
-[00:46:47] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 2
-[00:46:47] [Server thread/INFO]: [X: 178, Y: 87, Z: -195] [00:46:47]
-[00:46:47] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:46:47] [Server thread/INFO]: casimerit202 left the game
-[00:46:49] [Server thread/INFO]: casimerit202 (/127.245.190.124:58245) lost connection: Disconnected
-[00:46:49] [User Authenticator #9/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
-[00:46:50] [User Authenticator #9/INFO]: UUID of player casimerit202 is 1de543ae-9c1e-3e3a-bd54-71d52ebb336a
-[00:46:51] [Server thread/INFO]: casimerit202 joined the game
-[00:46:51] [TAB Processing Thread/INFO]: [TAB] [WARN] Player casimerit202's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:46:51] [Server thread/INFO]: casimerit202[/127.245.190.124:33433] logged in with entity id 13052 at ([world]178.87229353239206, 87.9375, -194.24391466165073)
-[00:46:54] [Server thread/INFO]: 
-[00:46:54] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
-[00:46:54] [Server thread/INFO]: [X: 1681, Y: 66, Z: -563] [00:46:54]
-[00:47:03] [Craft Scheduler Thread - 39 - AuthMe/INFO]: [AuthMe] casimerit202 logged in 127.245.190.124
-[00:47:05] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> te grabare mi pantalla y te mandare al dc
-[00:47:07] [Async Chat Thread - #6/INFO]: [Not Secure] <xTaku_> cabraso
-[00:47:14] [Server thread/INFO]: 
-[00:47:14] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 2
-[00:47:14] [Server thread/INFO]: [X: 1633, Y: 72, Z: -565] [00:47:14]
-[00:47:14] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:47:14] [Server thread/INFO]: xTaku_ left the game
-[00:47:19] [User Authenticator #9/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:47:20] [Server thread/INFO]: xTaku_ joined the game
-[00:47:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:47:20] [Server thread/INFO]: xTaku_[/127.186.232.238:39635] logged in with entity id 13335 at ([world]1633.4101611612944, 72.0, -564.9290905863478)
-[00:47:24] [Craft Scheduler Thread - 62 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:47:37] [Server thread/WARN]: [SimpleScore] Task #390841 for SimpleScore v3.12.5 generated an exception
-java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
-	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
-	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
-	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getShouldRender(PlayerLine.kt:22) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:133) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
-	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:48:19] [Server thread/INFO]: xTaku_ lost connection: Timed out
-[00:48:19] [Server thread/INFO]: xTaku_ left the game
-[00:48:25] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:48:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:48:26] [Server thread/INFO]: xTaku_ joined the game
-[00:48:26] [Server thread/INFO]: xTaku_[/127.186.232.238:42281] logged in with entity id 13882 at ([world]1631.8439200003631, 72.0, -564.7256910523203)
-[00:48:34] [Craft Scheduler Thread - 63 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:48:36] [Server thread/INFO]: 
-[00:48:36] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
-[00:48:36] [Server thread/INFO]: [X: 1629, Y: 72, Z: -565] [00:48:36]
-[00:49:03] [Server thread/INFO]: 
-[00:49:03] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 2
-[00:49:03] [Server thread/INFO]: [X: 1520, Y: 69, Z: -567] [00:49:03]
-[00:49:03] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:49:03] [Server thread/INFO]: xTaku_ left the game
-[00:49:10] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:49:11] [Server thread/INFO]: xTaku_ joined the game
-[00:49:11] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:49:11] [Server thread/INFO]: xTaku_[/127.186.232.238:39557] logged in with entity id 14403 at ([world]1520.0376288445018, 69.0, -566.0286788659209)
-[00:49:15] [Server thread/INFO]: 
-[00:49:15] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:49:15] [Server thread/INFO]: [X: 192, Y: 87, Z: -190] [00:49:15]
-[00:49:15] [Craft Scheduler Thread - 61 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:49:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:49:44] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:49:44] [Server thread/INFO]: Disconnecting xTaku_ (/127.186.232.238:39651): The same username is already playing on the server!
-[00:49:45] [Server thread/INFO]: xTaku_ (/127.186.232.238:39651) lost connection: The same username is already playing on the server!
-[00:49:46] [Server thread/INFO]: xTaku_ lost connection: Timed out
-[00:49:46] [Server thread/INFO]: xTaku_ left the game
-[00:49:51] [User Authenticator #10/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:49:52] [Server thread/INFO]: xTaku_ joined the game
-[00:49:52] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:49:52] [Server thread/INFO]: xTaku_[/127.186.232.238:52069] logged in with entity id 14753 at ([world]1520.0376288445018, 69.0, -566.0286788659209)
-[00:49:57] [Craft Scheduler Thread - 69 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:50:09] [Server thread/INFO]: DroggyCursedd issued server command: /skin set DoggyCursed
-[00:50:16] [Server thread/INFO]: 
-[00:50:16] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 1
-[00:50:16] [Server thread/INFO]: [X: 1425, Y: 70, Z: -537] [00:50:16]
-[00:50:17] [Server thread/INFO]: xTaku_ removed one flag
-[00:50:21] [Server thread/INFO]: xTaku_ lost connection: Disconnected
-[00:50:21] [Server thread/INFO]: xTaku_ left the game
-[00:50:31] [Server thread/INFO]: 
-[00:50:31] [Server thread/INFO]: casimerit202 failed Jump A (Movement) Flags: 1
-[00:50:31] [Server thread/INFO]: [X: 185, Y: 87, Z: -244] [00:50:31]
-[00:50:41] [Server thread/INFO]: DroggyCursedd has made the advancement [Stone Age]
-[00:51:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:51:47] [Server thread/INFO]: 
-[00:51:47] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 1
-[00:51:47] [Server thread/INFO]: [X: 163, Y: 66, Z: -326] [00:51:47]
-[00:52:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:52:50] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursedd> casimiro ese man se rindio
-[00:52:54] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursedd> de tanto hackear xd
-[00:53:26] [Server thread/INFO]: [✖] casimerit202 voló por los aires gracias a un Creeper con exceso de cariño. Le queda 1 vida.
-[00:53:28] [User Authenticator #11/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:53:29] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:53:29] [Server thread/INFO]: xTaku_ joined the game
-[00:53:29] [Server thread/INFO]: xTaku_[/127.186.232.238:50027] logged in with entity id 16121 at ([world]1423.1101465933796, 70.0, -534.5113625699443)
-[00:53:31] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursedd> noooo
-[00:53:35] [Craft Scheduler Thread - 74 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:53:37] [Async Chat Thread - #8/INFO]: [Not Secure] <xTaku_> siiii
-[00:53:37] [Server thread/INFO]: 
-[00:53:37] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
-[00:53:37] [Server thread/INFO]: [X: 1421, Y: 70, Z: -534] [00:53:37]
-[00:53:38] [Server thread/INFO]: 
-[00:53:38] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 1
-[00:53:38] [Server thread/INFO]: [X: 89, Y: 108, Z: -134] [00:53:38]
-[00:53:44] [Server thread/INFO]: xTaku_ lost connection: Disconnected
-[00:53:44] [Server thread/INFO]: xTaku_ left the game
-[00:54:02] [Async Chat Thread - #8/INFO]: [Not Secure] <DroggyCursedd> ya sabes q hacer si pierdes la vida xD
-[00:54:17] [Server thread/INFO]: xTaku_ removed one flag
-[00:54:17] [Server thread/INFO]: casimerit202 removed one flag
-[00:54:19] [Server thread/INFO]: DroggyCursedd issued server command: /deop DroggyCursedd
-[00:54:19] [Server thread/INFO]: [DroggyCursedd: Made DroggyCursedd no longer a server operator]
-[00:54:33] [User Authenticator #12/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[00:54:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:54:34] [Server thread/INFO]: xTaku_ joined the game
-[00:54:34] [Server thread/INFO]: xTaku_[/127.186.232.238:47885] logged in with entity id 16819 at ([world]1396.2956755451046, 68.0, -538.8624073939975)
-[00:54:52] [Craft Scheduler Thread - 71 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[00:54:55] [Async Chat Thread - #8/INFO]: [Not Secure] <xTaku_> ya te mande
-[00:54:59] [Server thread/INFO]: 
-[00:54:59] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 1
-[00:54:59] [Server thread/INFO]: [X: 147, Y: 80, Z: -315] [00:54:59]
-[00:55:00] [Server thread/INFO]: 
-[00:55:00] [Server thread/INFO]: casimerit202 failed Speed A (Movement) Flags: 2
-[00:55:00] [Server thread/INFO]: [X: 147, Y: 80, Z: -314] [00:55:00]
-[00:55:00] [Server thread/INFO]: casimerit202 lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:55:00] [Server thread/INFO]: casimerit202 left the game
-[00:55:41] [Server thread/INFO]: 
-[00:55:41] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 1
-[00:55:41] [Server thread/INFO]: [X: -310, Y: 81, Z: -9] [00:55:41]
-[00:55:43] [Server thread/INFO]: 
-[00:55:43] [Server thread/INFO]: DroggyCursedd failed NoFall A (Movement) Flags: 2
-[00:55:43] [Server thread/INFO]: [X: -313, Y: 75, Z: -7] [00:55:43]
-[00:55:43] [Server thread/INFO]: DroggyCursedd lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[00:55:43] [Server thread/INFO]: DroggyCursedd left the game
-[00:55:46] [Async Chat Thread - #8/INFO]: [Not Secure] <xTaku_> ya te mande cabraso
-[00:55:47] [User Authenticator #13/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
-[00:55:48] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:55:48] [Server thread/INFO]: DroggyCursedd joined the game
-[00:55:48] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:55987] logged in with entity id 17447 at ([world]-312.26606104219354, 75.0, -6.3129455197151945)
-[00:55:50] [Async Chat Thread - #8/INFO]: [Not Secure] <xTaku_> ya te mande cabraso
-[00:55:51] [Async Chat Thread - #8/INFO]: [Not Secure] <xTaku_> mira
-[00:55:55] [Craft Scheduler Thread - 67 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
-[00:55:55] [Craft Scheduler Thread - 67 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
-[00:55:55] [Craft Scheduler Thread - 67 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
-[00:57:50] [Async Chat Thread - #10/INFO]: [Not Secure] <xTaku_> cuantas vidas son?
-[00:57:53] [Async Chat Thread - #10/INFO]: [Not Secure] <DroggyCursedd> 3
-[00:57:57] [Async Chat Thread - #10/INFO]: [Not Secure] <xTaku_> ah
-[00:58:53] [Server thread/INFO]: 
-[00:58:53] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
-[00:58:53] [Server thread/INFO]: [X: 624, Y: 79, Z: -384] [00:58:53]
-[00:58:59] [Async Chat Thread - #12/INFO]: [Not Secure] <xTaku_> te m,ande video
-[00:59:00] [Server thread/INFO]: (Light) DroggyCursedd was flagged for FlightC (1/40)
-[00:59:02] [Async Chat Thread - #12/INFO]: [Not Secure] <xTaku_> por pruebas
-[00:59:06] [Server thread/INFO]: DroggyCursedd has made the advancement [Monster Hunter]
-[00:59:17] [Server thread/INFO]: xTaku_ removed one flag
-[00:59:27] [Server thread/INFO]: 
-[00:59:27] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
-[00:59:27] [Server thread/INFO]: [X: 506, Y: 73, Z: -351] [00:59:27]
-[00:59:48] [Async Chat Thread - #12/INFO]: [Not Secure] <DroggyCursedd> dale en un rato meto no fall y menos capacidad de vuelo
-[01:00:02] [Async Chat Thread - #12/INFO]: [Not Secure] <xTaku_> va
-[01:00:04] [Server thread/INFO]: 
-[01:00:04] [Server thread/INFO]: DroggyCursedd failed AntiKnockBack A (Movement) Flags: 1
-[01:00:04] [Server thread/INFO]: [X: -413, Y: 49, Z: -70] [01:00:04]
-[01:00:16] [Server thread/INFO]: 
-[01:00:16] [Server thread/INFO]: xTaku_ failed Speed B (Movement) Flags: 2
-[01:00:16] [Server thread/INFO]: [X: 254, Y: 88, Z: -314] [01:00:16]
-[01:00:16] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[01:00:16] [Server thread/INFO]: xTaku_ left the game
-[01:00:17] [Server thread/INFO]: DroggyCursedd removed one flag
-[01:00:18] [Server thread/WARN]: [SimpleScore] Task #575860 for SimpleScore v3.12.5 generated an exception
-java.lang.IndexOutOfBoundsException: Index 2 out of bounds for length 2
-	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
-	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
-	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
-	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.models.PlayerLine.getCurrentText(PlayerLine.kt:13) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboard(ScoreboardTask.kt:136) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.getPlayerScoreboards(ScoreboardTask.kt:102) ~[SimpleScore-3.12.5.jar:?]
-	at SimpleScore-3.12.5.jar/com.r4g3baby.simplescore.scoreboard.tasks.ScoreboardTask.run$lambda$8(ScoreboardTask.kt:76) ~[SimpleScore-3.12.5.jar:?]
-	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1662) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1530) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1252) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.7.jar:1.21.7-27-d9b5003]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:00:21] [User Authenticator #14/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[01:00:22] [Server thread/INFO]: xTaku_ joined the game
-[01:00:22] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:00:22] [Server thread/INFO]: xTaku_[/127.186.232.238:57763] logged in with entity id 19855 at ([world]253.9773685293404, 88.83999997377396, -312.9645361799901)
-[01:00:26] [Craft Scheduler Thread - 76 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[01:00:48] [Server thread/INFO]: 
-[01:00:48] [Server thread/INFO]: xTaku_ failed NoFall A (Movement) Flags: 1
-[01:00:48] [Server thread/INFO]: [X: 152, Y: 74, Z: -319] [01:00:48]
-[01:01:17] [Server thread/INFO]: xTaku_ removed one flag
-[01:01:49] [Server thread/INFO]: 
-[01:01:49] [Server thread/INFO]: xTaku_ failed Speed A (Movement) Flags: 1
-[01:01:49] [Server thread/INFO]: [X: -137, Y: 91, Z: -227] [01:01:49]
-[01:02:02] [Async Chat Thread - #15/INFO]: [Not Secure] <xTaku_> ...
-[01:02:17] [Server thread/INFO]: xTaku_ removed one flag
-[01:02:24] [Server thread/INFO]: 
-[01:02:24] [Server thread/INFO]: xTaku_ failed NoFall A (Movement) Flags: 1
-[01:02:24] [Server thread/INFO]: [X: -251, Y: 96, Z: -187] [01:02:24]
-[01:02:27] [Server thread/INFO]: Made DroggyCursed a server operator
-[01:02:33] [Server thread/INFO]: Made DroggyCursedd a server operator
-[01:02:36] [Server thread/INFO]: DroggyCursedd issued server command: /gamemode spectator
-[01:02:38] [Server thread/INFO]: DroggyCursedd issued server command: /tp xTaku_
-[01:02:49] [Server thread/INFO]: DroggyCursedd issued server command: /vanish
-[01:03:15] [Server thread/INFO]: DroggyCursedd issued server command: /gamemode survival
-[01:03:16] [Server thread/INFO]: 
-[01:03:16] [Server thread/INFO]: xTaku_ failed AntiKnockBack A (Movement) Flags: 2
-[01:03:16] [Server thread/INFO]: [X: -330, Y: 95, Z: -158] [01:03:16]
-[01:03:16] [Server thread/INFO]: xTaku_ lost connection: [MineGuard]
-
-You have been kicked from the network
-
-We suspect you are using client modifications (3rd-party software)
-[01:03:16] [Server thread/INFO]: xTaku_ left the game
-[01:03:19] [User Authenticator #15/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[01:03:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:03:20] [Server thread/INFO]: xTaku_ joined the game
-[01:03:20] [Server thread/INFO]: xTaku_[/127.186.232.238:43833] logged in with entity id 21006 at ([world]-329.5265568136432, 95.0, -157.45047371017844)
-[01:03:28] [Craft Scheduler Thread - 80 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[01:03:51] [Server thread/INFO]: xTaku_ lost connection: Disconnected
-[01:03:51] [Server thread/INFO]: xTaku_ left the game
-[01:04:00] [Server thread/INFO]: DroggyCursedd issued server command: /back
-[01:04:03] [Server thread/INFO]: DroggyCursedd issued server command: /gamemode survival
-[01:04:09] [User Authenticator #15/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[01:04:09] [Server thread/INFO]: DroggyCursedd issued server command: /vanish
-[01:04:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:04:10] [Server thread/INFO]: xTaku_ joined the game
-[01:04:10] [Server thread/INFO]: xTaku_[/127.186.232.238:48581] logged in with entity id 21210 at ([world]-296.73708797104825, 81.04714894170455, -103.63599991844029)
-[01:04:17] [Craft Scheduler Thread - 86 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[01:04:18] [Async Chat Thread - #16/INFO]: [Not Secure] <xTaku_> tramposa
-[01:04:31] [Server thread/INFO]: 
-[01:04:31] [Server thread/INFO]: xTaku_ failed NoFall A (Movement) Flags: 1
-[01:04:31] [Server thread/INFO]: [X: -285, Y: 90, Z: -114] [01:04:31]
-[01:04:37] [Server thread/INFO]: DroggyCursedd issued server command: /kick xTaku_ no fall
-[01:04:37] [Server thread/INFO]: xTaku_ lost connection: no fall
-[01:04:37] [Server thread/INFO]: xTaku_ left the game
-[01:04:37] [Server thread/INFO]: [Essentials] Player DroggyCursedd kicked xTaku_ for no fall.
-[01:04:40] [User Authenticator #15/INFO]: UUID of player xTaku_ is da783bff-962a-3abd-a7e4-fe6da5ab3e53
-[01:04:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xTaku_'s group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:04:41] [Server thread/INFO]: xTaku_ joined the game
-[01:04:41] [Server thread/INFO]: xTaku_[/127.186.232.238:43509] logged in with entity id 21286 at ([world]-301.98209384332426, 99.24947197770308, -111.4418545458596)
-[01:04:46] [Server thread/INFO]: DroggyCursedd has made the advancement [Acquire Hardware]
-[01:04:47] [Craft Scheduler Thread - 89 - AuthMe/INFO]: [AuthMe] xTaku_ logged in 127.186.232.238
-[01:04:49] [Async Chat Thread - #16/INFO]: [Not Secure] <xTaku_> nono
-[01:04:51] [Async Chat Thread - #16/INFO]: [Not Secure] <xTaku_> uy
-[01:05:17] [Server thread/INFO]: xTaku_ removed one flag
-[01:05:38] [Server thread/INFO]: 
-[01:05:38] [Server thread/INFO]: xTaku_ failed NoFall A (Movement) Flags: 1
-[01:05:38] [Server thread/INFO]: [X: -267, Y: 104, Z: -231] [01:05:38]
-[01:05:44] [Server thread/INFO]: DroggyCursedd has made the advancement [Suit Up]
-[01:06:04] [Server thread/INFO]: DroggyCursedd issued server command: /vanish
-[01:06:08] [Server thread/INFO]: DroggyCursedd issued server command: /gamemode spectator
-[01:06:09] [Server thread/INFO]: DroggyCursedd issued server command: /tp xTaku_
-[01:06:12] [Async Chat Thread - #18/INFO]: [Not Secure] <xTaku_> i see you.....
-[01:06:17] [Server thread/INFO]: xTaku_ removed one flag
-[01:06:29] [Server thread/INFO]: DroggyCursedd issued server command: /ban xTaku_
-[01:06:29] [Server thread/INFO]: xTaku_ lost connection: You have been banned:
-The Ban Hammer has spoken!
-[01:06:29] [Server thread/INFO]: xTaku_ left the game
-[01:06:29] [Server thread/INFO]: [Essentials] Player DroggyCursedd banned xTaku_ for: \<secondary>You have been banned:
-\<reset>The Ban Hammer has spoken!.
-[01:06:35] [Server thread/INFO]: DroggyCursedd issued server command: /banip xTaku_
-[01:06:35] [Server thread/INFO]: [Essentials] Player DroggyCursedd banned IP address 127.186.232.238 for: The Ban Hammer has spoken!.
-[01:07:00] [Server thread/INFO]: DroggyCursedd issued server command: /gamemode survival
-[01:08:42] [Server thread/INFO]: DroggyCursedd issued server command: /back
-[01:08:55] [Server thread/INFO]: DroggyCursedd issued server command: /deop DroggyCursedd
-[01:08:55] [Server thread/INFO]: [DroggyCursedd: Made DroggyCursedd no longer a server operator]
-[01:09:11] [Server thread/INFO]: DroggyCursedd issued server command: /vanish
-[01:09:11] [Server thread/INFO]: [Essentials] DroggyCursedd was denied access to command.
-[01:09:27] [Server thread/INFO]: Made DroggyCursedd a server operator
-[01:09:33] [Server thread/INFO]: DroggyCursedd issued server command: /vanish
-[01:09:38] [Server thread/INFO]: DroggyCursedd issued server command: /deop DroggyCursedd
-[01:09:38] [Server thread/INFO]: [DroggyCursedd: Made DroggyCursedd no longer a server operator]
-[01:10:59] [Server thread/INFO]: (Light) DroggyCursedd was flagged for CriticalsA (1/1)
-[01:10:59] [Server thread/INFO]: (Light) DroggyCursedd was punished for CriticalsA
-[01:10:59] [Server thread/INFO]: (Light) DroggyCursedd was flagged for CriticalsA (1/1)
-[01:10:59] [Server thread/INFO]: (Light) DroggyCursedd was punished for CriticalsA
-[01:10:59] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick DroggyCursedd CriticalsA
-[01:10:59] [Server thread/INFO]: DroggyCursedd lost connection: CriticalsA
-[01:10:59] [Server thread/INFO]: DroggyCursedd left the game
-[01:10:59] [Server thread/INFO]: [Essentials] Player Console kicked DroggyCursedd for CriticalsA.
-[01:10:59] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick DroggyCursedd CriticalsA
-[01:10:59] [Server thread/INFO]: Error: Player not found.
-[01:11:02] [User Authenticator #16/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
-[01:11:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:11:03] [Server thread/INFO]: DroggyCursedd joined the game
-[01:11:03] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:44613] logged in with entity id 22054 at ([world]-385.09707936832973, 21.0, -91.74344779189812)
-[01:11:11] [Craft Scheduler Thread - 95 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
-[01:11:11] [Craft Scheduler Thread - 95 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
-[01:11:11] [Craft Scheduler Thread - 95 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
-[01:12:17] [Server thread/INFO]: (Light) DroggyCursedd was flagged for CriticalsA (1/1)
-[01:12:17] [Server thread/INFO]: (Light) DroggyCursedd was punished for CriticalsA
-[01:12:17] [Server thread/INFO]: (Light) DroggyCursedd was flagged for CriticalsA (1/1)
-[01:12:17] [Server thread/INFO]: (Light) DroggyCursedd was punished for CriticalsA
-[01:12:17] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick DroggyCursedd CriticalsA
-[01:12:17] [Server thread/INFO]: DroggyCursedd lost connection: CriticalsA
-[01:12:17] [Server thread/INFO]: DroggyCursedd left the game
-[01:12:17] [Server thread/INFO]: [Essentials] Player Console kicked DroggyCursedd for CriticalsA.
-[01:12:17] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick DroggyCursedd CriticalsA
-[01:12:17] [Server thread/INFO]: Error: Player not found.
-[01:12:20] [User Authenticator #17/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
-[01:12:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:12:21] [Server thread/INFO]: DroggyCursedd joined the game
-[01:12:21] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:58129] logged in with entity id 22167 at ([world]-384.7966275574822, 19.04289683901331, -94.30000001192093)
-[01:12:29] [Craft Scheduler Thread - 82 - AuthMe/INFO]: [AuthMe] DroggyCursedd used the wrong password
-[01:12:29] [Server thread/INFO]: DroggyCursedd lost connection: Wrong password!
-[01:12:29] [Server thread/INFO]: DroggyCursedd left the game
-[01:12:32] [User Authenticator #17/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
-[01:12:33] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:12:33] [Server thread/INFO]: DroggyCursedd joined the game
-[01:12:33] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:46293] logged in with entity id 22175 at ([world]-384.7966275574822, 19.0, -94.30000001192093)
-[01:12:37] [Craft Scheduler Thread - 99 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
-[01:12:37] [Craft Scheduler Thread - 99 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
-[01:12:37] [Craft Scheduler Thread - 99 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
-[01:13:29] [Server thread/INFO]: DroggyCursedd lost connection: Disconnected
-[01:13:29] [Server thread/INFO]: DroggyCursedd left the game
-[02:11:32] [User Authenticator #18/INFO]: UUID of player carlitos123 is dcbc9b66-8496-36a1-9823-f3f11b1bcf0d
-[02:11:32] [Server thread/INFO]: Disconnecting carlitos123 (/127.86.67.158:55001): Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
-[02:11:32] [Server thread/INFO]: carlitos123 (/127.86.67.158:55001) lost connection: Your IP address is banned from this server. Reason: The Ban Hammer has spoken!
+[04:08:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[04:08:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) for Minecraft 1.21.7
+[04:08:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:08:41] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[04:08:41] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - AuthMe (5.6.0-bCUSTOM), Essentials (2.21.1), EssentialsSpawn (2.21.1), FoxAddition (1.2.0), Geyser-Spigot (2.8.2-SNAPSHOT), MineGuard (1.2.7), PlaceholderAPI (2.11.6), SimpleScore (3.12.5), SkinsRestorer (15.7.6), Skript (2.11.2), TAB (5.2.4), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[04:08:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:08:48] [ServerMain/INFO]: Loaded 1407 recipes
+[04:08:48] [ServerMain/INFO]: Loaded 1520 advancements
+[04:08:48] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[04:08:48] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 505.0ms
+[04:08:49] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[04:08:49] [Server thread/INFO]: Loading properties
+[04:08:49] [Server thread/INFO]: This server is running Paper version 1.21.7-27-main@d9b5003 (2025-07-14T16:06:02Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[04:08:49] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:08:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:08:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:08:50] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:08:50] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:08:50] [Server thread/INFO]: Default game type: SURVIVAL
+[04:08:50] [Server thread/INFO]: Generating keypair
+[04:08:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:08:50] [Server thread/INFO]: Using epoll channel type
+[04:08:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:08:51] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[04:08:51] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[04:08:51] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:08:52] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[04:08:52] [Server thread/INFO]: [floodgate] Took 758ms to boot Floodgate
+[04:08:52] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[04:08:52] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.1
+[04:08:52] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[04:08:53] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[04:08:53] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[04:08:53] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[04:08:53] [Server thread/INFO]: [MineGuard] Loading server plugin MineGuard v1.2.7
+[04:08:53] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.11.2
+[04:08:53] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[04:08:53] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[04:08:53] [Server thread/INFO]: [FA] Loading server plugin FoxAddition v1.2.0
+[04:08:53] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.6
+[04:08:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:08:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.6
+[04:08:53] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[04:08:53] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[04:08:54] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:08:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.6]
+[04:08:54] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[04:08:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:08:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:08:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:08:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:08:54] [Server thread/INFO]: Preparing level "world"
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.6
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9abea93
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:08:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:08:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:08:54] [Server thread/INFO]: Preparing spawn area: 0%
+[04:08:55] [Server thread/INFO]: Preparing spawn area: 2%
+[04:08:55] [Server thread/INFO]: Preparing spawn area: 2%
+[04:08:55] [Server thread/INFO]: Time elapsed: 1167 ms
+[04:08:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:08:55] [Server thread/INFO]: Preparing spawn area: 0%
+[04:08:56] [Server thread/INFO]: Time elapsed: 284 ms
+[04:08:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:08:56] [Server thread/INFO]: Preparing spawn area: 0%
+[04:08:56] [Server thread/INFO]: Time elapsed: 106 ms
+[04:08:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[04:08:56] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[04:08:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:08:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[04:08:56] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[04:08:57] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[04:08:57] [Server thread/INFO]: [Essentials] Using locale en
+[04:08:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:08:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:08:57] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[04:08:57] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:08:57] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[04:08:58] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[04:08:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.1
+[04:08:58] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[04:08:58] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[04:08:58] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[04:08:58] [Server thread/INFO]: [TAB] Enabled in 288ms
+[04:08:58] [Server thread/INFO]: [MineGuard] Enabling MineGuard v1.2.7
+[04:08:58] [Server thread/INFO]: ███╗   ███╗██╗███╗   ██╗███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ 
+[04:08:58] [Server thread/INFO]: ████╗ ████║██║████╗  ██║██╔════╝██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
+[04:08:58] [Server thread/INFO]: ██╔████╔██║██║██╔██╗ ██║█████╗  ██║  ███╗██║   ██║███████║██████╔╝██║  ██║
+[04:08:58] [Server thread/INFO]: ██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
+[04:08:58] [Server thread/INFO]: ██║ ╚═╝ ██║██║██║ ╚████║███████╗╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
+[04:08:58] [Server thread/INFO]: ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+[04:08:58] [Server thread/INFO]: [MineGuard] » MineGuard Anticheat loaded
+[04:08:58] [Server thread/INFO]: [MineGuard] » MineGuard relies heavily on server TPS!
+[04:08:58] [Server thread/INFO]: [MineGuard] » Do you have suggestions for MineGuard or want quick support?
+[04:08:58] [Server thread/INFO]: [MineGuard] » Join the MineGuard Discord now! https://discord.gg/Bp5t3Z8hJz
+[04:08:58] [Server thread/INFO]: [Skript] Enabling Skript v2.11.2
+[04:08:59] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[04:09:00] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[04:09:00] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[04:09:01] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[04:09:01] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[04:09:01] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[04:09:01] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04:09:01] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[04:09:01] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[04:09:02] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
+[04:09:02] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
+[04:09:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[04:09:02] [Server thread/INFO]: [FA] Enabling FoxAddition v1.2.0
+[04:09:02] [Server thread/INFO]: [FA]                           
+[04:09:02] [Server thread/INFO]: [FA] ______                         _      _  _  _    _                 
+[04:09:02] [Server thread/INFO]: [FA] |  ____|             /\       | |    | |(_)| |  (_)              
+[04:09:02] [Server thread/INFO]: [FA] | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
+[04:09:02] [Server thread/INFO]: [FA] |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
+[04:09:02] [Server thread/INFO]: [FA] | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
+[04:09:02] [Server thread/INFO]: [FA] |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
+[04:09:02] [Server thread/INFO]: [FA]          Powered by https://www.idcteam.xyz/
+[04:09:02] [Server thread/INFO]: [FA]                           
+[04:09:02] [Server thread/INFO]: [FA]                  Created by NovaCraft254
+[04:09:02] [Server thread/INFO]: [FA]         Running on 1.21.7-27-d9b5003 (MC: 1.21.7)
+[04:09:02] [Server thread/INFO]: [FA]                           
+[04:09:02] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs started...
+[04:09:02] [Server thread/INFO]: [FA] [LOGS] The cleanup of old logs finished.
+[04:09:02] [Server thread/INFO]: [FA] [PHASE] Detecting automatically your version...
+[04:09:02] [Server thread/INFO]: [FA] [HOOK] Geyser (with Floodgate) has been hooked.
+[04:09:02] [Server thread/INFO]: [FA] [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
+[04:09:02] [Server thread/INFO]: [FA] [HOOK] PlaceholderAPI has been hooked.
+[04:09:02] [Server thread/INFO]: [FA] [FILES] FileWatcher is now enabled and ready to apply changes.
+[04:09:02] [Server thread/WARN]: [FA] [UPDATER] A new version of this plugin has been found.
+[04:09:02] [Server thread/WARN]: [FA] [UPDATER] Your version is: 1.2.0
+[04:09:02] [Server thread/WARN]: [FA] [UPDATER] Latest version is: 1.2.2
+[04:09:02] [Server thread/WARN]: [FA] [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
+[04:09:02] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5504 aliases in 2102ms
+[04:09:02] [Server thread/INFO]: [spark] Starting background profiler...
+[04:09:03] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[04:09:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:09:03] [Server thread/INFO]: [Geyser-Spigot] 
+[04:09:03] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b881 (git-master-17bd368)
+[04:09:03] [Server thread/INFO]: [Geyser-Spigot] 
+[04:09:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[04:09:07] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[04:09:07] [Server thread/INFO]: [Geyser-Spigot] Done (3.983s)! Run /geyser help for help!
+[04:09:07] [Server thread/INFO]: Done preparing level "world" (13.257s)
+[04:09:07] [Server thread/INFO]: Running delayed init tasks
+[04:09:07] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04:09:07] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04:09:07] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04:09:07] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[04:09:07] [Craft Scheduler Thread - 4 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[04:09:07] [Craft Scheduler Thread - 1 - MineGuard/INFO]: [MineGuard] » You are using the latest MineGuard version (1.2.7)
+[04:09:07] [Server thread/INFO]: [Skript] Loading variables...
+[04:09:07] [Server thread/INFO]: [Skript] Loaded 54 variables in 0.0 seconds
+[04:09:07] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[04:09:07] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 4 structures in 0.38 seconds
+[04:09:07] [Server thread/INFO]: [Skript] Finished loading.
+[04:09:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[04:09:07] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[04:09:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[04:09:07] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[04:09:07] [Server thread/INFO]: Done (28.057s)! For help, type "help"
+[04:09:12] [User Authenticator #0/INFO]: UUID of player DroggyCursedd is 67ac4d07-f4ae-36e9-84a9-0bebeea06564
+[04:09:12] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [AuthMe, MineGuard, SkinsRestorer, FoxAddition, Essentials, floodgate]
+[04:09:15] [Server thread/INFO]: DroggyCursedd joined the game
+[04:09:15] [TAB Processing Thread/INFO]: [TAB] [WARN] Player DroggyCursedd's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:09:15] [Server thread/INFO]: DroggyCursedd[/127.197.36.135:53173] logged in with entity id 26 at ([world]-382.709678903693, 23.0, -89.86903859213479)
+[04:09:20] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] The user DroggyCursedd has 3 accounts:
+[04:09:20] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] §7doggycursed, droggycursed, §aDroggyCursedd§7.
+[04:09:20] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] DroggyCursedd logged in 127.197.36.135
+[04:09:27] [Server thread/INFO]: DroggyCursedd has made the advancement [Isn't It Iron Pick]
