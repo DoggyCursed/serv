@@ -40,3 +40,6 @@
 [2025-07-15 05:22:39] [ALERT] DroggyCursedd detected Reach (Hit) [in:vertical] [distance:5.306766547678642/4.1] [ping:-1] [vls:1(+1)]
 [2025-07-15 05:23:49] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:27/50] [vls:2(+2)]
 [2025-07-15 05:27:06] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:43/50] [vls:2(+2)]
+[2025-07-15 05:48:36] 
+[2025-07-15 05:48:36] [STARTUP] Starting server with 1.21.7-27-d9b5003 (MC: 1.21.7) [1.21.7-R0.1-SNAPSHOT] in FoxAddition v1.2.0
+[2025-07-15 05:53:30] [ALERT] DroggyCursedd detected FastSwitch [BadPackets] [interval:16/50] [vls:2(+2)]
